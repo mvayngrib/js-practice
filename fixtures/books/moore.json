@@ -1,0 +1,1634 @@
+{
+  "id": "16218",
+  "name": "Christopher Moore",
+  "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "34",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "28881"
+        },
+        "isbn": "0380813815",
+        "isbn13": "9780380813810",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10428"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.IcwhiJssdUEvFIHw37eWRg",
+        "title": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "title_without_series": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331419009l/28881._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331419009l/28881._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/28881.Lamb",
+        "num_pages": "444",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "William Morrow / HarperCollins / Harper Perennial",
+        "publication_day": "25",
+        "publication_year": "2004",
+        "publication_month": "5",
+        "average_rating": "4.25",
+        "ratings_count": "146154",
+        "description": "The birth of Jesus has been well chronicled, as have his glorious teachings, acts, and divine sacrifice after his thirtieth birthday. But no one knows about the early life of the Son of God, the missing years—except Biff, the Messiah's best bud, who has been resurrected to tell the story in the divinely hilarious yet heartfelt work \"reminiscent of Vonnegut and Douglas Adams\" (<i>Philadelphia Inquirer</i>).<br /><br />Verily, the story Biff has to tell is a miraculous one, filled with remarkable journeys, magic, healings, kung fu, corpse reanimations, demons, and hot babes. Even the considerable wiles and devotion of the Savior's pal may not be enough to divert Joshua from his tragic destiny. But there's no one who loves Josh more—except maybe \"Maggie,\" Mary of Magdala—and Biff isn't about to let his extraordinary pal suffer and ascend without a fight.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "3346728",
+          "uri": "kca://work/amzn1.gr.work.v1.h5urKAGOLwa07dGajMtwbA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33456"
+        },
+        "isbn": "0060590270",
+        "isbn13": "9780060590277",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "5502"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.e8Ae6Q8RrQxAPpDr3Mz_tA",
+        "title": "A Dirty Job (Grim Reaper, #1)",
+        "title_without_series": "A Dirty Job",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331323415l/33456._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331323415l/33456._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33456.A_Dirty_Job",
+        "num_pages": "387",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "William Morrow",
+        "publication_day": "21",
+        "publication_year": "2006",
+        "publication_month": "3",
+        "average_rating": "4.07",
+        "ratings_count": "99772",
+        "description": "Charlie Asher is a pretty normal guy with a normal life, married to a bright and pretty woman who actually loves him for his normalcy. They're even about to have their first child. Yes, Charlie's doing okay—until people start dropping dead around him, and everywhere he goes a dark presence whispers to him from under the streets. Charlie Asher, it seems, has been recruited for a new position: as Death.<br /><br />It's a dirty job, but hey! Somebody's got to do it.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "3258721",
+          "uri": "kca://work/amzn1.gr.work.v1.oW-3Wa3QVaL9M1G31hMBlg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33454"
+        },
+        "isbn": "0060735414",
+        "isbn13": "9780060735418",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1874"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.qdQws9A4TNZsff4GMpQc9w",
+        "title": "Bloodsucking Fiends (A Love Story, #1)",
+        "title_without_series": "Bloodsucking Fiends",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33454.Bloodsucking_Fiends",
+        "num_pages": "300",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "HarperCollins",
+        "publication_day": "1",
+        "publication_year": "2004",
+        "publication_month": "6",
+        "average_rating": "3.94",
+        "ratings_count": "57952",
+        "description": "<i>There is an alternate cover edition <a href=\"https://www.goodreads.com/book/show/32334359-bloodsucking-fiends\" rel=\"nofollow\">here</a>.</i><br /><br />Jody never asked to become a vampire. But when she wakes up under an alley dumpster with a badly burned arm, an aching neck, superhuman strength, and a distinctly Nosferatuan thirst, she realizes the decision has been made for her.<br /><br />Making the transition from the nine-to-five grind to an eternity of nocturnal prowlings is going to take some doing, however, and that's where C. Thomas Flood fits in. A would-be Kerouac from Incontinence, Indiana, Tommy (to his friends) is biding his time night-clerking and frozen-turkey bowling in a San Francisco Safeway. But all that changes when a beautiful undead redhead walks through the door ... and proceeds to rock Tommy's life -- and afterlife -- in ways he never imagined possible.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "1799438",
+          "uri": "kca://work/amzn1.gr.work.v1.cLv-nmEcOEb4in8XP2rpTg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "3684856"
+        },
+        "isbn": "0060590319",
+        "isbn13": "9780060590314",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "3096"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xQjQizCe78vVQMMFxy8Qhg",
+        "title": "Fool",
+        "title_without_series": "Fool",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/3684856-fool",
+        "num_pages": "311",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "HarperCollins William Morrow",
+        "publication_day": "10",
+        "publication_year": "2009",
+        "publication_month": "2",
+        "average_rating": "3.97",
+        "ratings_count": "49450",
+        "description": "\"Hilarious, always inventive, this is a book for all, especially uptight English teachers, bardolaters, and ministerial students.\" <br />--<em>Dallas Morning News</em><br /><br /><em>Fool</em>--the bawdy and outrageous <em>New York Times</em> bestseller from the unstoppable Christopher Moore--is a hilarious new take on William Shakespeare's <em>King Lear</em>...as seen through the eyes of the foolish liege's clownish jester, Pocket. A rousing tale of \"gratuitous shagging, murder, spanking, maiming, treason, and heretofore unexplored heights of vulgarity and profanity,\" <em>Fool</em> joins Moore's own <em>Lamb</em>, <em>Fluke</em>, <em>The Stupidest Angel</em>, and <em>You Suck!</em> as modern masterworks of satiric wit and sublimely twisted genius, prompting Carl Hiassen to declare Christopher Moore \"a very sick man, in the very best sense of the word.\"<br />",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "3793700",
+          "uri": "kca://work/amzn1.gr.work.v1.w3Z8mL7oI-UkF_BFX2mREw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33453"
+        },
+        "isbn": "0060590297",
+        "isbn13": "9780060590291",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2414"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.orfuxdUpxXB3ax1wL9Xg6w",
+        "title": "You Suck (A Love Story, #2)",
+        "title_without_series": "You Suck",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331323414l/33453._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331323414l/33453._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33453.You_Suck",
+        "num_pages": "328",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "William Morrow",
+        "publication_day": "16",
+        "publication_year": "2007",
+        "publication_month": "1",
+        "average_rating": "3.83",
+        "ratings_count": "45260",
+        "description": "Being undead sucks. Literally. <br /><br />Just ask C. Thomas Flood. Waking up after a fantastic night unlike anything he's ever experienced, he discovers that his girlfriend, Jody, is a vampire. And surprise! Now he's one, too. For some couples, the whole biting-and-blood thing would have been a deal breaker. But Tommy and Jody are in love, and they vow to work through their issues. <br /><br />But word has it that the vampire who initially nibbled on Jody wasn't supposed to be recruiting. Even worse, Tommy's erstwhile turkey-bowling pals are out to get him, at the urging of a blue-dyed Las Vegas call girl named (duh) Blue. <br /><br />And that really sucks.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "2015399",
+          "uri": "kca://work/amzn1.gr.work.v1.9qwNDDlbgx9fK5gYqPUHVA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33457"
+        },
+        "isbn": "0060735422",
+        "isbn13": "9780060735425",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1361"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.UyaI1ncqr4bFDtAlppKBoQ",
+        "title": "Practical Demonkeeping (Pine Cove, #1)",
+        "title_without_series": "Practical Demonkeeping",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429229158l/33457._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429229158l/33457._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33457.Practical_Demonkeeping",
+        "num_pages": "256",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Perennial / William Morrow / HarperCollins",
+        "publication_day": "25",
+        "publication_year": "2004",
+        "publication_month": "5",
+        "average_rating": "3.83",
+        "ratings_count": "40495",
+        "description": "In Christopher Moore's ingenious debut novel, we meet one of the most memorably mismatched pairs in the annals of literature. The good-looking one is one-hundred-year-old ex-seminarian and \"roads\" scholar Travis O'Hearn. The green one is Catch, a demon with a nasty habit of eating most of the people he meets. Behind the fake Tudor facade of Pine Cove, California, Catch sees a four-star buffet. Travis, on the other hand, thinks he sees a way of ridding himself of his toothy traveling companion. The winos, neo-pagans, and deadbeat Lotharios of Pine Cove, meanwhile, have other ideas. And none of them is quite prepared when all hell breaks loose.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "2915038",
+          "uri": "kca://work/amzn1.gr.work.v1.2zDa32pUsAE513O1PUBwPg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "74731"
+        },
+        "isbn": "0060842350",
+        "isbn13": "9780060842352",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2551"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.LdBWNlUHaEEBD5zdnPj1Lw",
+        "title": "The Stupidest Angel: A Heartwarming Tale of Christmas Terror (Pine Cove, #3)",
+        "title_without_series": "The Stupidest Angel: A Heartwarming Tale of Christmas Terror",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331320721l/74731._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331320721l/74731._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/74731.The_Stupidest_Angel",
+        "num_pages": "306",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "William Morrow",
+        "publication_day": "28",
+        "publication_year": "2008",
+        "publication_month": "10",
+        "average_rating": "3.82",
+        "ratings_count": "39736",
+        "description": "'Twas the night (okay, more like the week) before Christmas, and all through the tiny community of Pine Cove, California, people are busy buying, wrapping, packing, and generally getting into the holiday spirit.<br /><br />But not everybody is feeling the joy. Little Joshua Barker is in desperate need of a holiday miracle. No, he's not on his deathbed; no, his dog hasn't run away from home. But Josh is sure that he saw Santa take a shovel to the head, and now the seven-year-old has only one prayer: <i>Please, Santa, come back from the dead.</i><br /><br />But hold on! There's an angel waiting in the wings. (<i>Wings,</i> get it?) It's none other than the Archangel Raziel come to Earth seeking a small child with a wish that needs granting. Unfortunately, our angel's not sporting the brightest halo in the bunch, and before you can say \"Kris Kringle,\" he's botched his sacred mission and sent the residents of Pine Cove headlong into Christmas chaos, culminating in the most hilarious and horrifying holiday party the town has ever seen.<br /><br />Move over, Charles Dickens—it's Christopher Moore time.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "4116777",
+          "uri": "kca://work/amzn1.gr.work.v1.rdqslA77yqAP88raU3X8Dw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33441"
+        },
+        "isbn": "006056668X",
+        "isbn13": "9780060566685",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1960"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.XexZ0pY-gGqx4urbafoIpA",
+        "title": "Fluke: Or, I Know Why the Winged Whale Sings",
+        "title_without_series": "Fluke: Or, I Know Why the Winged Whale Sings",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168444068l/33441._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168444068l/33441._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33441.Fluke",
+        "num_pages": "321",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Harper",
+        "publication_day": "15",
+        "publication_year": "2004",
+        "publication_month": "6",
+        "average_rating": "3.75",
+        "ratings_count": "37256",
+        "description": "Just why do humpback whales sing? That's the question that has marine behavioral biologist Nate Quinn and his crew poking, charting, recording, and photographing very big, wet, gray marine mammals. Until the extraordinary day when a whale lifts its tail into the air to display a cryptic message spelled out in foot-high letters: Bite me.<br /><br />Trouble is, Nate's beginning to wonder if he hasn't spent just a little too much time in the sun. 'Cause no one else on his team saw a thing -- not his longtime partner, Clay Demodocus; not their saucy young research assistant; not even the spliff-puffing white-boy Rastaman Kona (né Preston Applebaum). But later, when a roll of film returns from the lab missing the crucial tail shot -- and his research facility is trashed -- Nate realizes something very fishy indeed is going on.<br /><br />By turns witty, irreverent, fascinating, puzzling, and surprising, <em>Fluke</em> is Christopher Moore at his outrageous best.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "1684116",
+          "uri": "kca://work/amzn1.gr.work.v1.Gp-Aa_NMLLDB-BvjGJ87rw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33458"
+        },
+        "isbn": "0060735457",
+        "isbn13": "9780060735456",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1205"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.tdf5nUZwGSqKxN98CJ8C8w",
+        "title": "The Lust Lizard of Melancholy Cove (Pine Cove, #2)",
+        "title_without_series": "The Lust Lizard of Melancholy Cove",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168444147l/33458._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168444147l/33458._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33458.The_Lust_Lizard_of_Melancholy_Cove",
+        "num_pages": "304",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "William Morrow Paperbacks",
+        "publication_day": "25",
+        "publication_year": "2004",
+        "publication_month": "5",
+        "average_rating": "3.87",
+        "ratings_count": "31013",
+        "description": "The town psychiatrist has decided to switch everybody in Pine Cove, California, from their normal antidepressants to placebos, so naturally—well, to be accurate, artificially—business is booming at the local blues bar. Trouble is, those lonely slide-guitar notes have also attracted a colossal sea beast named Steve with, shall we say, a thing for explosive oil tanker trucks. Suddenly, morose Pine Cove turns libidinous and is hit by a mysterious crime wave, and a beleaguered constable has to fight off his own gonzo appetites to find out what's wrong and what, if anything, to do about it.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "1573176",
+          "uri": "kca://work/amzn1.gr.work.v1.WwNm2gO6Aa33cuEkSYeDKg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "40409748"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "142"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xEzu0l-1fuf35yv5TwzIRQ",
+        "title": "Sacré Bleu",
+        "title_without_series": "Sacré Bleu",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528319853l/40409748._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528319853l/40409748._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/40409748-sacr-bleu",
+        "num_pages": "421",
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "William Morrow",
+        "publication_day": "3",
+        "publication_year": "2012",
+        "publication_month": "4",
+        "average_rating": "3.78",
+        "ratings_count": "29549",
+        "description": "“Christopher Moore is a very sick man, in the very best sense of that word.”<br />—Carl Hiassen<br /><br />“[Moore’s novels] deftly blend surreal, occult, and even science-fiction doings with laugh-out-loud satire of contemporary culture.”<br />—Washington Post<br /><br />“If there’s a funnier writer out there, step forward.”<br />—Playboy<br /><br />Absolutely nothing is sacred to Christopher Moore. The phenomenally popular, New York Times bestselling satirist whom the Atlanta Journal-Constitution calls, “Stephen King with a whoopee cushion and a double-espresso imagination” has already lampooned Shakespeare, San Francisco vampires, marine biologists, Death…even Jesus Christ and Santa Claus! Now, in his latest masterpiece, Sacré Bleu, the immortal Moore takes on the Great French Masters. A magnificent “Comedy d’Art” from the author of Lamb, Fool, and Bite Me, Moore’s Sacré Bleu is part mystery, part history (sort of), part love story, and wholly hilarious as it follows a young baker-painter as he joins the dapper Henri Toulouse-Lautrec on a quest to unravel the mystery behind the supposed “suicide” of Vincent van Gogh.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2012",
+        "work": {
+          "id": "17836362",
+          "uri": "kca://work/amzn1.gr.work.v1.RkLwnTwLD_DmptycUC27_Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33455"
+        },
+        "isbn": "0060735449",
+        "isbn13": "9780060735449",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1253"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.dADOCLj8B9vYsRhhOKi4cw",
+        "title": "Island of the Sequined Love Nun",
+        "title_without_series": "Island of the Sequined Love Nun",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168444146l/33455._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168444146l/33455._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33455.Island_of_the_Sequined_Love_Nun",
+        "num_pages": "325",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Harper Perennial",
+        "publication_day": "25",
+        "publication_year": "2004",
+        "publication_month": "5",
+        "average_rating": "3.80",
+        "ratings_count": "29241",
+        "description": "Take a wonderfully crazed excursion into the demented heart of a tropical paradise—a world of cargo cults, cannibals, mad scientists, ninjas, and talking fruit bats. Our bumbling hero is Tucker Case, a hopeless geek trapped in a cool guy's body, who makes a living as a pilot for the Mary Jean Cosmetics Corporation. But when he demolishes his boss's pink plane during a drunken airborne liaison, Tuck must run for his life from Mary Jean's goons. Now there's only one employment opportunity left for him: piloting shady secret missions for an unscrupulous medical missionary and a sexy blond high priestess on the remotest of Micronesian hells. Here is a brazen, ingenious, irreverent, and wickedly funny novel from a modern master of the outrageous.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "3135654",
+          "uri": "kca://work/amzn1.gr.work.v1.rInFwMzACmUz3vdLG4Ppuw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6559316"
+        },
+        "isbn": "0061779725",
+        "isbn13": "9780061779725",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1528"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.bZYGR3ic9WW0x0YElGLVQQ",
+        "title": "Bite Me (A Love Story, #3)",
+        "title_without_series": "Bite Me",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6559316-bite-me",
+        "num_pages": "309",
+        "format": "Hardcover",
+        "edition_information": "First Edition",
+        "publisher": "HarperCollins William Morrow",
+        "publication_day": "23",
+        "publication_year": "2010",
+        "publication_month": "3",
+        "average_rating": "3.86",
+        "ratings_count": "25071",
+        "description": "<i>“Christopher Moore is a very sick man, in the very best sense of the word.”</i><br />—Carl Hiaasen<br /> <br />The undead rise again in Bite Me, the third book in New York Times bestselling author Christopher Moore’s wonderfully twisted vampire saga. Joining his farcical gems Bloodsucking Fiends and You Suck, Moore’s latest in continuing story of young, urban, nosferatu style love, is no Twilight—but rather a tsunami of the irresistible outrageousness that has earned him the appellation, “Stephen King with a whoopee cushion and a double-espresso imagination” from the Atlanta Journal-Constitution and inspired Denver’s Rocky Mountain News to declare him, “the 21st century’s best satirist.”",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "6752024",
+          "uri": "kca://work/amzn1.gr.work.v1.xR1KVoXrLvhTS1PPfrVnBQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33459"
+        },
+        "isbn": "0060735430",
+        "isbn13": "9780060735432",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "878"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.t_wUtWfbIFBV6Uce0zcNdg",
+        "title": "Coyote Blue",
+        "title_without_series": "Coyote Blue",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33459.Coyote_Blue",
+        "num_pages": {},
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "ReganBooks",
+        "publication_day": "25",
+        "publication_year": "2004",
+        "publication_month": "5",
+        "average_rating": "3.77",
+        "ratings_count": "24092",
+        "description": "From Christopher Moore, author of Fluke, comes a quirky, irreverent novel of love, myth, metaphysics, outlaw biking, angst, and outrageous redemption.<br /><br />As a boy growing up in Montana, he was Samson Hunts Alone -- until a deadly misunderstanding with the law forced him to flee the Crow reservation at age fifteen. Today he is Samuel Hunter, a successful Santa Barbara insurance salesman with a Mercedes, a condo, and a hollow, invented life. Then one day, shortly after his thirty-fifth birthday, destiny offers him the dangerous gift of love -- in the exquisite form of Calliope Kincaid -- and a curse in the unheralded appearance of an ancient Indian god by the name of Coyote. Coyote, the trickster, has arrived to transform tranquillity into chaos, to reawaken the mystical storyteller within Sam ... and to seriously screw up his existence in the process.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "813988",
+          "uri": "kca://work/amzn1.gr.work.v1.E7EPTpLLdOYVJH4QIdE99g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "23460830"
+        },
+        "isbn": "0061779784",
+        "isbn13": "9780061779787",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1427"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.BHwAe-yp4rQcBFVw-FQE6w",
+        "title": "Secondhand Souls (Grim Reaper, #2)",
+        "title_without_series": "Secondhand Souls",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434397134l/23460830._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434397134l/23460830._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/23460830-secondhand-souls",
+        "num_pages": "335",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "William Morrow",
+        "publication_day": "25",
+        "publication_year": "2015",
+        "publication_month": "8",
+        "average_rating": "3.94",
+        "ratings_count": "14775",
+        "description": "In San Francisco, the souls of the dead are mysteriously disappearing—and you know that can't be good—in New York Times bestselling author Christopher Moore's delightfully funny sequel to A Dirty Job.<br /><br />Something really strange is happening in the City by the Bay. People are dying, but their souls are not being collected. Someone—or something—is stealing them and no one knows where they are going, or why, but it has something to do with that big orange bridge. Death Merchant Charlie Asher is just as flummoxed as everyone else. He's trapped in the body of a fourteen-inch-tall \"meat\" waiting for his Buddhist nun girlfriend, Audrey, to find him a suitable new body to play host.<br /><br />To get to the bottom of this abomination, a motley crew of heroes will band together: the seven-foot-tall death merchant Minty Fresh; retired policeman turned bookseller Alphonse Rivera; the Emperor of San Francisco and his dogs, Bummer and Lazarus; and Lily, the former Goth girl. Now if only they can get little Sophie to stop babbling about the coming battle for the very soul of humankind...",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2015",
+        "work": {
+          "id": "42753848",
+          "uri": "kca://work/amzn1.gr.work.v1.VP5CYf63-NbRRm2t0c_jgg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "18089900"
+        },
+        "isbn": "0061779768",
+        "isbn13": "9780061779763",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1347"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.dKxwNken0EwToEEcMAp_aA",
+        "title": "The Serpent of Venice",
+        "title_without_series": "The Serpent of Venice",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376934009l/18089900._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376934009l/18089900._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/18089900-the-serpent-of-venice",
+        "num_pages": "326",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "William Morrow",
+        "publication_day": "22",
+        "publication_year": "2014",
+        "publication_month": "4",
+        "average_rating": "3.88",
+        "ratings_count": "12911",
+        "description": "New York Times bestselling author Christopher Moore channels William Shakespeare and Edgar Allan Poe in this satiric Venetian gothic that brings back the Pocket of Dog Snogging, the eponymous hero of Fool, along with his sidekick, Drool, and pet monkey, Jeff<br /><br />Venice, a long time ago. Three prominent Venetians await their most loathsome and foul dinner guest, the erstwhile envoy of Britain and France, and widower of the murdered Queen Cordelia: the rascal-Fool Pocket.<br /><br />This trio of cunning plotters-the merchant, Antonio; the senator, Montressor Brabantio; and the naval officer, Iago-have lured Pocket to a dark dungeon, promising an evening of sprits and debauchery with a rare Amontillado sherry and Brabantio's beautiful daughter, Portia.<br /><br />But their invitation is, of course, bogus. The wine is drugged. The girl isn't even in the city limits. Desperate to rid themselves once and for all of the man who has consistently foiled their grand quest for power and wealth, they have lured him to his death. (How can such a small man, be such a huge obstacle?). But this Fool is no fool . . . and he's got more than a few tricks (and hand gestures) up his sleeve.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "25337586",
+          "uri": "kca://work/amzn1.gr.work.v1.-LcFLrqgaeqhWPGe90C6TQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "35301333"
+        },
+        "isbn": "0062433970",
+        "isbn13": "9780062433978",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1476"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.kIDxtkxGuWgP7SZrR4TiIA",
+        "title": "Noir",
+        "title_without_series": "Noir",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509555774l/35301333._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509555774l/35301333._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/35301333-noir",
+        "num_pages": "339",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "William Morrow",
+        "publication_day": "17",
+        "publication_year": "2018",
+        "publication_month": "4",
+        "average_rating": "3.78",
+        "ratings_count": "9850",
+        "description": "<em>San Francisco. Summer, 1947. A dame walks into a saloon . . .<br /></em><br />It’s not every afternoon that an enigmatic, comely blonde named Stilton (like the cheese) walks into the scruffy gin joint where Sammy \"Two Toes\" Tiffin tends bar. It’s love at first sight, but before Sammy can make his move, an Air Force general named Remy arrives with some urgent business. ’Cause when you need something done, Sammy is the guy to go to; he’s got the connections on the street.<br /><br />Meanwhile, a suspicious flying object has been spotted up the Pacific coast in Washington State near Mount Rainer, followed by a mysterious plane crash in a distant patch of desert in New Mexico that goes by the name Roswell. But the real weirdness is happening on the streets of the City by the Bay.<br /><br />When one of Sammy’s schemes goes south and the Cheese mysteriously vanishes, Sammy is forced to contend with his own dark secrets—and more than a few strange goings on—if he wants to find his girl.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2018",
+        "work": {
+          "id": "54501730",
+          "uri": "kca://work/amzn1.gr.work.v1.r9k9-VqKAognXKEKdumxXA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9127380"
+        },
+        "isbn": "0061977527",
+        "isbn13": "9780061977527",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "227"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.j4iADSbbSnmS88m40_9xnQ",
+        "title": "The Griff: A Graphic Novel",
+        "title_without_series": "The Griff: A Graphic Novel",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319304674l/9127380._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319304674l/9127380._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9127380-the-griff",
+        "num_pages": "160",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "HarperCollins Publishers / William Morrow",
+        "publication_day": "19",
+        "publication_year": "2011",
+        "publication_month": "7",
+        "average_rating": "3.09",
+        "ratings_count": "1564",
+        "description": "The mayhem begins when an ancient alien beacon is unwittingly activated, summoning behemoth spaceships from the far reaches of the galaxy. Hovering in Earth's atmosphere, they release a biblical stream of pods that transform into minivan-size, people-eating, flying lizardy things that look like mythological griffins. Destroying communications, emergency, and military infrastructure, they systematically kill everyone on the planet. Well, almost everyone.<br /><br />A pesky trio of New Yorkers isn't about to roll out the red carpet—or roll over and die—for these unwelcome intergalactic marauders. Unlikely heroes Mo, a snarky, Gothy game-goddess; Steve, a skateboard-punk schwag whore; and Curt, the obligatory buff commando expert in weaponry (and a genius with cosmetics), are going to take it to the aliens—and Florida is where the fight is. Armed with M-16s, a BFG (big f**king gun), and a surplus of guts, they'll battle their way from the Big Apple to Orlando, where a downed spacecraft is the most awesome new attraction.<br /><br />And in the Sunshine State another pair of courageous (and pretty damn lucky) humans who have outwitted the toothy überlizards await: Liz, a babelicious killer whale trainer at Ocean World, and Oscar, a chain-smoking middle-aged professional squirrel (seriously—he's paid to wear that squirrel costume).<br /><br />Once united, the intrepid warriors will attempt to infiltrate the alien spacecraft, defeat the spacer invaders, and save (what's left) of the world—and, if Steve plays his cards right, begin the fun of repopulating Earth all over again.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "14006050",
+          "uri": "kca://work/amzn1.gr.work.v1.etehw1cH0L8OM2e43Fvg6w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "8033970"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "18"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.dWZmkaTir-fKG3Vd1kG8Hg",
+        "title": "Our Lady of the Fishnet Stockings",
+        "title_without_series": "Our Lady of the Fishnet Stockings",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328407791l/8033970._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328407791l/8033970._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/8033970-our-lady-of-the-fishnet-stockings",
+        "num_pages": "9",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": "1987",
+        "publication_month": {},
+        "average_rating": "3.48",
+        "ratings_count": "265",
+        "description": "I wrote Our Lady in 1987 after I had a dream about some soldiers firing on a village of peasants and the bullets stopping and hanging in the air. This is the only story I've ever written from a dream, and obviously that single dream image was only a scene that set off an alarm in my mind to get silly. As with Cat's Karma, this story is a little rough, and I'm not a little bit embarassed by it. Readers of my novels will be glad to see that I've gotten a little better at my craft over the years, and perhaps those of you who are aspiring writer's will get some encouragement out of the fact that you can get better. (Thank goodness). This is the first time Our Lady has appeared anywere, and probably with good reason, but for all it's flaws, I still love the title, so much, in fact, that I'm going to use it as a chapter heading on my new book [The Island of the Sequined Love Nun]. -- <i>Christopher Moore</i>",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "1987",
+        "work": {
+          "id": "12645148",
+          "uri": "kca://work/amzn1.gr.work.v1.JukBMok2VpJlaMpjBrjS9A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13557279"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "7"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.afPgSid3mulTCZtrVfIOKg",
+        "title": "Cat's Karma",
+        "title_without_series": "Cat's Karma",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13557279-cat-s-karma",
+        "num_pages": "12",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": "1987",
+        "publication_month": {},
+        "average_rating": "3.41",
+        "ratings_count": "126",
+        "description": "Back in 1987 I had yet to figure out that I was better at writing funny stories than scary ones. I had been sending horror stories to mainstream magazines who rewarded me with a stack of rejection slips, many of which included a scribbled note: \"A little too weird for our readers.\"<br /><br />My next step was to send these stories out to the men's magazines, who included \"horror stories\" in their listings in the Writer's Market. Once again I was rewarded with a stack of rejection slips with this note: \"You write very well, but we do not publish any stories that do not include at least three explicit sex scenes.\" (By this time I'd papered most of my bathroom with rejection slips.) Ah-ha! I said. I shall write an erotic fable. Cat's Karma came out of that effort. Actually, after no one accepted the story I cleaned out the explicit sex scenes so I could show this story to my friends without them thinking I was a hopeless horndog, and this version is the end result. -- <i>Christopher Moore</i>",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "1987",
+        "work": {
+          "id": "19129184",
+          "uri": "kca://work/amzn1.gr.work.v1.N91YYh7pEJC4LY-rh7I3TQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "52216445"
+        },
+        "isbn": "0062434020",
+        "isbn13": "9780062434029",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "34"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.9h4rAIVu8orajgcE",
+        "title": "Shakespeare for Squirrels",
+        "title_without_series": "Shakespeare for Squirrels",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/52216445-shakespeare-for-squirrels",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.94",
+        "ratings_count": "63",
+        "description": "<strong>Shakespeare meets Dashiell Hammett in this wildly entertaining murder mystery from <em>New York Times</em> bestselling author Christopher Moore—an uproarious, hardboiled take on the Bard’s most performed play, <em>A Midsummer Night’s Dream</em>, featuring Pocket, the hero of <em>Fool </em>and <em>The Serpent of Venice</em>, along with his sidekick, Drool, and pet monkey, Jeff.</strong><br /><br />Set adrift by his pirate crew, Pocket of Dog Snogging—last seen in <em>The Serpent of Venice</em>—washes up on the sun-bleached shores of Greece, where he hopes to dazzle the Duke with his comedic brilliance and become his trusted fool.<br /><br />But the island is in turmoil. Egeus, the Duke’s minister, is furious that his daughter Hermia is determined to marry Demetrius, instead of Lysander, the man he has chosen for her. The Duke decrees that if, by the time of the wedding, Hermia still refuses to marry Lysander, she shall be executed . . . or consigned to a nunnery. Pocket, being Pocket, cannot help but point out that this decree is complete bollocks, and that the Duke is an egregious weasel for having even suggested it. Irritated by the fool’s impudence, the Duke orders his death. With the Duke’s guards in pursuit, Pocket makes a daring escape.<br /><br />He soon stumbles into the wooded realm of the fairy king Oberon, who, as luck would have it, IS short a fool. His jester Robin Goodfellow—the mischievous sprite better known as Puck—was found dead. Murdered. Oberon makes Pocket an offer he can’t refuse: he will make Pocket his fool and have his death sentence lifted if Pocket finds out who killed Robin Goodfellow. But as anyone who is even vaguely aware of the Bard’s most performed play ever will know, nearly every character has a motive for wanting the mischievous sprite dead.<br /><br />With too many suspects and too little time, Pocket must work his own kind of magic to find the truth, save his neck, and ensure that all ends well.<br /><br />A rollicking tale of love, magic, madness, and murder, <em>Shakespeare for Squirrels</em> is a Midsummer Night’s noir—a wicked and brilliantly funny good time conjured by the singular imagination of Christopher Moore.",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "73010372",
+          "uri": "kca://work/amzn1.gr.work.v2.4320ef9c-547a-4ce1-bc5b-c9e8fb32ca5f"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6590964"
+        },
+        "isbn": "3442134528",
+        "isbn13": "9783442134526",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.W8QtbZlLBq1dKxYtrB4hCQ",
+        "title": "Der Lustmolch / Flossen weg!",
+        "title_without_series": "Der Lustmolch / Flossen weg!",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327153003l/6590964._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327153003l/6590964._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6590964-der-lustmolch-flossen-weg",
+        "num_pages": "736",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Goldmann Verlag",
+        "publication_day": "18",
+        "publication_year": "2009",
+        "publication_month": "5",
+        "average_rating": "3.82",
+        "ratings_count": "28",
+        "description": "„Der Lustmolch“: Drei Dinge ereignen sich in jenem schicksalsträchtigen September in Pine Cove, bevor das Unheil über die kalifornische Kleinstadt an der Pazifikküste hereinbricht: Im nahen Atomkraftwerk entsteht ein winziges Leck in der Kühlleitung; Mavis Sand sucht einen Blues-Sänger für ihre Bar; und Bess Leander, Mutter zweier Töchter, erhängt sich. Die Ereignisse überschlagen sich ...<br /><br />„Flossen Weg!“: Seit Jahren versucht der Meeresbiologe Nate Quinn zu ergründen, warum Buckelwale singen. Da geschieht plötzlich etwas Seltsames: Eine riesige Schwanzflosse taucht aus dem Meer auf mit der deutlichen Aufschrift: Fang mich! Und derselbe Wal versucht mehrmals über das Telefon bei Nate ein Pastrami-Sandwich zu bestellen. Nate glaubt seinen Verstand zu verlieren, bis er der Bitte nachkommt und in die wundersame Welt der Wale hinabtaucht ...",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "6784541",
+          "uri": "kca://work/amzn1.gr.work.v1.VCD5vZZFIWqj2fGcwKweUw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "24769093"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "8"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.mmttmffJLoLSGw5SAYRsEg",
+        "title": "Lightspeed Magazine, August 2014",
+        "title_without_series": "Lightspeed Magazine, August 2014",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/24769093-lightspeed-magazine-august-2014",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.47",
+        "ratings_count": "30",
+        "description": "LIGHTSPEED is an online science fiction and fantasy magazine. In its pages, you will find science fiction: from near-future, sociological soft SF, to far-future, star-spanning hard SF--and fantasy: from epic fantasy, sword-and-sorcery, and contemporary urban tales, to magical realism, science-fantasy, and folktales. <br /> <br />This month, we have original science fiction by An Owomoyela (\"Undermarket Data\") and E. Catherine Tobler (\"A Box, a Pocket, a Spaceman\"), along with SF reprints by Gardner Dozois (\"Morning Child\") and David I. Masson (\"Traveller's Rest\"). Plus, we have original fantasy by Tahmeed Shafiq (\"The Djinn Who Sought To Kill The Sun\") and Kat Howard (\"Meaningful Exchange\"), and fantasy reprints by Ken Liu (\"State Change\") and Gwyneth Jones (\"The Grass Princess\"). For our ebook readers, our ebook-exclusive novella is \"Rule of Engagement,\" by Sherwood Smith, and of course we have our usual assortment of author and artist spotlights, along with feature interviews with bestselling authors Christopher Moore and Elizabeth Bear. We've also got novel excerpts from Dru Pagliassotti (Clockwork Secrets) and Peter Watts (Echopraxia).",
+        "authors": {
+          "author": {
+            "id": "1161372",
+            "name": "John Joseph Adams",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p5/1161372.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p2/1161372.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1161372.John_Joseph_Adams",
+            "average_rating": "3.95",
+            "ratings_count": "73885",
+            "text_reviews_count": "6607"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "42674512",
+          "uri": "kca://work/amzn1.gr.work.v1.ZydMsD3B5Iml23zSeneaTg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "45316776"
+        },
+        "isbn": "0998449989",
+        "isbn13": "9780998449982",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "5"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.BppfKv32zI_b2Q6FbdreHQ",
+        "title": "What to Eat with What You Read: A Guide for Book Clubs and Other Literary Gatherings",
+        "title_without_series": "What to Eat with What You Read: A Guide for Book Clubs and Other Literary Gatherings",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556394489l/45316776._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556394489l/45316776._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/45316776-what-to-eat-with-what-you-read",
+        "num_pages": "87",
+        "format": "Paperback",
+        "edition_information": "First (and only) Edition",
+        "publisher": "CBD Publishing",
+        "publication_day": "27",
+        "publication_year": "2019",
+        "publication_month": "4",
+        "average_rating": "3.78",
+        "ratings_count": "18",
+        "description": "<b>GOOD BOOKS AND GOOD FOOD ARE PERFECT COMPANIONS.</b> Now book clubs (and solo readers) can pair them perfectly. <i>What to Eat with What You Read</i> includes meal suggestions, book lists, and real recipes. Roxane Gay wants you to cook and eat the perfect steak, Jennifer Egan shares her grandma's recipe for cherry cobbler, and Vanessa Hua encourages imbibing lychee martinis while reading her novel. With more than 20 recipes, hundreds of book suggestions, and fantasy invite lists to literary dinner parties of all kinds, <i>What to Eat with What You Read</i> is both a useful guide and an intimate look at the tastes and taste buds of 24 of our favorite authors.",
+        "authors": {
+          "author": {
+            "id": "416699",
+            "name": "Samantha Schoech",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "true",
+              "$t": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+            },
+            "small_image_url": {
+              "nophoto": "true",
+              "$t": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+            },
+            "link": "https://www.goodreads.com/author/show/416699.Samantha_Schoech",
+            "average_rating": "3.62",
+            "ratings_count": "140",
+            "text_reviews_count": "32"
+          }
+        },
+        "published": "2019",
+        "work": {
+          "id": "70052490",
+          "uri": "kca://work/amzn1.gr.work.v1.X10JcAk1vwGaKylYmVwZew"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "17434363"
+        },
+        "isbn": "178099589X",
+        "isbn13": "9781780995892",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.wUyASPNYk3OK6PwcG-_iKA",
+        "title": "Chewing the Page: The Mourning Goats Interviews",
+        "title_without_series": "Chewing the Page: The Mourning Goats Interviews",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368422680l/17434363._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368422680l/17434363._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/17434363-chewing-the-page",
+        "num_pages": "190",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Perfect Edge Books",
+        "publication_day": "16",
+        "publication_year": "2013",
+        "publication_month": "5",
+        "average_rating": "4.29",
+        "ratings_count": "14",
+        "description": "This is the first collection of creative writing-related interviews originally posted on Mourning Goats, a website founded by the mysterious Mr Goat. Over a year of mostly anonymous work, the Goat managed to interview some of the most exciting English-language authors around. Edited by Phil Jourdan and the Goat himself, and featuring expanded interviews not available online, Chewing the Page offers a series of weird and hilarious glimpses at the world of writing. Includes interviews with Stephen Graham Jones, Craig Clevenger, Paul Tremblay, Donald Ray Pollock, Stephen Elliott, Chad Kultgen, Chelsea Cain, Rick Moody, Christopher Moore and Nick Hornby, and others.",
+        "authors": {
+          "author": {
+            "id": "4474489",
+            "name": "Phil Jourdan",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1441214975p5/4474489.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1441214975p2/4474489.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4474489.Phil_Jourdan",
+            "average_rating": "3.69",
+            "ratings_count": "2106",
+            "text_reviews_count": "323"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "24291416",
+          "uri": "kca://work/amzn1.gr.work.v1.H7Xi_hnGZS_f3m6oavV-TA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "51863918"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9781099046674",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "3"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.70-E96AVQ6mp7aW9",
+        "title": "heat (Nightingale & Sparrow, issue no. III)",
+        "title_without_series": "heat",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/51863918-heat",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "5.00",
+        "ratings_count": "10",
+        "description": "Nightingale &amp; Sparrow Literary Magazine is proud to present their third issue, heat. This volume features the poetry, creative nonfiction, fiction, and photography of more than 70 amazing creators from around the world. For this themed issue, Nightingale &amp; Sparrow asked contributors to send \"sunshine and bonfires...fireworks and rendezvous, beach scenes and bedrooms.\" From witch hunts to dry spells, the works in this collection do just that. <br /><br />From the editor: \"Feel the seductive drip of sweet fruit juice in Margaret King’s “I Should Be Writing/Mango,” and the tang of pomegranate in Mollie Williamson’s “Persephone.” Quench your thirst with Lynne Schmidt’s “Remember to Drink Water” and step onto the beach with the opening stanza of “First Date Not Counting Lester Duncan.” Step into the fire of words and images making up heat and feel the sparks surround you.\"",
+        "authors": {
+          "author": {
+            "id": "16997943",
+            "name": "Juliette Sebock",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1570372722p5/16997943.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1570372722p2/16997943.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16997943.Juliette_Sebock",
+            "average_rating": "4.84",
+            "ratings_count": "77",
+            "text_reviews_count": "25"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "72275434",
+          "uri": "kca://work/amzn1.gr.work.v2.63521999-e28b-4772-b1a2-eda175a8519a"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "22585515"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.tICJkBfGC5K0pfanzguHVQ",
+        "title": "Pack: 6 Novelas",
+        "title_without_series": "Pack: 6 Novelas",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/22585515-pack",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.18",
+        "ratings_count": "11",
+        "description": "Contiene: -- 1. Aleta (9788490181164). -- 2. Muérdeme (9788498008326). -- 3. La sanguijuela de mi niña (9788490181812). -- 4. El ángel más tonto del mundo (9788498008227). 5. Un trabajo muy sucio (9788490182727).",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "42060012",
+          "uri": "kca://work/amzn1.gr.work.v1.d2G4oVuluH1rxXfCAZ9jPA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "29476312"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "5"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.7yJZPfhM44NPqJlTisDaNQ",
+        "title": "Death by Chocolate",
+        "title_without_series": "Death by Chocolate",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/29476312-death-by-chocolate",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.40",
+        "ratings_count": "10",
+        "description": "Chocolate. Some people crave it, some people hate it. It is given on many occasions, and used for many reasons. For celebration and for comfort, in good times and bad. This selection box brings you 14 treats from Edward Breen, Jonathan Paul Butcher, Calum Chalmers, Daniel Marc Chant, S.L. Dixon, Kayleigh Marie Edwards, Justine Johnston Hemmestad, Holly Ice, Christopher Law, Chris Moore, J.R. Park, Duncan Ralston, Mark Woods and the editor, with original illustrations by Holly Marie Smith, all enveloped in the deepest, darkest chocolate.",
+        "authors": {
+          "author": {
+            "id": "7509031",
+            "name": "Duncan Ralston",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1442590669p5/7509031.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1442590669p2/7509031.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7509031.Duncan_Ralston",
+            "average_rating": "3.94",
+            "ratings_count": "2158",
+            "text_reviews_count": "602"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "49755000",
+          "uri": "kca://work/amzn1.gr.work.v1.yX8fb8Blv5kXFl5oVOeocg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "51609294"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.jCq_BMgv4FpVszv7",
+        "title": "In Amongst The Peacocks",
+        "title_without_series": "In Amongst The Peacocks",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/51609294-in-amongst-the-peacocks",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.67",
+        "ratings_count": "3",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "76192838",
+          "uri": "kca://work/amzn1.gr.work.v3.PDtDqjCTJ9-RF8Qb"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "52769475"
+        },
+        "isbn": "9571359211",
+        "isbn13": "9789571359212",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.XrmyvFQVfw4Qiio_",
+        "title": "神聖藍色: 一齣藝術的喜劇",
+        "title_without_series": "神聖藍色: 一齣藝術的喜劇",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/52769475",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.00",
+        "ratings_count": "1",
+        "description": "一八九○年七月，文森．梵谷在一片玉米田中對自己開槍。弟弟西奧趕赴已遲，臨終前，文森用盡最後力氣告訴西奧：<br />「把那幅藍色的畫藏起來……不要讓任何人知道她在你那裡。」<br /><br />「一名正值創作力巔峰的藝術家，為何想要結束自己的生命？」梵谷的好友，麵包師傅路西恩．李薩滿腹疑問，決定與畫家羅特列克展開調查。就在梵谷寫給羅特列克的信，發現事有蹊蹺，信上寫著：「如果你看到那個顏料匠，快逃。快逃。」<br /><br />「顏料匠」究竟是誰？為何對某種藍色害怕得要命？梵谷英年早逝的真相，帶來一場超自然冒險，以及深入十九世紀末巴黎藝術圈及妓院的探訪之旅。這是一本關於藍色的書，關於印象派畫作迷人的祕密。當然，不會是你以為你知道的那樣。",
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "73728180",
+          "uri": "kca://work/amzn1.gr.work.v2.e57692e0-812c-4a12-bf14-3b2cb8b3c038"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "51855788"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9783442476145",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.4p7z-XSF06oLJLID",
+        "title": "Ein Biss sagt mehr als tausend Worte: Roman",
+        "title_without_series": "Ein Biss sagt mehr als tausend Worte: Roman",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/51855788-ein-biss-sagt-mehr-als-tausend-worte",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "0.0",
+        "ratings_count": "0",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "16218",
+            "name": "Christopher Moore",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p5/16218.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1460399391p2/16218.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/16218.Christopher_Moore",
+            "average_rating": "3.97",
+            "ratings_count": "694725",
+            "text_reviews_count": "47910"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "76349376",
+          "uri": "kca://work/amzn1.gr.work.v3.c-QSLSCTlxEi9v8K"
+        }
+      }
+    ]
+  }
+}

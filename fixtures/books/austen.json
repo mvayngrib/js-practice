@@ -1,0 +1,1632 @@
+{
+  "id": "1265",
+  "name": "Jane Austen",
+  "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "2452",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1885"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "42371"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ohBt6JapM36l0ttZSdCzpA",
+        "title": "Pride and Prejudice",
+        "title_without_series": "Pride and Prejudice",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice",
+        "num_pages": "279",
+        "format": "Paperback",
+        "edition_information": "Modern Library Classics, USA / CAN",
+        "publisher": "Modern Library",
+        "publication_day": "10",
+        "publication_year": "2000",
+        "publication_month": "10",
+        "average_rating": "4.26",
+        "ratings_count": "2810580",
+        "description": "<i>Alternate cover edition of ISBN 9780679783268</i><br /><br />Since its immediate success in 1813, <i>Pride and Prejudice</i> has remained one of the most popular novels in the English language. Jane Austen called this brilliant work \"her own darling child\" and its vivacious heroine, Elizabeth Bennet, \"as delightful a creature as ever appeared in print.\" The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "3060926",
+          "uri": "kca://work/amzn1.gr.work.v1.M0dBEz0jvKwG6oOW8qlNVw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "14935"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10442"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.k8XdE-XAEqvEKIhoXmxYZg",
+        "title": "Sense and Sensibility",
+        "title_without_series": "Sense and Sensibility",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397245675l/14935._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397245675l/14935._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/14935.Sense_and_Sensibility",
+        "num_pages": "409",
+        "format": "Paperback",
+        "edition_information": "Penguin Classics",
+        "publisher": "Penguin Books",
+        "publication_day": "29",
+        "publication_year": "2003",
+        "publication_month": "4",
+        "average_rating": "4.07",
+        "ratings_count": "915249",
+        "description": "<i>Alternate cover edition of ISBN 9780141439662</i><br /><br /><i>'The more I know of the world, the more am I convinced that I shall never see a man whom I can really love. I require so much!'</i><br /><br />Marianne Dashwood wears her heart on her sleeve, and when she falls in love with the dashing but unsuitable John Willoughby she ignores her sister Elinor's warning that her impulsive behaviour leaves her open to gossip and innuendo. Meanwhile Elinor, always sensitive to social convention, is struggling to conceal her own romantic disappointment, even from those closest to her. Through their parallel experience of love—and its threatened loss—the sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.<br /><br />This edition includes explanatory notes, textual variants between the first and second editions, and Tony Tanner's introduction to the original Penguin Classic edition.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "2809709",
+          "uri": "kca://work/amzn1.gr.work.v1.NcQyy_9hNuTwvm96lJ6YxA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6969"
+        },
+        "isbn": "0141439580",
+        "isbn13": "9780141439587",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "11569"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.fEiJecGC6yJ36H0PgpIk0Q",
+        "title": "Emma",
+        "title_without_series": "Emma",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373627931l/6969._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373627931l/6969._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6969.Emma",
+        "num_pages": "474",
+        "format": "Paperback",
+        "edition_information": "Penguin Classics",
+        "publisher": "Penguin Books",
+        "publication_day": "6",
+        "publication_year": "2003",
+        "publication_month": "5",
+        "average_rating": "4.00",
+        "ratings_count": "609057",
+        "description": "Emma Woodhouse is one of Austen's most captivating and vivid characters. Beautiful, spoilt, vain and irrepressibly witty, Emma organizes the lives of the inhabitants of her sleepy little village and plays matchmaker with devastating effect.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "3360164",
+          "uri": "kca://work/amzn1.gr.work.v1.c4uYaKUyM94oIBy8bkW2TA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2156"
+        },
+        "isbn": "0192802631",
+        "isbn13": "9780192802637",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "11479"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.k8DSe52-iqTSlumfATCuOw",
+        "title": "Persuasion",
+        "title_without_series": "Persuasion",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2156.Persuasion",
+        "num_pages": "249",
+        "format": "Paperback",
+        "edition_information": "Oxford World's Classics",
+        "publisher": "Oxford University Press",
+        "publication_day": "18",
+        "publication_year": "2004",
+        "publication_month": "3",
+        "average_rating": "4.14",
+        "ratings_count": "497194",
+        "description": "Twenty-seven-year old Anne Elliot is Austen's most adult heroine. Eight years before the story proper begins, she is happily betrothed to a naval officer, Frederick Wentworth, but she precipitously breaks off the engagement when persuaded by her friend Lady Russell that such a match is unworthy. The breakup produces in Anne a deep and long-lasting regret. When later Wentworth returns from sea a rich and successful captain, he finds Anne's family on the brink of financial ruin and his own sister a tenant in Kellynch Hall, the Elliot estate. All the tension of the novel revolves around one question: Will Anne and Wentworth be reunited in their love?<br /><br />Jane Austen once compared her writing to painting on a little bit of ivory, 2 inches square. Readers of <i>Persuasion</i> will discover that neither her skill for delicate, ironic observations on social custom, love, and marriage nor her ability to apply a sharp focus lens to English manners and morals has deserted her in her final finished work.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "2534720",
+          "uri": "kca://work/amzn1.gr.work.v1.R7MwsnCfyHc7718MW02Mlw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "50398"
+        },
+        "isbn": "1593082649",
+        "isbn13": "9781593082642",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "7467"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ipQh2DCwOd5cgkGPd90lzg",
+        "title": "Northanger Abbey",
+        "title_without_series": "Northanger Abbey",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/50398.Northanger_Abbey",
+        "num_pages": "251",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Barnes & Noble Classics",
+        "publication_day": "3",
+        "publication_year": "2005",
+        "publication_month": "3",
+        "average_rating": "3.82",
+        "ratings_count": "286509",
+        "description": "Jane Austen's first novel—published posthumously in 1818—tells the story of Catherine Morland and her dangerously sweet nature, innocence, and sometime self-delusion. Though Austen's fallible heroine is repeatedly drawn into scrapes while vacationing at Bath and during her subsequent visit to Northanger Abbey, Catherine eventually triumphs, blossoming into a discerning woman who learns truths about love, life, and the heady power of literature. The satirical novel pokes fun at the gothic novel while earnestly emphasizing caution to the female sex.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "4039699",
+          "uri": "kca://work/amzn1.gr.work.v1.GkogOu6XRiiR4KL7RI41Zw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "45032"
+        },
+        "isbn": "0141439807",
+        "isbn13": "9780141439808",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "6479"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.N33vWquEdoylY7LITXn-mg",
+        "title": "Mansfield Park",
+        "title_without_series": "Mansfield Park",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397063295l/45032._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397063295l/45032._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/45032.Mansfield_Park",
+        "num_pages": "507",
+        "format": "Paperback",
+        "edition_information": "Penguin Classics",
+        "publisher": "Penguin Books",
+        "publication_day": {},
+        "publication_year": "2003",
+        "publication_month": {},
+        "average_rating": "3.86",
+        "ratings_count": "272721",
+        "description": "Adopted into the household of her uncle, Sir Thomas Bertram, Fanny Price grows up a meek outsider among her cousins in the unaccustomed elegance of Mansfield Park. Soon after Sir Thomas absents himself on estate business in Antigua (the family's investment in slavery and sugar is considered in the Introduction in a new, post-colonial light), Mary Crawford and her brother Henry arrive at Mansfield, bringing with them London glamour, and the seductive taste for flirtation and theatre that precipitates a crisis. While <i>Mansfield Park</i> appears in some ways to continue where <i>Pride and Prejudice</i> left off, it is, as Kathryn Sutherland shows in her illuminating Introduction, a much darker work, which challenges 'the very values (of tradition, stability, retirement and faithfulness) it appears to endorse'. This new edition provides an accurate text based, for the first time since its original publication, on the first edition of 1814.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "2722329",
+          "uri": "kca://work/amzn1.gr.work.v1.yYcf6bGLB84eZhdVbmIivw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "14905"
+        },
+        "isbn": "0140259449",
+        "isbn13": "9780140259445",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "351"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4gJ7xqILyGvPgTFN4sccQA",
+        "title": "The Complete Novels",
+        "title_without_series": "The Complete Novels",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/14905.The_Complete_Novels",
+        "num_pages": "1344",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Penguin",
+        "publication_day": "17",
+        "publication_year": "1996",
+        "publication_month": "6",
+        "average_rating": "4.56",
+        "ratings_count": "28566",
+        "description": "This volume contains the six major novels: \"Emma\", \"Mansfield Park\", \"Northanger Abbey\", \"Persuasion\", \"Sense and Sensibility\", \"Pride and Prejudice\".",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1996",
+        "work": {
+          "id": "2494662",
+          "uri": "kca://work/amzn1.gr.work.v1.nW6Z887OveV-UakcA7WblQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "91582"
+        },
+        "isbn": "0486444074",
+        "isbn13": "9780486444079",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2017"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.F1Q-gaFD2RG6UBTuAKcbng",
+        "title": "Lady Susan",
+        "title_without_series": "Lady Susan",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328864949l/91582._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328864949l/91582._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/91582.Lady_Susan",
+        "num_pages": "180",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Dover Publications",
+        "publication_day": "8",
+        "publication_year": "2005",
+        "publication_month": "11",
+        "average_rating": "3.61",
+        "ratings_count": "28219",
+        "description": "<div>Beautiful, flirtatious, and recently widowed, Lady Susan Vernon seeks an advantageous second marriage for herself, while attempting to push her daughter into a dismal match. A magnificently crafted novel of Regency manners and mores that will delight Austen enthusiasts with its wit and elegant expression.</div>",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "2424548",
+          "uri": "kca://work/amzn1.gr.work.v1.eI0VCwDVdMI-O8fXIGAQ7A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "208729"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "384"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.BslgOoNVpvYZ9lTIDQHzkQ",
+        "title": "Lady Susan, The Watsons, Sanditon",
+        "title_without_series": "Lady Susan, The Watsons, Sanditon",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371223264l/208729._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371223264l/208729._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/208729.Lady_Susan_The_Watsons_Sanditon",
+        "num_pages": "211",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Penguin Classics",
+        "publication_day": "28",
+        "publication_year": "1974",
+        "publication_month": "11",
+        "average_rating": "3.75",
+        "ratings_count": "7200",
+        "description": "<b>Together, these three works - one novel unpublished in her lifetime and two unfinished fragments - reveal Jane Austen's development as a great artist.</b><br /><p><i>Lady Susan</i>, with its wicked, beautiful, intelligent and energetic heroine, is a sparkling melodrama which takes its tone from the outspoken and robust eighteen century. Written later, and probably abandoned after her father's death, <i>The Watsons</i> is a tantalizing and highly delightful story whose vitality and optimism centre on the marital prospects of the Watson sisters in a small provincial town. <i>Sanditon</i>, Jane Austen's last fiction, is set in a seaside town and its themes concern the new speculative consumer society and foreshadow the great social upheavals of the Industrial Revolution.</p>",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1974",
+        "work": {
+          "id": "1890744",
+          "uri": "kca://work/amzn1.gr.work.v1.4rnSpccCrQT-9qNCk-3NuA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "50396"
+        },
+        "isbn": "0192840827",
+        "isbn13": "9780192840820",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "154"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.GBSWfzuni37K1KN4PUQt1Q",
+        "title": "Northanger Abbey, Lady Susan, The Watsons, Sanditon",
+        "title_without_series": "Northanger Abbey, Lady Susan, The Watsons, Sanditon",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374684713l/50396._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374684713l/50396._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/50396.Northanger_Abbey_Lady_Susan_The_Watsons_Sanditon",
+        "num_pages": "379",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Oxford University Press",
+        "publication_day": "30",
+        "publication_year": "2003",
+        "publication_month": "10",
+        "average_rating": "3.95",
+        "ratings_count": "6736",
+        "description": "Northanger Abbey depicts the misadventures of Catherine Morland, young, ingenuous, and mettlesome, and an indefatigable reader of gothic novels. Their romantic excess and dark overstatement feed her imagination, as tyrannical fathers and diabolical villains work their evil on forlorn heroines in isolated settings. What could be more remote from the uneventful securities of life in the midland counties of England? Yet as Austen brilliantly contrasts fiction with reality, ordinary life takes a more sinister turn, and edginess and circumspection are reaffirmed alongside comedy and literary burlesque.<br /> Also including Austen's other short fictions, Lady Susan, The Watsons, and Sanditon, this valuable new edition shows her to be as innovative at the start of her career as at its close.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "2495740",
+          "uri": "kca://work/amzn1.gr.work.v1.vuTOr7s7UQzRqRHEdKXhCQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7756378"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "25"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.yY4AO3eyF2TpbbnGFVbwUA",
+        "title": "Jane Austen: The Complete Collection",
+        "title_without_series": "Jane Austen: The Complete Collection",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266599490l/7756378._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266599490l/7756378._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7756378-jane-austen",
+        "num_pages": "2306",
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "Bedford Park Books",
+        "publication_day": "6",
+        "publication_year": "2010",
+        "publication_month": "2",
+        "average_rating": "4.63",
+        "ratings_count": "5566",
+        "description": "Collected here are 14 major and minor works dating from Austen's youth to her final years, wherein she left unfinished works, the conclusions of which are left to our imagination. Included are the following: <br /><br />Major Works: <br />Sense and Sensibility (1811) <br />Pride and Prejudice (1813) <br />Mansfield Park (1814) <br />Emma (1815) <br />Northanger Abbey (1817) Posthumous <br />Persuasion (1817) Posthumous <br /><br />Unfinished Works:<br />The Watsons (1804) <br />Sanditon (1817) <br /><br />Minor Work:<br />Lady Susan (1794, 1805) <br /><br />Early Works: <br />Love and Friendship <br />Lesley Castle <br />The History of England <br />Collection of Letters <br />Scraps <br /><br />Experience Jane Austen like you never have before, by having all of her major and minor works right in the palm of your hand!",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "23758596",
+          "uri": "kca://work/amzn1.gr.work.v1.1MTtnLc7jkZ_1quV7jizww"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "386550"
+        },
+        "isbn": "1406945862",
+        "isbn13": "9781406945867",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "269"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.srUXOt_OWPp-1uj4v0oUGw",
+        "title": "Love and Friendship",
+        "title_without_series": "Love and Friendship",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/386550.Love_and_Friendship",
+        "num_pages": "90",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Hard Press",
+        "publication_day": "3",
+        "publication_year": "2006",
+        "publication_month": "11",
+        "average_rating": "3.55",
+        "ratings_count": "6098",
+        "description": "This collection of the early works of Jane Austen uniquely displays the emerging talent of a brilliant and observant young woman. Completed before Austen was fifteen, the works are astonishing in their maturity. Blending the exuberance of youth with the sharp wit and devastating social criticism of her later novels, Love and Friendship is a collection not to be missed.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "13686612",
+          "uri": "kca://work/amzn1.gr.work.v1.RAV6tL3U7NTY2I6gl5D8uQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "14904"
+        },
+        "isbn": "0753705176",
+        "isbn13": "9780753705179",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "88"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.XhQ_el-c56WR4NK_pKisgw",
+        "title": "Jane Austen: Pride and Prejudice, Mansfield Park, Persuasion",
+        "title_without_series": "Jane Austen: Pride and Prejudice, Mansfield Park, Persuasion",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374684690l/14904.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374684690l/14904._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/14904.Jane_Austen",
+        "num_pages": "832",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Chancellor Press",
+        "publication_day": "1",
+        "publication_year": "2002",
+        "publication_month": "10",
+        "average_rating": "4.48",
+        "ratings_count": "3668",
+        "description": "Jane Austen's sparkling and witty novels continue to entrance readers today--as proven by the rapturous reception given the many film and TV adaptations of her work. <i>Pride and Prejudice</i>, Austen's most well-loved story, tells of Lizzy Bennet and her five sisters as they search for true love-a love Lizzy nearly loses because of pride. Fanny, of <i>Mansfield Park</i>, comes to live with her aunt and uncle in their elegant mansion. But she finds herself both out of place and in love with her handsome cousin Edmund. Can shy Fanny win him from the outgoing and charming Miss Crawford? <i>Persuasion</i>, Austen's last final novel, explores the consequences of giving in to the opinions of others, rather than following one's own heart. Delightfully illustrated with delicate line drawings. <br />",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "6947052",
+          "uri": "kca://work/amzn1.gr.work.v1.OVVeAw2elFZwJWqN5xs-uA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "166177"
+        },
+        "isbn": "0684843420",
+        "isbn13": "9780684843421",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "378"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ivPARCFazyxWO93BCEGwKQ",
+        "title": "Sanditon: Jane Austen's Last Novel Completed",
+        "title_without_series": "Sanditon: Jane Austen's Last Novel Completed",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/166177.Sanditon",
+        "num_pages": "316",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Scribner Paperback Fiction",
+        "publication_day": "6",
+        "publication_year": "1998",
+        "publication_month": "10",
+        "average_rating": "3.70",
+        "ratings_count": "3849",
+        "description": "From the publisher: Sanditon was Jane Austen's last novel, bequeathed unfinished to her niece. This is its completion, praised for its delicacy, wit and discretion.<br /><br />When Charlotte Heywood, eldest daughter of a family of fourteen, is invited to stay with Mr. and Mrs. Parker of Sanditon, she accepts with alacrity, intrigued to visit the once quiet town being promoted by Mr. Parker as the newly fashionable resort for sea-bathing.<br /><br />As a guest of the Parkers, Charlotte is introduced to the full range of Sanditon polite society, from Lady Denham to her impoverished ward Clara and from the feckless Sidney Parker to his hypochondriac sisters. A heroine whose clear-sighted common sense is often at war with romance, she cannot help observing around her both folly and romance in many guises, but can she herself resist the attractions of the heart?",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "2214455",
+          "uri": "kca://work/amzn1.gr.work.v1.tou0afjlloBHvBz_nr6J4w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2155"
+        },
+        "isbn": "0192832972",
+        "isbn13": "9780192832979",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "69"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.l_Up4PgdPjrlTBINTmtcrw",
+        "title": "Jane Austen's Letters",
+        "title_without_series": "Jane Austen's Letters",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2155.Jane_Austen_s_Letters",
+        "num_pages": "672",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Oxford University Press, USA",
+        "publication_day": "3",
+        "publication_year": "1997",
+        "publication_month": "4",
+        "average_rating": "4.16",
+        "ratings_count": "2453",
+        "description": "Jane Austen's letters afford a unique insight into the daily life of the novelist: intimate and gossipy, observant and informative--they read much like the novels themselves. They bring alive her family and friends, her surroundings and contemporary events with a freshness unparalleled in modern biographies. Above all we recognize the unmistakable voice of the author of such novels as Pride and Prejudice and Sense and Sensibility. We see the shift in her writing from witty and amusing descriptions of the social life of town and country, to a thoughtful and constructive tone while writing about the business of literary composition.<br /> R.W. Chapman's ground-breaking edition of the collected Letters first appeared in 1932, and a second edition followed twenty years later. Now in this third edition of Jane Austen's Letters, Deirdre Le Faye has added new material that has come to light since 1952, and re-ordered the letters into their correct chronological sequence. She has provided discreet and full annotation to each letter, including its provenance, and information on the watermarks, postmarks, and other physical details of the manuscripts, together with new biographical, topographical, and general indexes. Teachers, students, and fans of Jane Austen, at all levels, will find remarkable insight into one of the most popular novelists ever.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1997",
+        "work": {
+          "id": "6195",
+          "uri": "kca://work/amzn1.gr.work.v1.WMHwmhhyJkMweFz9tXlHsA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1880157"
+        },
+        "isbn": "0451075226",
+        "isbn13": "9780451075222",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "180"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.T2DBT8s8IxoAHMYXmrlllA",
+        "title": "The Watsons",
+        "title_without_series": "The Watsons",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476696544l/1880157._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476696544l/1880157._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1880157.The_Watsons",
+        "num_pages": "314",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Signet",
+        "publication_day": "3",
+        "publication_year": "1977",
+        "publication_month": "5",
+        "average_rating": "3.48",
+        "ratings_count": "2750",
+        "description": "Left impoverished upon the death of her aunt, Emma Watson has no option but to be reunited with her estranged father and siblings. Initially delighted with her new life—including the fashionable society balls to which she now has access—Emma soon realizes that her family harbors many ill feelings, not least those springing from the sisters' hopes—and disappointments—in snaring a husband. So when the eligible and suitably rich Tom Musgrove begins to transfer his affections from her sister Margaret to Emma, the result can only be further sibling rivalry and unrest. A delightful, exquisitely drawn portrait of family life, <u>The Watsons</u> is Jane Austen at her storytelling best. Author of the masterpieces <u>Pride and Prejudice</u> and <u>Emma</u>, Jane Austen (1775–1817) is one of the most beloved novelists of all time.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1977",
+        "work": {
+          "id": "313672",
+          "uri": "kca://work/amzn1.gr.work.v1.6HNIP5CjrSsUUknyL1z0iQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "5509247"
+        },
+        "isbn": "1843911841",
+        "isbn13": "9781843911845",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "224"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.9wPKFxhjmhSGZJMzRDKeeA",
+        "title": "Sanditon",
+        "title_without_series": "Sanditon",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328729014l/5509247._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328729014l/5509247._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/5509247-sanditon",
+        "num_pages": "112",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Hesperus Press",
+        "publication_day": "1",
+        "publication_year": "2009",
+        "publication_month": "9",
+        "average_rating": "3.52",
+        "ratings_count": "2693",
+        "description": "Charlotte Heywood is privileged to accompany Mr and Mrs Parker to their home in Sanditon – not least because, they assure her, it is soon to become the fashionable epicentre of society summers. Finding the town all but deserted, she is party to the machinations of her socially mobile hosts in their attempts to gather a respectable crowd, and Austen assembles a classic cast of characters of varying degrees of absurdity of sense.<br /><br />The last of Austen’s fiction works, written in the year before her death, when she was gravely ill, <i>Sanditon</i> affords a glimpse of the ultimate creative powers and preoccupations of one of the greatest figures in English literature.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "62966324",
+          "uri": "kca://work/amzn1.gr.work.v1.9UuUdwt5LDLVzukXfol4EQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "24874295"
+        },
+        "isbn": "0141397071",
+        "isbn13": "9780141397078",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "246"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.N5Z3SYhFf37KaI9MYtPd8g",
+        "title": "The Beautifull Cassandra",
+        "title_without_series": "The Beautifull Cassandra",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423753185l/24874295._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423753185l/24874295._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/24874295-the-beautifull-cassandra",
+        "num_pages": "55",
+        "format": "Paperback",
+        "edition_information": "Little Black Classics #33",
+        "publisher": "Penguin Classics",
+        "publication_day": "26",
+        "publication_year": "2015",
+        "publication_month": "2",
+        "average_rating": "3.32",
+        "ratings_count": "1872",
+        "description": "'She has many rare and charming qualities, but Sobriety is not one of them.'<br /><br /> A selection of Austen's dark and hilarious early writings - featuring murder, drunkenness, perjury, theft, poisoning, women breaking out of prison, men forging wills and babies biting off their mothers' fingers... <br /><br />Introducing Little Black Classics: 80 books for Penguin's 80th birthday. Little Black Classics celebrate the huge range and diversity of Penguin Classics, with books from around the world and across many centuries. They take us from a balloon ride over Victorian London to a garden of blossom in Japan, from Tierra del Fuego to 16th-century California and the Russian steppe. Here are stories lyrical and savage; poems epic and intimate; essays satirical and inspirational; and ideas that have shaped the lives of millions. <br /><br />Jane Austen (1775-1817).<br /><br /> Austen's works available in Penguin Classics are Emma, Lady Susan, The Watsons and Sanditon, Love and Freindship and Other Youthful Writings, Mansfield Park, Northanger Abbey, Persuasion, Pride and Prejudice and Sense and Sensibility.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2015",
+        "work": {
+          "id": "44522732",
+          "uri": "kca://work/amzn1.gr.work.v1.tspXj0Jsd5Yzq7WCh9DRFw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "267718"
+        },
+        "isbn": "1406790001",
+        "isbn13": "9781406790009",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "52"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.mwmncPUz02WnTJhcPVyesg",
+        "title": "Northhanger Abbey / Persuasion",
+        "title_without_series": "Northhanger Abbey / Persuasion",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/267718.Northhanger_Abbey_Persuasion",
+        "num_pages": "480",
+        "format": "Paperback",
+        "edition_information": "Omnibus",
+        "publisher": "Pomona Press",
+        "publication_day": "31",
+        "publication_year": "2007",
+        "publication_month": "1",
+        "average_rating": "3.99",
+        "ratings_count": "1490",
+        "description": "Many of the earliest books, particularly those dating back to the 1900s and before, are now extremely scarce and increasingly expensive. Pomona Press are republishing these classic works in affordable, high quality, modern editions, using the original text and artwork.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "46309798",
+          "uri": "kca://work/amzn1.gr.work.v1.onjJI7EXK3CV7vB6QwVr1A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "31694"
+        },
+        "isbn": "1565120558",
+        "isbn13": "9781565120556",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "91"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.K7_RVQ0oE8UJkKeCS6f58A",
+        "title": "The History of England",
+        "title_without_series": "The History of England",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549640748l/31694._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549640748l/31694._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/31694.The_History_of_England",
+        "num_pages": "60",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Algonquin Books",
+        "publication_day": "10",
+        "publication_year": "1993",
+        "publication_month": "1",
+        "average_rating": "3.89",
+        "ratings_count": "1212",
+        "description": "As a schoolgirl, Jane Austen must have suffered terribly under her lessons of English history. The sixteen-year-old finally took revenge and wrote her own history of the Kings and Queens of England. Containing thirteen mischievous portraits of the English Royals, this very entertaining--and incomparably unreliable--history book is illustrated by Mandy Schludt, whose previous work in illustration and book design received the distinguished Stiftung Buchkunst Prize in German (2005).",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1993",
+        "work": {
+          "id": "21883746",
+          "uri": "kca://work/amzn1.gr.work.v1.2c9KBq7tqh9hgM3xkkRfOA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13597813"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9786074150971",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "81"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.veKEWYEq4dlw1MVFKdQ1og",
+        "title": "Orgullo y prejuicio / Persuasión",
+        "title_without_series": "Orgullo y prejuicio / Persuasión",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335036859l/13597813._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335036859l/13597813._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13597813-orgullo-y-prejuicio-persuasi-n",
+        "num_pages": "542",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "GRUPO EDITORIAL TOMO",
+        "publication_day": {},
+        "publication_year": "2009",
+        "publication_month": {},
+        "average_rating": "4.35",
+        "ratings_count": "1026",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "45658111",
+          "uri": "kca://work/amzn1.gr.work.v1.EBjgKf1hU3yldQQE-dxA2Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2191900"
+        },
+        "isbn": "0755414969",
+        "isbn13": "9780755414963",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "19"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ZDFM46Mb0K1Wi8n9oJyWVg",
+        "title": "Emma, Mansfield Park, Sense and Sensibility, Pride and Prejudice, Northanger Abbey & Persuasion",
+        "title_without_series": "Emma, Mansfield Park, Sense and Sensibility, Pride and Prejudice, Northanger Abbey & Persuasion",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2191900.Emma_Mansfield_Park_Sense_and_Sensibility_Pride_and_Prejudice_Northanger_Abbey_Persuasion",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.57",
+        "ratings_count": "785",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "45984857",
+          "uri": "kca://work/amzn1.gr.work.v1.cyTcDB1athQHxJN1vS4p0A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "923541"
+        },
+        "isbn": "0760768560",
+        "isbn13": "9780760768563",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "59"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.5-gQDI3d0odp7Db7Ewjy8w",
+        "title": "Love and Friendship and Other Early Works",
+        "title_without_series": "Love and Friendship and Other Early Works",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328816965l/923541._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328816965l/923541._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/923541.Love_and_Friendship_and_Other_Early_Works",
+        "num_pages": "104",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Barnes & Noble",
+        "publication_day": "14",
+        "publication_year": "2005",
+        "publication_month": "4",
+        "average_rating": "3.61",
+        "ratings_count": "971",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "74330105",
+          "uri": "kca://work/amzn1.gr.work.v3.XpFomGbMPdDcSCbU"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "358858"
+        },
+        "isbn": "1587264323",
+        "isbn13": "9781587264320",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "35"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.SicsDeMhpi4ZZm39B3xugw",
+        "title": "The Works of Jane Austen: Pride and Prejudice / Sense and Sensibility / Emma / Persuasion",
+        "title_without_series": "The Works of Jane Austen: Pride and Prejudice / Sense and Sensibility / Emma / Persuasion",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582312000l/358858._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582312000l/358858._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/358858.The_Works_of_Jane_Austen",
+        "num_pages": "714",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Ann Arbor Media Group",
+        "publication_day": {},
+        "publication_year": "2006",
+        "publication_month": {},
+        "average_rating": "4.58",
+        "ratings_count": "703",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "46105767",
+          "uri": "kca://work/amzn1.gr.work.v1._mB_C7X_-GY0cU6IBojV7g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "17866980"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.60bt4G6AIMo9HF-NTVWLSw",
+        "title": "Pride and Prejudice Volume I",
+        "title_without_series": "Pride and Prejudice Volume I",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/17866980-pride-and-prejudice-volume-i",
+        "num_pages": {},
+        "format": "Leather Bound",
+        "edition_information": {},
+        "publisher": "R. C. Brady Ltd.",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.26",
+        "ratings_count": "640",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "62012062",
+          "uri": "kca://work/amzn1.gr.work.v1.Tbl1OdcESAbCNHzVf7HTlg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6323556"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.5ptxx2ei0a62FYyIFjQICw",
+        "title": "The Complete works of Jane Austen",
+        "title_without_series": "The Complete works of Jane Austen",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6323556-the-complete-works-of-jane-austen",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "Douglas Editions",
+        "publication_day": "6",
+        "publication_year": "2009",
+        "publication_month": "3",
+        "average_rating": "4.57",
+        "ratings_count": "591",
+        "description": "A complete edition of all 6 of jane Austen's masterpiece novels.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "69443541",
+          "uri": "kca://work/amzn1.gr.work.v1.x-o_OW-gyXYIuJaOUarkDQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "208829"
+        },
+        "isbn": "0192835211",
+        "isbn13": "9780192835215",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "30"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.sGLOsK5JRtyM7hAJChtoWA",
+        "title": "Catharine and Other Writings",
+        "title_without_series": "Catharine and Other Writings",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374684663l/208829._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374684663l/208829._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/208829.Catharine_and_Other_Writings",
+        "num_pages": "372",
+        "format": "Paperback",
+        "edition_information": "Oxford World's Classics",
+        "publisher": "Oxford University Press",
+        "publication_day": "13",
+        "publication_year": "1998",
+        "publication_month": "8",
+        "average_rating": "3.75",
+        "ratings_count": "679",
+        "description": "Jane Austen began writing in her early teens, and filled three notebooks with her fiction. Her earliest work reflects her interest in the novel as a genre; in brilliant short pieces she plays with plots, stock characters, diction, and style, developing a sense of form at a remarkably early age. The characters of these stories have a jaunty and never-failing devotion to themselves. They perpetually lie, cheat, steal - and occasionally commit murder. Throughout these short or unfinished pieces, Austen exhibits her sense of the preposterous in life and fiction with tough-mindedness and robust humour. In her later published fiction, Austen had learned to take demands for propriety seriously, reining in whatever might be thought boisterous or coarse. Here we see Jane Austen without her inhibitions. In addition to prose fiction and prayers, this collection also contains many of Jane Austen's poems, written to amuse or console friends, and rarely reprinted. Texts throughout are based on manuscripts, including the three notebooks, affording a distinct edition with a number of new readings.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "2211585",
+          "uri": "kca://work/amzn1.gr.work.v1.WhLRM8Vq5vEo1_b6ekRRRQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "50378"
+        },
+        "isbn": "1843911159",
+        "isbn13": "9781843911159",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "46"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.0hn5AQXeN1IhLBJTM9rRbA",
+        "title": "Lesley Castle",
+        "title_without_series": "Lesley Castle",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328850149l/50378._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328850149l/50378._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/50378.Lesley_Castle",
+        "num_pages": "112",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Hesperus Press",
+        "publication_day": "1",
+        "publication_year": "2005",
+        "publication_month": "3",
+        "average_rating": "3.47",
+        "ratings_count": "523",
+        "description": "This inspired novella, with its outrageous cast of superficial characters, brilliantly showcases Jane Austen's comic genius. Presented here with <i>A History of England</i> and <i>Catharine.</i> As Miss Margaret Lesley and Miss Charlotte Lutterell divulge their innermost secrets through a series of letters, each reveals where her true priorities lie—if a bridegroom is fatally wounded the night before his wedding, the first concern must inexorably be for the luxurious food that will be laid to waste. As one plot gives way to the next, and as the heroines exchange wisdom on adultery, elopement, divorce, and remarriage, they increasingly fall prey to the merciless and lambasting sword of Jane Austen’s wit. Author of the masterpieces <i>Pride and Prejudice</i> and <i>Emma,</i> Jane Austen is one of the world’s best-loved novelists.",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "49217",
+          "uri": "kca://work/amzn1.gr.work.v1.hgkIEuSoTLuQ-rsGfJQj8w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "38731680"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.AF8_zITIRrC859cE-Y6-kg",
+        "title": "Jane Austen: The Complete Novels",
+        "title_without_series": "Jane Austen: The Complete Novels",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/38731680-jane-austen",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.53",
+        "ratings_count": "381",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "69415481",
+          "uri": "kca://work/amzn1.gr.work.v1.-sYfAdpYcI73jIrBlqa3aw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "166178"
+        },
+        "isbn": "0679447199",
+        "isbn13": "9780679447191",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "48"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.HCCAkUmi7vXY3WerIyRqcQ",
+        "title": "Sanditon and Other Stories",
+        "title_without_series": "Sanditon and Other Stories",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469912l/166178._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469912l/166178._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/166178.Sanditon_and_Other_Stories",
+        "num_pages": "544",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Everyman's Library",
+        "publication_day": {},
+        "publication_year": "1996",
+        "publication_month": "4",
+        "average_rating": "3.74",
+        "ratings_count": "449",
+        "description": "Readers of Jane Austen’s six great novels are left hungering for more, and more there is: the marvelous unpublished manuscripts she left behind, collected here.<br /><i><br />Sanditon </i>might have been Austen’s greatest novel had she lived to finish it. Its subject matter astonishes: here is Austen observing the birth pangs of the culture of commerce, as her country-bred heroine, a foolish baronet, a family of hypochondriacs, and a mysterious West Indian heiress collide against the background hum of real-estate development at a seaside resort.<br /><i><br />The Watsons</i>, begun in 1804 but never completed, tells the story of a young woman who was raised by a rich aunt and who finds herself shipped back to the comparative poverty and social clumsiness of her own family.<br /><br />The novella <i>Lady Susan</i> is a miniature masterpiece, featuring Austen’s only villainous protagonist. Lady Susan’s subtle, single-minded, and ruthless pursuit of power makes the reader regret that Austen never again wrote a novel with a scheming widow for its heroine.<br /><br />The special joy of this collection lies in Austen’s juvenilia–tiny novels, the enchantingly funny <i>Love and Freindship</i>, comic fragments, and a (very) partial history of England–romping miniatures that she wrote in her teens. Their high spirits, hilarity, and control offer delicious proof that Austen was an artist “born, not made.”",
+        "authors": {
+          "author": {
+            "id": "1265",
+            "name": "Jane Austen",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p5/1265.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1380085320p2/1265.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1265.Jane_Austen",
+            "average_rating": "4.12",
+            "ratings_count": "5719326",
+            "text_reviews_count": "159676"
+          }
+        },
+        "published": "1996",
+        "work": {
+          "id": "17388267",
+          "uri": "kca://work/amzn1.gr.work.v1.MVkEPdZLiVSHILNAFtWq3A"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1632 @@
+{
+  "id": "32699",
+  "name": "Greg Egan",
+  "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "187",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156784"
+        },
+        "isbn": "006105481X",
+        "isbn13": "9780061054815",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "358"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.A3IoZPRSxagXXL_SaevHJw",
+        "title": "Permutation City (Subjective Cosmology #2)",
+        "title_without_series": "Permutation City",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156784.Permutation_City",
+        "num_pages": "352",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "HarperPrism",
+        "publication_day": "1",
+        "publication_year": "1995",
+        "publication_month": "10",
+        "average_rating": "4.08",
+        "ratings_count": "7281",
+        "description": "The story of a man with a vision - immortality : for those who can afford it is found in cyberspace. Permutation city is the tale of a man with a vision - how to create immortality - and how that vision becomes something way beyond his control. Encompassing the lives and struggles of an artificial life junkie desperate to save her dying mother, a billionaire banker scarred by a terrible crime, the lovers for whom, in their timeless virtual world, love is not enough - and much more - Permutation city is filled with the sense of wonder.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "1995",
+        "work": {
+          "id": "1270567",
+          "uri": "kca://work/amzn1.gr.work.v1.Wr52bEuIH4K89G-wMMXOeg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156785"
+        },
+        "isbn": "3453161815",
+        "isbn13": "9783453161818",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "391"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.wxe1aCBeSp9am5kzCVH9XQ",
+        "title": "Diaspora",
+        "title_without_series": "Diaspora",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156785.Diaspora",
+        "num_pages": "443",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Heyne",
+        "publication_day": {},
+        "publication_year": "2000",
+        "publication_month": "2",
+        "average_rating": "4.13",
+        "ratings_count": "6700",
+        "description": "By the end of the 30th century humanity has the capability to travel the universe, to journey beyond earth and beyond the confines of the vulnerable human frame.<br /><br />The descendants of centuries of scientific, cultural and physical development divide into three: fleshers — true Homo sapiens; Gleisner robots — embodying human minds within machines that interact with the physical world; and polises — supercomputers teeming with intelligent software, containing the direct copies of billions of human personalities now existing only in the virtual reality of the polis.<br /><br />Diaspora is the story of Yatima — a polis being created from random mutations of the Konishi polis base mind seed — and of humankind, Of an astrophysical accident that spurs the thousandfold cloning of the polises. Of the discovery of an alien race and of a kink in time that means humanity — whatever form it takes — will never again be threatened by acts of God.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "1007609",
+          "uri": "kca://work/amzn1.gr.work.v1.GNG2kdjuFusEsX_-A0ZigQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156783"
+        },
+        "isbn": "0061052655",
+        "isbn13": "9780061052651",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "195"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.hCi3hjv_8jCYaNoMnrk6WQ",
+        "title": "Axiomatic",
+        "title_without_series": "Axiomatic",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341765l/156783._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341765l/156783._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156783.Axiomatic",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "HarperPrism",
+        "publication_day": "1",
+        "publication_year": "1997",
+        "publication_month": "12",
+        "average_rating": "4.27",
+        "ratings_count": "3970",
+        "description": "<i>Axiomatic</i> is a collection of Greg Egan's short stories that appeared in various science fiction magazines (mostly <i>Interzone</i> and <i>Asimov's</i>) between 1989 and 1992. <br /><br />Contents:<br />The Infinite Assassin (1991)<br />The Hundred Light-Year Diary (1992)<br />Eugene (1990)<br />The Caress (1990)<br />Blood Sisters (1991)<br />Axiomatic (1990)<br />The Safe-Deposit Box (1990)<br />Seeing (1995)<br />A Kidnapping (1995)<br />Learning to Be Me (1990)<br />The Moat (1991)<br />The Walk (1992)<br />The Cutie (1989)<br />Into Darkness (1992)<br />Appropriate Love (1991)<br />The Moral Virologist (1990)<br />Closer (1992)<br />Unstable Orbits in the Space of Lies (1992)",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "1997",
+        "work": {
+          "id": "1270534",
+          "uri": "kca://work/amzn1.gr.work.v1.EoFmSsXWGORyE6-ihNNGeQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156775"
+        },
+        "isbn": "0061054232",
+        "isbn13": "9780061054235",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "204"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ZIhdUysjLzGS9M71ANUG8Q",
+        "title": "Quarantine (Subjective Cosmology #1)",
+        "title_without_series": "Quarantine",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156775.Quarantine",
+        "num_pages": "280",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "HarperPrism",
+        "publication_day": "1",
+        "publication_year": "1995",
+        "publication_month": "1",
+        "average_rating": "3.89",
+        "ratings_count": "4061",
+        "description": "It causes riots and religions. It has people dancing in the streets and leaping off skyscrapers. And it's all because of the impenetrable gray shield that slid into place around the solar system on the night of November 15, 2034.<br /><br />Some see the bubble as the revenge of an insane God. Some see it as justice. Some even see it as protection. But one thing is for certain -- now there is the universe, and the earth. And never the twain shall meet.<br /><br />Or so it seems. Until a bio-enhanced PI named Nick Stavrianos takes on a job for an anonymous client: find a girl named Laura who disappeared from a mental institution by the most direct possible method -- walking through the walls.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "1995",
+        "work": {
+          "id": "1270545",
+          "uri": "kca://work/amzn1.gr.work.v1.p33cRpz94HjP2hXhphCUWA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156780"
+        },
+        "isbn": "006107344X",
+        "isbn13": "9780061073441",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "148"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.aPoqdcV-deb4SVI-0Mw6Yw",
+        "title": "Schild's Ladder",
+        "title_without_series": "Schild's Ladder",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156780.Schild_s_Ladder",
+        "num_pages": "352",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Eos",
+        "publication_day": "1",
+        "publication_year": "2004",
+        "publication_month": "1",
+        "average_rating": "3.93",
+        "ratings_count": "2894",
+        "description": "Twenty thousand years into the future, an experiment in quantum physics has had a catastrophic result, creating an enormous, rapidly expanding vacuum that devours everything it comes in contact with. Now humans must confront this deadly expansion. Tchicaya, aboard a starship trawling the border of the vacuum, has allied himself with the Yielders-- those determined to study the vacuum while allowing it to grow unchecked. But when his fiery first love, Mariama, reenters his life on the side of the Preservationists-- those working to halt and destroy the vacuum-- Tchicaya finds himself struggling with an inner turmoil he has known since childhood.<br /><br />However, in the center of the vacuum, something is developing that neither Tchicaya and the Yielders nor Mariama and the Preservationists could ever have imagined possible: life.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "151292",
+          "uri": "kca://work/amzn1.gr.work.v1.p8amn17b55yEccnKJpvU6A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156781"
+        },
+        "isbn": "0061057274",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "106"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.KsdqGJPvLqcuSXUTroMYFA",
+        "title": "Distress (Subjective Cosmology #3)",
+        "title_without_series": "Distress",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156781.Distress",
+        "num_pages": "456",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Eos",
+        "publication_day": {},
+        "publication_year": "1998",
+        "publication_month": "2",
+        "average_rating": "3.84",
+        "ratings_count": "2083",
+        "description": "Investigative reporter Andrew Worth turns down a documentary on a mysterious new mental illness -- \"Distress, \" or acute clinical anxiety syndrome, for another assignment. He's on his way to the artifical island of Stateless, where the world's top physicists are gathering to decide on a new TOE, or Theory of Everything, to replace Einstein's outmoded legacy.Chief among the scientists is the brilliant African Nobel laureate, Violet Mosala, the focus of Worth's story, who is the subject of mysterious death threats. Worth begins his own investigation, but it takes on even more urgency when he finds that Distress, the mental plague now affecting millions, is linked somehow to the approaching \"Aleph Moment\" when the TOE is finalized. The countdown has begun for a disaster that will reach all the way back to the Big Bang. And beyond...",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "151293",
+          "uri": "kca://work/amzn1.gr.work.v1.5c-rp524K_HzNYwZ_ILLKA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2425528"
+        },
+        "isbn": "0575081627",
+        "isbn13": "9780575081628",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "123"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.EoR7hE97uN6a-Is5a0OnXw",
+        "title": "Incandescence",
+        "title_without_series": "Incandescence",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329556545l/2425528._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329556545l/2425528._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2425528.Incandescence",
+        "num_pages": "300",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Gollancz",
+        "publication_day": "15",
+        "publication_year": "2008",
+        "publication_month": "5",
+        "average_rating": "3.62",
+        "ratings_count": "1841",
+        "description": "The long-awaited new novel from Greg Egan! Hugo Award-winning author Egan returns to the field with Incandescence, a new novel of hard SF.<br />The Amalgam spans nearly the entire galaxy, and is composed of innumerable beings from a wild variety of races, some human or near it, some entirely other. The one place that they cannot go is the bulge, the bright, hot center of the galaxy. There dwell the Aloof, who for millions of years have deflected any and all attempts to communicate with or visit them. So when Rakesh is offered an opportunity to travel within their sphere, in search of a lost race, he cannot turn it down.<br />Roi is a member of that lost race, which is not only lost to the Amalgam, but lost to itself. In their world, there is but toil, and history and science are luxuries that they can ill afford.<br />Rakesh's journey will take him across millennia and light years. Roi's will take her across vistas of learning and discovery just as vast.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "2432715",
+          "uri": "kca://work/amzn1.gr.work.v1.liAusaHqzttRqqTLGJjZwQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9756310"
+        },
+        "isbn": "0575095113",
+        "isbn13": "9780575095113",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "160"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.fkXJ88yz0TNs3DuiYK4wBw",
+        "title": "The Clockwork Rocket (Orthogonal, #1)",
+        "title_without_series": "The Clockwork Rocket",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309397561l/9756310._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309397561l/9756310._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9756310-the-clockwork-rocket",
+        "num_pages": "512",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Orion/Gollancz",
+        "publication_day": "15",
+        "publication_year": "2011",
+        "publication_month": "9",
+        "average_rating": "3.61",
+        "ratings_count": "1822",
+        "description": "In Yalda's universe, light has no universal speed and its creation generates energy.<br /><br />On Yalda's world, plants make food by emitting their own light into the dark night sky.<br /><br />As a child Yalda witnesses one of a series of strange meteors, the Hurtlers, that are entering the planetary system at an immense, unprecedented speed. It becomes apparent that her world is in imminent danger — and that the task of dealing with the Hurtlers will require knowledge and technology far beyond anything her civilisation has yet achieved.<br /><br />Only one solution seems tenable: if a spacecraft can be sent on a journey at sufficiently high speed, its trip will last many generations for those on board, but it will return after just a few years have passed at home. The travellers will have a chance to discover the science their planet urgently needs, and bring it back in time to avert disaster.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "14645596",
+          "uri": "kca://work/amzn1.gr.work.v1.sgF_2E0d7n2Q7MRvwOfXjQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156782"
+        },
+        "isbn": "1857985737",
+        "isbn13": "9781857985733",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "43"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.OlQ8kdQsSkaZObWuF93sAg",
+        "title": "Luminous",
+        "title_without_series": "Luminous",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287342185l/156782._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287342185l/156782._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156782.Luminous",
+        "num_pages": "295",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Gollancz,",
+        "publication_day": "1",
+        "publication_year": "1999",
+        "publication_month": "1",
+        "average_rating": "4.10",
+        "ratings_count": "1237",
+        "description": "LUMINOUS collects together one original story plus nine previously unpublished in book form. Greg Egan's short fiction is at the cutting edge of the genre. His stories range from near future predictions to far future, far space improvisations. His grasp of the latest scientific breakthroughs is unparalleled in science fiction. The stories include 'Transition Dreams', 'Cocoon', 'Our Lady of Chernobyl', the title story 'Luminous' and 'The Planck Drive'. Egan's particular interests range from the farther shores of chaos theory and black hole science to bio-technology and cloning.<br /><br />Contents:<br />Chaff (1993)<br />Mitochondrial Eve (1995)<br />Luminous (1995)<br />Mister Volition (1995)<br />Cocoon (1994)<br />Transition Dreams (1993)<br />Silver Fire (1995)<br />Reasons to Be Cheerful (1997)<br />Our Lady of Chernobyl (1994)<br />The Planck Dive (1998)",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "1999",
+        "work": {
+          "id": "1270543",
+          "uri": "kca://work/amzn1.gr.work.v1.xV3w8Ajyy4yP7-nhEZQwag"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "156787"
+        },
+        "isbn": "0061059803",
+        "isbn13": "9780061059803",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "47"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.GHWweGgiSKDD04baH78-7Q",
+        "title": "Teranesia",
+        "title_without_series": "Teranesia",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491878784l/156787._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491878784l/156787._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/156787.Teranesia",
+        "num_pages": "352",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Eos",
+        "publication_day": "1",
+        "publication_year": "2000",
+        "publication_month": "11",
+        "average_rating": "3.46",
+        "ratings_count": "1153",
+        "description": "Prabir Suresh and his younger sister, Madhursee, live in a remote paradise called Teranesia, where their biologist parents are studying an unexplained genetic mutation among the island's butterflies. Then civil war erupts across Indonesia, shattering their idyllic world and their lives.Twenty years later, Prabir is still plagued by feelings of guilt and an overwhelming responsiblity for his sister, now a biologist herself. Against his advice, Madhurse is returning to Teranesia to solve the mystery of the butterflies and study strange new plant and animal species that have been emerging throughout the region-species seperated from their known cousins by dramatic mutations that seem far too efficient to have arisen by chance.<br /><br />Afraid for her safety, Prabir joins forces with independant scientist Martha Grant to find her. But what he will discover on Teranesia is far more dangerous and wondrous than he can ever fear--or imagine..",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "1270556",
+          "uri": "kca://work/amzn1.gr.work.v1.gIhWVscMS38xTk1i7RDa1Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7029563"
+        },
+        "isbn": "1597801747",
+        "isbn13": "9781597801744",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "108"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.7a5yqqTuBIpCum2LZLtjww",
+        "title": "Zendegi",
+        "title_without_series": "Zendegi",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343218l/7029563._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343218l/7029563._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7029563-zendegi",
+        "num_pages": "300",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Night Shade",
+        "publication_day": "1",
+        "publication_year": "2010",
+        "publication_month": "3",
+        "average_rating": "3.42",
+        "ratings_count": "1096",
+        "description": "Set in a near future Iran (where the theocracy has been overthrown, but where Muslim religion still dominates the culture), an Arab/Muslim focused MMORG gaming companies cutting edge AI software might hold the key achieving \"uploaded consciousness.\"<br /><br />Martin is an Australian journalist who covered uprising and overthrow of the Iranian theocracy, and has since “gone native” with a Iranian wife and child. As tragedy strikes his multi-cultural family, Martin struggles to maintain his place in his adapted culture, and to provide for his child.<br /><br /><i>Zendegi</i> explores what it means to be human, and the lengths one will go to in order to provide for ones children. This emotional roller coaster explores a non-Western-European near future that both challenges ideas of global mono-culture and emphasizes the humanity we all share.<br />",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "7277378",
+          "uri": "kca://work/amzn1.gr.work.v1.TLakPwOVjQUkgbYDUTEchQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6741362"
+        },
+        "isbn": "0575086521",
+        "isbn13": "9780575086524",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "44"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.OHMr6TfFvBwHBwmv2emA9A",
+        "title": "Oceanic",
+        "title_without_series": "Oceanic",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327642193l/6741362._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327642193l/6741362._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6741362-oceanic",
+        "num_pages": "496",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Gollancz",
+        "publication_day": {},
+        "publication_year": "2009",
+        "publication_month": {},
+        "average_rating": "3.99",
+        "ratings_count": "794",
+        "description": "Collected together here for the first time are twelve stories by the incomparable Greg Egan, one of the most exciting writers of science fiction working today. In these dozen glimpses into the future Egan continues to explore the essence of what it is to be human, and the nature of what - and who - we are, in stories that range from parables of contemporary human conflict and ambition to far-future tales of our immortal descendants. Return to the universe of the meta-civilisation known as the Amalgam, which Egan explored in his critically acclaimed novel Incandescence: 'Riding the Crocodile', which recounts an epic endeavour a million years from now to bridge the divide between the Amalgam and the reclusive Aloof; 'Glory', set in the same future, in which two archaeologists strive to decipher the artefacts of an ancient civilisation, and 'Hot Rock', where an obscure, sunless world conceals mind-spinning technological marvels, bitter factional struggles, and a many-layered secret history. This superb collection also includes the title story, the Hugo Award-winning 'Oceanic': a boy is inducted into a religion that becomes the centre of his life, but as an adult he must face evidence that casts a new light on his faith.<br /><br />Contents:<br />Border Guards (1999)<br />Crystal Nights (2008)<br />Dark Integers (2007)<br />Glory (2007)<br />Hot Rock (2009)<br />Induction (2007)<br />Lost Continent (2008)<br />Oceanic (1998)<br />Oracle (2000)<br />Riding the Crocodile (2005)<br />Singleton (2002)<br />Steve Fever (2007)",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "7253536",
+          "uri": "kca://work/amzn1.gr.work.v1.lbIoR7lMUX-isj98A_tMFw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "11114494"
+        },
+        "isbn": "0575105712",
+        "isbn13": "9780575105713",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "45"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Nq60PAOS--mVg_ZS9ne1XA",
+        "title": "The Eternal Flame (Orthogonal, #2)",
+        "title_without_series": "The Eternal Flame",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339235955l/11114494._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339235955l/11114494._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/11114494-the-eternal-flame",
+        "num_pages": "328",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Night Shade Books",
+        "publication_day": "26",
+        "publication_year": "2012",
+        "publication_month": "8",
+        "average_rating": "3.91",
+        "ratings_count": "708",
+        "description": "Greg Egan’s The Clockwork Rocket introduced readers to an exotic universe where the laws of physics are very different from our own, where the speed of light varies in ways Einstein would never allow, and where intelligent life has evolved in unique and fascinating ways. Now Egan continues his epic tale of alien beings embarked on a desperate voyage to save their world . . . .<br /><br />The generation ship Peerless is in search of advanced technology capable of sparing their home planet from imminent destruction. In theory, the ship is traveling fast enough that it can traverse the cosmos for generations–and still return home only a few years after they departed. But a critical fuel shortage threatens to cut their urgent voyage short, even as a population explosion stretches the ship’s life-support capacity to its limits.<br /><br />When the astronomer Tamara discovers the Object, a meteor whose trajectory will bring it within range of the Peerless, she sees a risky solution to the fuel crisis. Meanwhile, the biologist Carlo searches for a better way to control fertility, despite the traditions and prejudices of their society. As the scientists clash with the ship’s leaders, they find themselves caught up in two equally dangerous revolutions: one in the sexual roles of their species, the other in their very understanding of the nature of matter and energy.<br /><br />The Eternal Flame lights up the mind with dazzling new frontiers of physics and biology, as only Greg Egan could imagine them.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2012",
+        "work": {
+          "id": "16037012",
+          "uri": "kca://work/amzn1.gr.work.v1.8JY2dwCvhk-fwgYMvZ2tzA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13352266"
+        },
+        "isbn": "0575105763",
+        "isbn13": "9780575105768",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "50"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.LCZRYtIZWr-1zhARmvJ1eg",
+        "title": "The Arrows of Time (Orthogonal #3)",
+        "title_without_series": "The Arrows of Time",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383322361l/13352266._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383322361l/13352266._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13352266-the-arrows-of-time",
+        "num_pages": "392",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Night Shade Books",
+        "publication_day": "5",
+        "publication_year": "2014",
+        "publication_month": "8",
+        "average_rating": "4.01",
+        "ratings_count": "543",
+        "description": "Hard science fiction’s grand master delivers the stunning conclusion to his Orthogonal trilogy.<br /><br />In a universe where the laws of physics and the speed of light are completely alien to our own, the travelers on the ship Peerless have completed a generations-long struggle to develop advanced technology in a desperate attempt to save their home world. But as tensions mount over the risks of turning the ship around and starting the long voyage home, a new complication arises: the prospect of constructing a messaging system that will give the Peerless news of its own future.<br /><br />While some see this as a guarantee of safety and a chance to learn of their mission’s ultimate success, others are convinced that the knowledge will be oppressive or worse—that the system could be abused. The conflict over this proposed communication system tears the travelers’ society apart, culminating in terrible violence. To save the Peerless and its mission, two rivals must travel to a world where time runs in reverse.<br /><br />Continuing the epic multiple generation-spanning scope of The Clockwork Rocket and The Eternal Flame, Greg Egan’s Orthogonal series has continuously pushed the boundaries of scientific fiction without ever losing track of the lives of the individuals carrying out this grand mission. The Arrows of Time brings this fascinating space opera to a close.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "18576622",
+          "uri": "kca://work/amzn1.gr.work.v1.gB5JYDl2c11olKIx62cnOg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "41940371"
+        },
+        "isbn": "1250313783",
+        "isbn13": "9781250313782",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "83"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Ehwg96xE7tM3fcvBOj4eEw",
+        "title": "Perihelion Summer",
+        "title_without_series": "Perihelion Summer",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539071275l/41940371._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539071275l/41940371._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/41940371-perihelion-summer",
+        "num_pages": "224",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor.com",
+        "publication_day": "16",
+        "publication_year": "2019",
+        "publication_month": "4",
+        "average_rating": "3.34",
+        "ratings_count": "603",
+        "description": "Greg Egan's <i>Perihelion Summer </i>is a story of people struggling to adapt to a suddenly alien environment, and the friendships and alliances they forge as they try to find their way in a world where the old maps have lost their meaning.<br /><br />Taraxippus is coming: a black hole one tenth the mass of the sun is about to enter the solar system.<br /><br />Matt and his friends are taking no chances. They board a mobile aquaculture rig, the Mandjet, self-sustaining in food, power and fresh water, and decide to sit out the encounter off-shore. As Taraxippus draws nearer, new observations throw the original predictions for its trajectory into doubt, and by the time it leaves the solar system, the conditions of life across the globe will be changed forever.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2019",
+        "work": {
+          "id": "64276952",
+          "uri": "kca://work/amzn1.gr.work.v1.hPpFjl35vamLnEGEPDl8Iw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "30351492"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "61"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.x74vZnUg7BEKf516bE_XyQ",
+        "title": "Dichronauts",
+        "title_without_series": "Dichronauts",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465076194l/30351492._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465076194l/30351492._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/30351492-dichronauts",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "Night Shade Books",
+        "publication_day": "4",
+        "publication_year": "2017",
+        "publication_month": "7",
+        "average_rating": "3.55",
+        "ratings_count": "445",
+        "description": "Seth is a surveyor, along with his friend Theo, a leech-like creature running through his skull who tells Seth what lies to his left and right. Theo, in turn, relies on Seth for mobility, and for ordinary vision looking forwards and backwards. Like everyone else in their world, they are symbionts, depending on each other to survive.<br /><br />In the universe containing Seth's world, light cannot travel in all directions: there is a “dark cone” to the north and south. Seth can only face to the east (or the west, if he tips his head backwards). If he starts to turn to the north or south, his body stretches out across the landscape, and to rotate as far as north-north-east is every bit as impossible as accelerating to the speed of light.<br /><br />Every living thing in Seth’s world is in a state of perpetual migration as they follow the sun’s shifting orbit and the narrow habitable zone it creates. Cities are being constantly disassembled at one edge and rebuilt at the other, with surveyors mapping safe routes ahead.<br /><br />But when Seth and Theo join an expedition to the edge of the habitable zone, they discover a terrifying threat: a fissure in the surface of the world, so deep and wide that no one can perceive its limits. As the habitable zone continues to move, the migration will soon be blocked by this unbridgeable void, and the expedition has only one option to save its city from annihilation: descend into the unknown.<br />",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2017",
+        "work": {
+          "id": "50855668",
+          "uri": "kca://work/amzn1.gr.work.v1.fFrm6S-m7KkjG5wr5EO-UQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "29887374"
+        },
+        "isbn": "1596067918",
+        "isbn13": "9781596067912",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "47"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.IEhUC7oQNGAgpS4DMjzF8g",
+        "title": "The Four Thousand, the Eight Hundred",
+        "title_without_series": "The Four Thousand, the Eight Hundred",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466989711l/29887374._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466989711l/29887374._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/29887374-the-four-thousand-the-eight-hundred",
+        "num_pages": {},
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": {},
+        "publication_year": "2016",
+        "publication_month": "11",
+        "average_rating": "3.63",
+        "ratings_count": "334",
+        "description": "Camille is desperate to escape her home on colonized asteroid Vesta, journeying through space in a small cocoon pod covertly and precariously attached to a cargo ship. Anna is a newly appointed port director on asteroid Ceres, intrigued by the causes that have led so-called riders like Camille to show up at her post in search of asylum.<br /><br />Conditions on Vesta are quickly deteriorating—for one group of people in particular. The original founders agreed to split profits equally, but the Sivadier syndicate contributed intellectual property rather than more valued tangible goods. Now the rest of the populace wants payback. As Camille travels closer to Ceres, it seems ever more likely that Vesta will demand the other asteroid stop harboring its fugitives.<br /><br />With The Four Thousand, the Eight Hundred, acclaimed author Greg Egan offers up a stellar, novella-length example of hard science fiction, as human and involving as it is insightful and philosophical.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2016",
+        "work": {
+          "id": "50258229",
+          "uri": "kca://work/amzn1.gr.work.v1.AMLaasOcKbaiTInk7ERN6Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "35450877"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "25"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.TEFr-4cz-m6cT6BFbTRKdQ",
+        "title": "Uncanny Valley",
+        "title_without_series": "Uncanny Valley",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497695392l/35450877._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497695392l/35450877._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/35450877-uncanny-valley",
+        "num_pages": "54",
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "9",
+        "publication_year": "2017",
+        "publication_month": "8",
+        "average_rating": "3.46",
+        "ratings_count": "312",
+        "description": "Immortality, but at what price, in what form, and how could you be you? In the near future it’s possible to build a new you, a better you, one that could carry on forever. But if you could carry on, if you could make choices about who you would be forever, how much of your past would you bring with you? Would you be tempted to maybe…edit? Adam isn’t all that he used to be, but he wants to be.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2017",
+        "work": {
+          "id": "56836832",
+          "uri": "kca://work/amzn1.gr.work.v1.9an09aPQDAo6vM1FBBUeKg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "40698167"
+        },
+        "isbn": "1250294312",
+        "isbn13": "9781250294319",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "42"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.VG-R6gWZbVJ0AGs2Z0ouRA",
+        "title": "The Nearest",
+        "title_without_series": "The Nearest",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532017918l/40698167._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532017918l/40698167._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/40698167-the-nearest",
+        "num_pages": "32",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "18",
+        "publication_year": "2018",
+        "publication_month": "7",
+        "average_rating": "3.61",
+        "ratings_count": "263",
+        "description": "When a detective, a new mother, is assigned to the case of a horrific triple murder, it appears to be a self-contained domestic tragedy, a terrible event but something that doesn’t affect the rest of the community. But it slowly becomes clear that something much darker may be at play, something that spreads out from the scene of the crime to corrode the closest relationships of everyone it touches.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2018",
+        "work": {
+          "id": "63298820",
+          "uri": "kca://work/amzn1.gr.work.v1.Mt0HGfXxnzuHQZu9P_PD4Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "36869307"
+        },
+        "isbn": "1596068663",
+        "isbn13": "9781596068667",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "31"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.DUONivtDNfn1QljyFB9Qkg",
+        "title": "Phoresis",
+        "title_without_series": "Phoresis",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520615381l/36869307._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520615381l/36869307._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/36869307-phoresis",
+        "num_pages": "163",
+        "format": "Hardcover",
+        "edition_information": "Limited",
+        "publisher": "Subterranean Press",
+        "publication_day": {},
+        "publication_year": "2018",
+        "publication_month": "4",
+        "average_rating": "3.82",
+        "ratings_count": "231",
+        "description": "Welcome to Tvibura and Tviburi, the richly imagined twin planets that stand at the center of Greg Egan’s extraordinary new novella, Phoresis.<br /><br />These two planets—one inhabited, one not—exist in extreme proximity to one another. As the narrative begins, Tvibura, the inhabited planet, faces a grave and imminent threat: the food supply is dwindling, and the conditions necessary for sustaining life are growing more and more erratic. Faced with the prospect of eventual catastrophe, the remarkable women of Tvibura launch a pair of ambitious, long-term initiatives. The first involves an attempt to reanimate the planet’s increasingly dormant ecosphere. The second concerns the building of a literal “bridge between worlds” that will connect Tvibura to its (hopefully) habitable sibling.<br /><br />These initiatives form the core of the narrative, which is divided into three sections and takes place over many generations. The resulting triptych is at once an epic in miniature, a work of hard SF filled with humanist touches, and a compressed, meticulously detailed example of original world building. Most centrally, it is a portrait of people struggling—and sometimes risking everything—to preserve a future they will not live to see. Erudite and entertaining, Phoresis shows us Egan at his formidable best, offering the sort of intense, visionary pleasures only science fiction can provide.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2018",
+        "work": {
+          "id": "58636418",
+          "uri": "kca://work/amzn1.gr.work.v1.4jPr0IdEt8lNY3tfRN6KQw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2034846"
+        },
+        "isbn": "1596061553",
+        "isbn13": "9781596061552",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "18"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.rp1xzPPRIZe7jaCgpP7jVg",
+        "title": "Dark Integers and Other Stories",
+        "title_without_series": "Dark Integers and Other Stories",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2034846.Dark_Integers_and_Other_Stories",
+        "num_pages": {},
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": "1",
+        "publication_year": "2008",
+        "publication_month": "3",
+        "average_rating": "4.13",
+        "ratings_count": "204",
+        "description": "A brand new short story collection by one of science fiction's modern masters. This five tale, 80,000 word book includes Luminous, Riding the Crocodile, Dark Integers. Glory, and Oceanic.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "2039616",
+          "uri": "kca://work/amzn1.gr.work.v1.FR1VqAKa7qBnhNJ69Iz3fg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6280555"
+        },
+        "isbn": "1596062401",
+        "isbn13": "9781596062405",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "13"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.HqoRHLddiwHEi3Yc8cWSSg",
+        "title": "Crystal Nights and Other Stories",
+        "title_without_series": "Crystal Nights and Other Stories",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6280555-crystal-nights-and-other-stories",
+        "num_pages": "310",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": "1",
+        "publication_year": "2009",
+        "publication_month": "9",
+        "average_rating": "4.19",
+        "ratings_count": "140",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "6464153",
+          "uri": "kca://work/amzn1.gr.work.v1.G0jBJISGNncfu5T7OlB4uw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "17084967"
+        },
+        "isbn": "1472103440",
+        "isbn13": "9781472103444",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.JOH1HoVfMaOx_XTuNmr9RA",
+        "title": "Wang's Carpets",
+        "title_without_series": "Wang's Carpets",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384783663l/17084967._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384783663l/17084967._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/17084967-wang-s-carpets",
+        "num_pages": "35",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Robinson Publishing",
+        "publication_day": "15",
+        "publication_year": "2012",
+        "publication_month": "11",
+        "average_rating": "4.04",
+        "ratings_count": "138",
+        "description": "Far in the distant, post-human future, the Cater-Zimmermann community set out to refute the theory that the universe is created exclusively for mankind by cloning themselves a thousand times over and sending each copy to a different star within the galaxy. One of the copies of Cater-Zimmermann, Paolo Venetti, arrives at Orpheus; a water-world inhabited by floating mats that perform as a Turing machine.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2012",
+        "work": {
+          "id": "23454118",
+          "uri": "kca://work/amzn1.gr.work.v1.p4P09_BOwY255II0Zpdcww"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4988167"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "9"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.X5a4AGLPevasL554_XGSRA",
+        "title": "Reasons to be Cheerful",
+        "title_without_series": "Reasons to be Cheerful",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582744726l/4988167._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582744726l/4988167._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4988167-reasons-to-be-cheerful",
+        "num_pages": "32",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Fictionwise Classic",
+        "publication_day": "25",
+        "publication_year": "2003",
+        "publication_month": "9",
+        "average_rating": "4.45",
+        "ratings_count": "119",
+        "description": "A 12-year-old boy develops a deadly brain tumor that inadvertently floods his system with Leu-enkephalin, the neuropeptide that triggers happiness. Unwaveringly optimistic at his chance of survival, the risky surgery that saves his life also ends the euphoric bliss, leaving his brain with a cavernous hole where the pleasure centers used to be. The 18 years of sadness that follow are a downward spiral of despair, and as a last resort he agrees to another treatment that gives him conscious control over what makes him happy. As he attempts to re-enter the world beyond the hospitals and his gloomy apartment, he faces the ultimate dilemma of self-control ... how happy would you be if you could make yourself as happy as you want? <br /><br />Locus Poll Award Nominee<br /><br />Also included in the collection <i>Luminous</i>.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "6637961",
+          "uri": "kca://work/amzn1.gr.work.v1.jQXlxV9BTXLvE2FmbDshTA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "50641444"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.7YAVZI-W4XpHcNUd",
+        "title": "Instantiation",
+        "title_without_series": "Instantiation",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/50641444-instantiation",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.24",
+        "ratings_count": "101",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "75650091",
+          "uri": "kca://work/amzn1.gr.work.v3.K1ixpnz8ocXpeCZW"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "51938094"
+        },
+        "isbn": "1250247829",
+        "isbn13": "9781250247827",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "25"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.-rLBzE14z__tB1Z7",
+        "title": "Zeitgeber",
+        "title_without_series": "Zeitgeber",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/51938094-zeitgeber",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.50",
+        "ratings_count": "122",
+        "description": "For millions of years, life on Earth has taken its cues from the rising and setting of the sun, and for most of human history we've followed the same rhythm. But if that shared connection was broken, and we each fell under the sway of our own private clock, could we still hold our lives together? One family is about to find out.<br /><br />At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "73472101",
+          "uri": "kca://work/amzn1.gr.work.v2.e972d828-afa6-4145-ab83-3f2677724d32"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4988162"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.DRajh9z2_4aSb3_vHfCfKQ",
+        "title": "The Planck Dive",
+        "title_without_series": "The Planck Dive",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560554138l/4988162._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560554138l/4988162._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4988162-the-planck-dive",
+        "num_pages": "32",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Fictionwise",
+        "publication_day": {},
+        "publication_year": "2001",
+        "publication_month": "9",
+        "average_rating": "4.05",
+        "ratings_count": "65",
+        "description": "[Quantum physics and space-time relativity are explored at length in this densely packed hard science fiction story.] On a planet circling a black hole ninety-seven light years from earth, five physicists are preparing an experimental ship to descend into a nearby black hole. The crew for the suicide mission will be the physicists' clones, and although the originals don't expect the crew to survive or send back information about the structure of spacetime at the Planck scale, they are secretly hopeful their genetic counterparts will prove them wrong.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "5054035",
+          "uri": "kca://work/amzn1.gr.work.v1.E638qHVUZ39XJbKaO7ZmpA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "453685"
+        },
+        "isbn": "1884612334",
+        "isbn13": "9781884612336",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.2PNKWBGPea54ma9o5Xx1-g",
+        "title": "Blood Sisters",
+        "title_without_series": "Blood Sisters",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538958264l/453685._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538958264l/453685._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/453685.Blood_Sisters",
+        "num_pages": "1",
+        "format": "Audio CD",
+        "edition_information": "Great Science Fiction Stories",
+        "publisher": "Infinivox",
+        "publication_day": "15",
+        "publication_year": "2004",
+        "publication_month": "6",
+        "average_rating": "3.51",
+        "ratings_count": "45",
+        "description": "Why waste years designing viruses for biological warfare when blind mutation and natural selection was all that was required? The theory was, they'd set up a few trillion copies of their system. The theory also included 520 people all sticking scrupulously to official procedure, day after day, month after month, without a moment of carelessness, laziness or forgetfulness. Apparently, nobody bothered to compute the probability of that or of finding wonder drugs.<br /><br />52 minutes",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "540874",
+          "uri": "kca://work/amzn1.gr.work.v1.xa8cyDuybBA87nv0cCvi7g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4988163"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xauUeAj0dJwO0QbxVuGl9A",
+        "title": "Mitochondrial Eve",
+        "title_without_series": "Mitochondrial Eve",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4988163-mitochondrial-eve",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.89",
+        "ratings_count": "37",
+        "description": "At the request of his new girlfriend, Paul, a post-doctoral physics student, begrudgingly agrees to have a sample of his blood analyzed by the Children of Eve. The techno-cult claims their mitochondrial DNA sequencing has traced back 200,000 years to identify a sub-Saharan Homo Sapien as the single mother of the entire human species. Rival groups discount the claims, and the race is on to provide definitive proof. Paul's blood analysis shows the migration patterns of his ancestors, but the limited technology allows only approximations. Curiosity ... along with the cult's funding ... prompts Paul to take on a project that, if successful, will be able to exactly identify the ancestral placement of every human who ever lived ... and once and for all dispel the tragic notion that we are separated by race.",
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "5054036",
+          "uri": "kca://work/amzn1.gr.work.v1.55SP6rl58UGtwBmfLfrsfQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4988168"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Y-KgL7LszwBSGBLkoCCipg",
+        "title": "Our Lady Of Chernobyl",
+        "title_without_series": "Our Lady Of Chernobyl",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4988168-our-lady-of-chernobyl",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.76",
+        "ratings_count": "34",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "32699",
+            "name": "Greg Egan",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p5/32699.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1375595103p2/32699.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/32699.Greg_Egan",
+            "average_rating": "3.93",
+            "ratings_count": "52834",
+            "text_reviews_count": "4791"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "5054041",
+          "uri": "kca://work/amzn1.gr.work.v1.dtdBH4TJRrPuoi3gSuXw9g"
+        }
+      }
+    ]
+  }
+}

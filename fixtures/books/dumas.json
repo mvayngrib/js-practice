@@ -1,0 +1,1612 @@
+{
+  "id": "4785",
+  "name": "Alexandre Dumas",
+  "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "2936",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7126"
+        },
+        "isbn": "0140449264",
+        "isbn13": "9780140449266",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "14387"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4LLHAo49tDW66htC-lz5Rg",
+        "title": "The Count of Monte Cristo",
+        "title_without_series": "The Count of Monte Cristo",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203605l/7126._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203605l/7126._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo",
+        "num_pages": "1276",
+        "format": "Paperback",
+        "edition_information": "Penguin Classics",
+        "publisher": "Penguin Classics",
+        "publication_day": "27",
+        "publication_year": "2003",
+        "publication_month": "5",
+        "average_rating": "4.25",
+        "ratings_count": "715983",
+        "description": "Thrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. Dumas’ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s.<br /><br />Robin Buss’s lively English translation is complete and unabridged, and remains faithful to the style of Dumas’s original. This edition includes an introduction, explanatory notes and suggestions for further reading.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "391568",
+          "uri": "kca://work/amzn1.gr.work.v1.lP6QcblkGK0xzPw6svLP5w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7190"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "3828"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xZFCBXgbWy6QsTo2TeWL4A",
+        "title": "The Three Musketeers (The D'Artagnan Romances, #1)",
+        "title_without_series": "The Three Musketeers",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320436982l/7190._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320436982l/7190._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7190.The_Three_Musketeers",
+        "num_pages": "625",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Modern Library",
+        "publication_day": "13",
+        "publication_year": "2001",
+        "publication_month": "2",
+        "average_rating": "4.07",
+        "ratings_count": "262311",
+        "description": "Alexandre Dumas’s most famous tale— and possibly the most famous historical novel of all time— in a handsome hardcover volume.<br /><br />This swashbuckling epic of chivalry, honor, and derring-do, set in France during the 1620s, is richly populated with romantic heroes, unattainable heroines, kings, queens, cavaliers, and criminals in a whirl of adventure, espionage, conspiracy, murder, vengeance, love, scandal, and suspense. Dumas transforms minor historical figures into larger- than-life characters: the Comte d’Artagnan, an impetuous young man in pursuit of glory; the beguilingly evil seductress “Milady”; the powerful and devious Cardinal Richelieu; the weak King Louis XIII and his unhappy queen—and, of course, the three musketeers themselves, Athos, Porthos, and Aramis, whose motto “all for one, one for all” has come to epitomize devoted friendship. With a plot that delivers stolen diamonds, masked balls, purloined letters, and, of course, great bouts of swordplay, <i>The Three Musketeers </i>is eternally entertaining.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "1263212",
+          "uri": "kca://work/amzn1.gr.work.v1.W7BsOYv41XP_65N3CZ1t2A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "54499"
+        },
+        "isbn": "0140439242",
+        "isbn13": "9780140439243",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "671"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ZV00IR02wCmcjHCPHeNkjA",
+        "title": "The Man in the Iron Mask (The D'Artagnan Romances, #3.4)",
+        "title_without_series": "The Man in the Iron Mask",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571392348l/54499._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571392348l/54499._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/54499.The_Man_in_the_Iron_Mask",
+        "num_pages": "470",
+        "format": "Paperback",
+        "edition_information": "Penguin Classics",
+        "publisher": "Penguin Books",
+        "publication_day": "28",
+        "publication_year": "2003",
+        "publication_month": "8",
+        "average_rating": "3.99",
+        "ratings_count": "64172",
+        "description": "<b>\n  <i>A swashbuckling novel of political intrigue.</i>\n</b><br /><br />In the concluding installment of Alexandre Dumas's celebrated cycle of the Three Musketeers, D'Artagnan remains in the service of the corrupt King Louis XIV after the Three Musketeers have retired and gone their separate ways. Unbeknownst to D'Artagnan, Aramis and Porthos plot to remove the inept king and place the king's twin brother on the throne of France. Meanwhile, a twenty-three-year-old prisoner known only as \"Philippe\" wastes away deep inside the Bastille. Forced to wear an iron mask, Phillippe has been imprisoned for eight years, has no knowledge of his true identity, and has not been told what crime he's committed. When the destinies of the king and Phillippe converge, the Three Musketeers and D'Artagnan find themselves caught between conflicting loyalties.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "2971402",
+          "uri": "kca://work/amzn1.gr.work.v1.RcQ1zBdw99KPW5gfjQa40A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7184"
+        },
+        "isbn": "0192838431",
+        "isbn13": "9780192838438",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "395"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4zmUFIlRyzknDjAPIEdKDw",
+        "title": "Twenty Years After (The D'Artagnan Romances #2)",
+        "title_without_series": "Twenty Years After",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7184.Twenty_Years_After",
+        "num_pages": "788",
+        "format": "Paperback",
+        "edition_information": "Oxford World's Classics",
+        "publisher": "Oxford University Press",
+        "publication_day": {},
+        "publication_year": "1993",
+        "publication_month": {},
+        "average_rating": "4.04",
+        "ratings_count": "19752",
+        "description": "'At this game, whoever does not kill is killed.'<br /><br /><i>Twenty Years After</i> (1845), the sequel to <i>The Three Musketeers</i>, is a supreme creation of suspense and heroic adventure.<br /><br />Two decades have passed since the musketeers triumphed over Cardinal Richelieu and Milady. Time has weakened their resolve, and dispersed their loyalties. But treasons and stratagems still cry out for justice: civil war endangers the throne of France, while in England Cromwell threatens to send Charles I to the scaffold. Dumas brings his immortal quartet out of retirement to cross swords with time, the malevolence of men, and the forces of history. But their greatest test is a titanic struggle with the son of Milady, who wears the face of Evil.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1993",
+        "work": {
+          "id": "666376",
+          "uri": "kca://work/amzn1.gr.work.v1.R3cbXhiIjoRlbON4QNgmrA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "388223"
+        },
+        "isbn": "3704313173",
+        "isbn13": "9783704313171",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "89"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4Jv7lExZe-ZMjpXBcKDEXg",
+        "title": "The Prince of Thieves (Tales of Robin Hood by Alexandre Dumas #1)",
+        "title_without_series": "The Prince of Thieves",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508050369l/388223._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508050369l/388223._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/388223.The_Prince_of_Thieves",
+        "num_pages": "224",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Neuer Kaiser",
+        "publication_day": "1",
+        "publication_year": "2001",
+        "publication_month": "12",
+        "average_rating": "4.03",
+        "ratings_count": "16327",
+        "description": "The first volume of Alexandre Dumas' two-part interpretation of the story of Robin Hood, popularized for Nineteenth Century audiences by Sir Walter Scott's Ivanhoe, set in England in 1162-66.<br /><br />In this book, Dumas tells the story of Robin Hood's youth: how he is delivered by an unknown man to be raised by poor but honest foresters, his great skill as an archer, how he comes into conflict with the Baron [sic] of Nottingham, how he meets Friar Tuck, the Maid Marian, Little John, Will Scarlett, and others, how he is declared an outlaw by the King, and decamps, with his followers, into Sherwood Forest to wage war against the Baron.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "377847",
+          "uri": "kca://work/amzn1.gr.work.v1.EK6tPoz55KI8rjM6kkcmrQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7182"
+        },
+        "isbn": "0140448926",
+        "isbn13": "9780140448924",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "606"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.hYXEK2OkaREEF-IaieeMDg",
+        "title": "The Black Tulip",
+        "title_without_series": "The Black Tulip",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405230401l/7182._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405230401l/7182._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7182.The_Black_Tulip",
+        "num_pages": "246",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Penguin Classics",
+        "publication_day": "24",
+        "publication_year": "2003",
+        "publication_month": "4",
+        "average_rating": "3.81",
+        "ratings_count": "14373",
+        "description": "<i>\n  <b>'To have discovered the black tulip, to have seen it for a moment...then to lose it, to lose it forever!'</b>\n</i><br /><br />Cornelius von Baerle, a respectable tulip-grower, lives only to cultivate the elusive black tulip and win a magnificent prize for its creation. But after his powerful godfather is assassinated, the unwitting Cornelius becomes caught up in deadly political intrigue and is falsely accused of high treason by a bitter rival. Condemned to life imprisonment, his only comfort is Rosa, the jailer's beautiful daughter, and together they concoct a plan to grow the black tulip in secret. Dumas' last major historical novel is a tale of romantic love, jealousy and obsession, interweaving historical events surrounding the brutal murders of two Dutch statesman in 1672 with the phenomenon of tulipomania that gripped seventeenth-century Holland.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "2024166",
+          "uri": "kca://work/amzn1.gr.work.v1.FXJdPnm6JnV0gpCgZDmC3A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "153875"
+        },
+        "isbn": "0786880821",
+        "isbn13": "9780786880829",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "190"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xV_BKmKcmw9qo8gMCp-ZmA",
+        "title": "Queen Margot, or Marguerite de Valois (The Last Valois, #1)",
+        "title_without_series": "Queen Margot, or Marguerite de Valois",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/153875.Queen_Margot_or_Marguerite_de_Valois",
+        "num_pages": "542",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Miramax Books",
+        "publication_day": "1",
+        "publication_year": "1994",
+        "publication_month": "10",
+        "average_rating": "4.14",
+        "ratings_count": "10926",
+        "description": "Released to coincide with the new Miramac film starring Isabelle Adjani, this is the classic novel unavailable for over 25 years. Massacres, conspiracies, clandestine trysts, secret alliances, daring escapes, sumptuous feasts, and duels of wit propel the action in this delightful story of French royalty during the 16th century. Advertising with movie.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1994",
+        "work": {
+          "id": "473934",
+          "uri": "kca://work/amzn1.gr.work.v1.3P79esRUSCZli--991uJYA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "956323"
+        },
+        "isbn": "2070405370",
+        "isbn13": "9782070405374",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "99"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.wVdAibQnJNJyH2fnJ_z-Eg",
+        "title": "Le Comte de Monte-Cristo I  (Le Comte de Monte-Cristo #1 of 2)",
+        "title_without_series": "Le Comte de Monte-Cristo I",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371603324l/956323._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371603324l/956323._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/956323.Le_Comte_de_Monte_Cristo_I",
+        "num_pages": "703",
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Gallimard",
+        "publication_day": "31",
+        "publication_year": "1998",
+        "publication_month": "12",
+        "average_rating": "4.51",
+        "ratings_count": "7206",
+        "description": "Tome I de II.<br /><br />« On fit encore quatre ou cinq pas en montant toujours, puis Dantès sentit qu'on le prenait par la tête et par les pieds et qu'on le balançait.<br />« Une, dirent les fossoyeurs.<br />- Deux.<br />- Trois ! »<br />En même temps, Dantès se sentit lancé, en effet, dans un vide énorme, traversant les airs comme un oiseau blessé, tombant, tombant toujours avec une épouvante qui lui glaçait le cœur. Quoique tiré en bas par quelque chose de pesant qui précipitait son vol rapide, il lui sembla que cette chute durait un siècle. Enfin, avec un bruit épouvantable, il entra comme une flèche dans une eau glacée qui lui fit pousser un cri, étouffé à l'instant même par l'immersion. Dantès avait été lancé dans la mer, au fond de laquelle l'entraînait un boulet de trente-six attaché à ses pieds.La mer est le cimetière du château d'If. »",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "41399325",
+          "uri": "kca://work/amzn1.gr.work.v1.97vYgTMnUEkFLHqWTy122A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "369042"
+        },
+        "isbn": "0192834630",
+        "isbn13": "9780192834638",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "149"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.UaKZVHKZcoKC9dl2S7qfew",
+        "title": "The Vicomte de Bragelonne (The D'Artagnan Romances, #3.1)",
+        "title_without_series": "The Vicomte de Bragelonne",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/369042.The_Vicomte_de_Bragelonne",
+        "num_pages": "768",
+        "format": "Paperback",
+        "edition_information": "Oxford World's Classics",
+        "publisher": "Oxford University Press",
+        "publication_day": "23",
+        "publication_year": "1998",
+        "publication_month": "7",
+        "average_rating": "3.97",
+        "ratings_count": "7047",
+        "description": "<i>The Vicomte de Bragelonne</i> opens an epic adventure which continues with <i>Louise de La Valliere</i> and reaches its climax in <i>The Man in the Iron Mask</i>. This new edition of the classic translation presents a key episode in the Musketeers saga, fully annotated and with an introduction by a leading Dumas scholar.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "21838371",
+          "uri": "kca://work/amzn1.gr.work.v1.TwYpRC2THHR7GBVuUL1ItA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "956320"
+        },
+        "isbn": "2070405923",
+        "isbn13": "9782070405923",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "92"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.0O6vrRrGN1_sOUijXNbn2w",
+        "title": "Le Comte de Monte-Cristo II (Le Comte de Monte-Cristo #2 of 2)",
+        "title_without_series": "Le Comte de Monte-Cristo II",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/956320.Le_Comte_de_Monte_Cristo_II",
+        "num_pages": "674",
+        "format": "Mass Market Paperback",
+        "edition_information": "Folio classique",
+        "publisher": "Gallimard",
+        "publication_day": "31",
+        "publication_year": "1998",
+        "publication_month": "12",
+        "average_rating": "4.52",
+        "ratings_count": "5798",
+        "description": "Tome II de II.<br /><br />Edmond Dantès, le commandant du Pharaon, fiancé à la belle Mercédès, a vu ses espérances brisées. Plus de vingt ans après son inique emprisonnement, de retour parmi les vivants, il est enfin prêt à accomplir sa vengeance, sans relâche ni pitié. De ses ennemis, il a tout appris. D'Europe en Orient, exhumant leurs crimes l'un après l'autre, il a retrouvé les comploteurs sans scrupule qui jurèrent sa perte. <br /><br />Le baron Danglars, ancien commis aux écritures devenu riche banquier. Monsieur de Villefort, substitut devenu procureur du roi. Le comte Fernand de Morcerf, désormais pair de France, et mari de Mercédès ! Sous le masque du comte de Monte-Cristo, Dantès a juré leur déshonneur, leur ruine et leur mort... Mais peut-il à bon droit se substituer à la divine Providence ? Ne serait-il pas plus grand justicier s'il était magnanime ? Telle est aussi la question que pose le livre le plus humain d'Alexandre Dumas.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "19052285",
+          "uri": "kca://work/amzn1.gr.work.v1.soBk6D9oTiKklmbMkHYDXA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "937643"
+        },
+        "isbn": "0192834657",
+        "isbn13": "9780192834652",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "106"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Y8pt8g97mmkc6GMSRVjf_w",
+        "title": "Louise de La Vallière (The D'Artagnan Romances, #3.3)",
+        "title_without_series": "Louise de La Vallière",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/937643.Louise_de_La_Valli_re",
+        "num_pages": "733",
+        "format": "Paperback",
+        "edition_information": "Oxford World's Classics",
+        "publisher": "Oxford University Press",
+        "publication_day": "23",
+        "publication_year": "1998",
+        "publication_month": "7",
+        "average_rating": "3.87",
+        "ratings_count": "3534",
+        "description": "It is early summer, 1661, and the royal court of France is in turmoil. Can it be true that the King is in love with the Duchess d'Orleans? Or has his eye been caught by the sweet and gentle Louise de la Valliere? No one is more anxious to know the answer than Raoul, son of Athos, who loves Louise more than life itself. Behind the scenes, dark intrigues are afoot. Louis XIV is intent on making himself absolute master of France. Imminent crisis shakes the now ageing Musketeers and d'Artagnan out of their complacent retirement, but is the cause just?",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "16183198",
+          "uri": "kca://work/amzn1.gr.work.v1.t2AQUX1_tquAc1qcQh52rQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1084704"
+        },
+        "isbn": "2070365263",
+        "isbn13": "9782070365265",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "40"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.QwPNhzjXxWi1dLyGf_c7kA",
+        "title": "Les Trois Mousquetaires 1",
+        "title_without_series": "Les Trois Mousquetaires 1",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352658650l/1084704._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352658650l/1084704._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1084704.Les_Trois_Mousquetaires_1",
+        "num_pages": {},
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Editions Flammarion",
+        "publication_day": "9",
+        "publication_year": "2001",
+        "publication_month": "11",
+        "average_rating": "4.23",
+        "ratings_count": "2103",
+        "description": "Cei trei muschetari (Les Trois Mousquetaires) este un roman de Alexandre Dumas tatăl, care relatează aventurile tânărului d'Artagnan după ce soseşte la Paris în urmărirea visului său de a deveni un muschetar al regelui. D'Artagnan nu este însă unul din muschetarii din titlu; acesta se referă la prietenii săi Athos, Porthos şi Aramis. Romanul este adesea citat cu ortografia greşită \"Cei trei muşchetari\".<br />Povestea lui d'Artagnan se continuă în alte două romane ale lui Dumas, După douăzeci de ani şi Vicontele de Bragelonne.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "49800951",
+          "uri": "kca://work/amzn1.gr.work.v1.Am5CiNTgvzpLBYum_z8Kgw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "70032"
+        },
+        "isbn": "1592248586",
+        "isbn13": "9781592248582",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "36"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ajE_PRttrOhBkT4280MpVQ",
+        "title": "Ten Years Later (The D'Artagnan Romances, #3.2)",
+        "title_without_series": "Ten Years Later",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/70032.Ten_Years_Later",
+        "num_pages": "452",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Borgo Press",
+        "publication_day": "15",
+        "publication_year": "2002",
+        "publication_month": "11",
+        "average_rating": "3.95",
+        "ratings_count": "1961",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "78104054",
+          "uri": "kca://work/amzn1.gr.work.v3.l-8v5QDQ1YLVCYmc"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "778238"
+        },
+        "isbn": "1587159724",
+        "isbn13": "9781587159725",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "37"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.88lKjbeBMF-NqjbgSQZZeA",
+        "title": "The Borgias",
+        "title_without_series": "The Borgias",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/778238.The_Borgias",
+        "num_pages": "244",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Borgo Press",
+        "publication_day": "15",
+        "publication_year": "2002",
+        "publication_month": "7",
+        "average_rating": "3.59",
+        "ratings_count": "1768",
+        "description": "CELEBRATED CRIMES Vol I, Part 1: The Borgias<br /><br />There are dreadful -- perhaps scurrilous -- rumors about the Borgias of renaissance Italy, and here Dumas, author of such classics as THE THREE MUSKETEERS, in his Celebrated Crimes series, dishes up the dirt in all its ugly glory. This book was not written for children. Dumas has minced no words in describing the violent scenes of a violent time. In some instances facts appear distorted out of their true perspective, and in others the author makes unwarranted charges. The careful, mature reader -- for whom the books are intended -- will recognize and allow for this fact. From 1839 to 1841, Dumas, with the assistance of several friends, compiled Celebrated Crimes, an eight-volume collection of essays on famous criminals and crimes from European history. He featured Beatrice Cenci, Martin Guerre, Cesare and Lucrezia Borgia, as well as more recent events and criminals, including the cases of the alleged murderers Karl Ludwig Sand and Antoine FranCois Desrues, who were executed.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "1841367",
+          "uri": "kca://work/amzn1.gr.work.v1.jxIrvR7Ogt1Ue3U63norZg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7197"
+        },
+        "isbn": "0812969634",
+        "isbn13": "9780812969634",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "70"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.jGYQFgL0LF0iROd0YDO-RA",
+        "title": "The Knight of Maison-Rouge",
+        "title_without_series": "The Knight of Maison-Rouge",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7197.The_Knight_of_Maison_Rouge",
+        "num_pages": "448",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Modern Library",
+        "publication_day": "14",
+        "publication_year": "2004",
+        "publication_month": "9",
+        "average_rating": "3.89",
+        "ratings_count": "1493",
+        "description": "<b>A major new translation of a forgotten classic</b><br /><br />Paris, 1793, the onset of the Terror. Brave Republican Maurice rescues a mys-terious and beautiful woman from an angry mob and is unknowingly drawn into a secret Royalist plot—a plot revolving around the imprisoned Queen of France, Marie Antoinette, and her enigmatic and fearless champion, the Knight of Maison-Rouge. Full of surprising twists, breakneck adventure, conspiracies, swordplay, romance, and heroism, <i>The Knight of Maison-Rouge</i> is an exhilarating tale of selflessness, love, and honor under the shadow of the guillotine. Dumas here is at the very height of his powers, and with this first and only modern translation, readers can once again ride with the Knight of Maison-Rouge.<br /><br /><br /><i>From the Hardcover edition.</i>",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "1486479",
+          "uri": "kca://work/amzn1.gr.work.v1.8lVs24fQDz4m7F508ilC_A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1053073"
+        },
+        "isbn": "1434499898",
+        "isbn13": "9781434499899",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "37"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4GV9Ab4dwNMFnSKxgC_hdg",
+        "title": "The Queen's Necklace",
+        "title_without_series": "The Queen's Necklace",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1053073.The_Queen_s_Necklace",
+        "num_pages": "332",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Wildside Press",
+        "publication_day": "12",
+        "publication_year": "2007",
+        "publication_month": "4",
+        "average_rating": "3.85",
+        "ratings_count": "1452",
+        "description": "\"The Queen's Necklace\" dramatizes an unsavory incident in the 1780s at the court of King Louis XVI of France involving the King's wife, Marie Antoinette. Her reputation was already tarnished by gossip and scandal, and her implication in a crime involving a stolen necklace became one of the major turning-points of public opinion against the monarchy, which eventually culminated in the French Revolution.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "564001",
+          "uri": "kca://work/amzn1.gr.work.v1.FAOHK1AkQ2DVnA4Q7NBMyA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "68150"
+        },
+        "isbn": "1600961150",
+        "isbn13": "9781600961151",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "37"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.E0mQm5djpvgjBPH8GvWldQ",
+        "title": "Joseph Balsamo",
+        "title_without_series": "Joseph Balsamo",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/68150.Joseph_Balsamo",
+        "num_pages": "586",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Waking Lion Press",
+        "publication_day": "30",
+        "publication_year": "2008",
+        "publication_month": "7",
+        "average_rating": "3.98",
+        "ratings_count": "1072",
+        "description": "Features one of the strangest characters in literature, Joseph Balsamo, also known as Cagliostro (later a key figure in the Affair of the Necklace). An alchemist, conspirator, and Freemason, Balsamo figures prominently in the eventual downfall of the French monarchy.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "2313389",
+          "uri": "kca://work/amzn1.gr.work.v1.A-MmHMAwEHrMrQHIOTJuyw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "577060"
+        },
+        "isbn": "160096902X",
+        "isbn13": "9781600969027",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "30"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.VEzq3BUPAgseuoyWi0JjJA",
+        "title": "Chicot the Jester (The Last Valois, #2)",
+        "title_without_series": "Chicot the Jester",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/577060.Chicot_the_Jester",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.20",
+        "ratings_count": "989",
+        "description": "La suite de «La reine Margot». Située entre le 9 février 1578 et le 19 août 1579, l'action s'ouvre sur le mariage de Saint-Luc, ex-amant de la reine Margot et favori d'Henri III, rappelé de Pologne pour succéder à Charles IX. Chicot, personnage central de la trilogie, déjoue avec maestria les conspirations contre le roi qui se succèdent. Sur ce fond d'intrigues, se déroule l'histoire des amours de Diane de Méridor, dame de Montsoreau, et du beau Bussy d'Amboise... <br /> <br />Extrait: <br /> <br />Le dimanche gras de l’année 1578, après la fête du populaire, et tandis que s’éteignaient dans les rues les rumeurs de la joyeuse journée, commençait une fête splendide dans le magnifique hôtel que venait de se faire bâtir, de l’autre côté de l’eau et presque en face du Louvre, cette illustre famille de Montmorency qui, alliée à la royauté de France, marchait l’égale des familles princières. Cette fête particulière, qui succédait à la fête publique, avait pour but de célébrer les noces de François d’Épinay de Saint-Luc, grand ami du roi Henri III et l’un de ses favoris les plus intimes, avec Jeanne de Cossé-Brissac, fille du maréchal de France de ce nom. <br /> <br />Le repas avait eu lieu au Louvre, et le roi, qui avait consenti à grand’peine au mariage, avait paru au festin avec un visage sévère qui n’avait rien d’approprié à la circonstance. Son costume, en outre, paraissait en harmonie avec son visage : c’était ce costume marron foncé sous lequel Clouet nous l’a montré assistant aux noces de Joyeuse, et cette espèce de spectre royal, sérieux jusqu’à la majesté, avait glacé d’effroi tout le monde, et surtout la jeune mariée, qu’il regardait fort de travers toutes les fois qu’il la regardait. <br /> <br />Cependant cette attitude sombre du roi, au milieu de la joie de cette fête, ne semblait étrange à personne ; car la cause en était un de ces secrets de cœur que tout le monde côtoie avec précaution, comme ces écueils à fleur d’eau auxquels on est sûr de se briser en les touchant. <br /> <br />À peine le repas terminé, le roi s’était levé brusquement, et force avait été aussitôt à tout le monde, même à ceux qui avouaient tout bas leur désir de rester à table, de suivre l’exemple du roi. Alors Saint-Luc avait jeté un long regard sur sa femme, comme pour puiser du courage dans ses yeux, et s’approchant du roi : <br /> <br />— Sire, lui dit-il, Votre Majesté me fera-t-elle l’honneur d’accepter les violons que je veux lui donner à l’hôtel de Montmorency, ce soir ? <br /> <br />Henri III s’était alors retourné avec un mélange de colère et de chagrin, et, comme Saint-Luc, courbé devant lui, l’implorait avec une voix des plus douces et une mine des plus engageantes : <br /> <br />— Oui, monsieur, avait-il répondu, nous irons, quoique vous ne méritiez certainement pas cette preuve d’amitié de notre part. <br /> <br />Alors mademoiselle de Brissac, devenue madame de Saint-Luc, avait remercié humblement le roi. Mais Henri avait tourné le dos sans répondre à ses remerciements.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "2369834",
+          "uri": "kca://work/amzn1.gr.work.v1.5XilVpXof82L5swwvXfkvA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1053023"
+        },
+        "isbn": "1428082328",
+        "isbn13": "9781428082328",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "25"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.kkFo0EgV9c2x8eZfSnHvqw",
+        "title": "The Forty-Five Guardsmen (The Last Valois, #3)",
+        "title_without_series": "The Forty-Five Guardsmen",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328797366l/1053023._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328797366l/1053023._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1053023.The_Forty_Five_Guardsmen",
+        "num_pages": "616",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "IndyPublish.com",
+        "publication_day": "1",
+        "publication_year": "2007",
+        "publication_month": "5",
+        "average_rating": "3.96",
+        "ratings_count": "1046",
+        "description": "A true sequel to \"La Dame de Monsoreau.\" It concerns the revenge of Diane de Méridor upon the Duc d'Anjou for his base betrayal of Bussy d'Amboise. Historically it commences with the execution of Salcède and the arrival of the Forty-Five at Paris, and deals with the Guise intrigues, the campaign of Anjou in Flanders and his death. Period 1584-85.<br /> Maquet was again the collaborator. During the fête held at Villers-Cotterets in 1902 the original MS. of this romance was exhibited, half being in the hand of Dumas père, and the remainder, the latter moiety, in that of his son, with a note signed by this latter to the effect that his father, being confined to his bed by sickness, had dictated it to the younger man. Yet in face of this it has been repeatedly affirmed that Maquet finished it alone.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "1039526",
+          "uri": "kca://work/amzn1.gr.work.v1.eg9hNu26RI_ZhylGRyEg4A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1101350"
+        },
+        "isbn": "1589632109",
+        "isbn13": "9781589632103",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.5EfCLBs0MDnhAkVaPEOPIQ",
+        "title": "The Two Dianas, Volume 1",
+        "title_without_series": "The Two Dianas, Volume 1",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1101350.The_Two_Dianas_Volume_1",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.97",
+        "ratings_count": "813",
+        "description": "This romance is usually accredited entirely to Paul Meurice, and indeed there is little of the sprightliness and rapid movement which we have grown to expect from Dumas. At the same time it is to be noted that several of the band of adventurers who play a minor part in \"Ascanio\" again appear. Moreover, they are once more to the fore in \"Le Page du Duc de Savoie,\" which Dumas wrote alone; and he even uses one or two at an impossibly anterior date in his drama \"La Tour de Saint-Jacques.\" Meurice, it may be noted, is thought to have had a small share in \"Ascanio.\" In 1865 this last named produced a dramatised version of \"Les Deux Diane,\" in which Dumas had no hand, and to which he made no objection. (See under the date of 1865.) Some think that Dumas sketched the plot.<br />The two Dianas are Madame de Poitiers and her daughter Madame de Castro. The period is 1521-74, and includes the taking of Calais, the battle of Saint-Quentin, the death of Henri II. and the First Religious Wars.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "1240647",
+          "uri": "kca://work/amzn1.gr.work.v1.aAEhX3wrgwj3b_Kkq1maHA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "8437849"
+        },
+        "isbn": "9788417504",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "20"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.6gNzpqn_-HI4nqdRwG9GOg",
+        "title": "Los tres mosqueteros, 2",
+        "title_without_series": "Los tres mosqueteros, 2",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/8437849-los-tres-mosqueteros-2",
+        "num_pages": "408",
+        "format": {},
+        "edition_information": "1ª edición",
+        "publisher": "Alianza editorial",
+        "publication_day": {},
+        "publication_year": "1980",
+        "publication_month": {},
+        "average_rating": "4.26",
+        "ratings_count": "743",
+        "description": "Dentro de la amplia obra de Alexandre Dumas (1802,1870), que sintonizó a la perfección con la sensibilidad de su época y utilizó los folletones por entregas para hacer llegar sus fábulas histórica alimentadas por \"la acción y el amor\" a las clases populares, sólo \"El Conde de Montecristo\" puede rivalizar en difusión y celebridad con LOS TRES MOSQUETEROS. En las adaptaciones cinematográficas o las ediciones mutiladas o abreviadas, el mito del espadachín ha prevalecido injustificadamente sobre otras aventuras de d'Artagnan, Athos, Aramis y Porthos que, sin embargo, ofrecen mayor interés, fondo tráfico y nervio narrativo. De otro lado, tanta importancia como d'Artagnan y sus compañeros tiene el personaje femenino de Milady, la heroína maldita de este relato animado por el mero gusto de contar, lleno de peripecias e intrigas, quita esencia del género de aventuras. Por lo demás, Dumas muestra su portentosa habilidad para combinar géneros y estolos, desde la novela de capa y espada hasta la novela negra y de misterio. Si bien el escenario histórico es la Francia del siglo XVIII, los valores que permean el relato cuadrarían mejor con la monarquía burguesa de Luis Felipe; antes que el honor y la caballerosidad son la astucia, el ansia de poder y de riqueza, la búsqueda del triunfo (\"Todos para uno y uno para todos\") y el medro de los impulsos que mueven a los protagonistas.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1980",
+        "work": {
+          "id": "25739473",
+          "uri": "kca://work/amzn1.gr.work.v1.ZprBZz_Js6Y3XGsah-ViyA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "70027"
+        },
+        "isbn": "1600961304",
+        "isbn13": "9781600961304",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "41"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.txz-xcBElfoNTuNLwp5f2w",
+        "title": "The Corsican Brothers",
+        "title_without_series": "The Corsican Brothers",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/70027.The_Corsican_Brothers",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.71",
+        "ratings_count": "808",
+        "description": "The Corsican Brothersby Alexandre DumasAlexandre Dumas weaves the compelling story of Siamese twins who are separated physically but never in spirit. They",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "858198",
+          "uri": "kca://work/amzn1.gr.work.v1.csEYo41Ob4wCrINHC77zDA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "3388862"
+        },
+        "isbn": "8573948094",
+        "isbn13": "9788573948097",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.yr4km3GmTTZWC3Ie7F72AA",
+        "title": "O Conde de Monte Cristo, V.3 (The Count of Monte Cristo, part 3 of 3)",
+        "title_without_series": "O Conde de Monte Cristo, V.3",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/3388862-o-conde-de-monte-cristo-v-3",
+        "num_pages": "423",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Jurua",
+        "publication_day": {},
+        "publication_year": "2003",
+        "publication_month": {},
+        "average_rating": "4.50",
+        "ratings_count": "660",
+        "description": "Trata-se de uma obra que versa sobre a condenação e encarceramento de um inocente, motivados não por erro de justiça e sim, por conveniência de pessoas envolvidas no retorno de Napoleão da Ilha de Elba para recuperar o trono perdido. Durante uma década e meia, instruído em todas as ciências da época e tendo adquirido gostos e maneiras refinados através de estreito relacionamento com um companheiro de cárcere (abade de cultura enciclopédica), este homem mítico foge milagrosamente da prisão e reaparece em Paris, acobertado sob o manto de riquíssimo e poderoso nobre estrangeiro, com o firme objetivo de restaurar a sua justiça particular. Saídos da pena de Alexandre DUMAS, desfilam no texto personagens de toda a alta sociedade parisiense - aristocratas e burgueses enriquecidos - que realizam grandes negócios, mantêm romances ocultos, todos movidos por múltiplas e intensas emoções humanas. Enfim, é com grande orgulho que concluímos esta magnífica empreitada editorial, certos de que, com o lançamento da presente obra, muito contribuímos para o desenvolvimento da cultura da nossa e das novas gerações.<br />Dados Técnicos",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "25657745",
+          "uri": "kca://work/amzn1.gr.work.v1.mzNVnXwGJTwqekkOMmxGGQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12595288"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "5"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.X5PAB2MfnYXOgWMgbnrLmg",
+        "title": "D'ARTAGNAN ROMANCES: The Three Musketeers, Twenty Years After, The Vicomte de Bragelonne, Ten Years Later, Louise de la Valliere, The Man in the Iron Mask (FLT Classics Series)",
+        "title_without_series": "D'ARTAGNAN ROMANCES: The Three Musketeers, Twenty Years After, The Vicomte de Bragelonne, Ten Years Later, Louise de la Valliere, The Man in the Iron Mask",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12595288-d-artagnan-romances",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.49",
+        "ratings_count": "618",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "17624163",
+          "uri": "kca://work/amzn1.gr.work.v1.iAK7PCA3OTRXUOiwr3Zg4g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1600433"
+        },
+        "isbn": "9644071522",
+        "isbn13": "9789644071522",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "22"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.q0nyzVR9wISpAE1Au54pfQ",
+        "title": "غرش طوفان",
+        "title_without_series": "غرش طوفان",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525154478l/1600433._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525154478l/1600433._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1600433._",
+        "num_pages": {},
+        "format": "Set",
+        "edition_information": {},
+        "publisher": "گوتنبرگ، زرین",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.05",
+        "ratings_count": "673",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "1814356",
+          "uri": "kca://work/amzn1.gr.work.v1.VD3Q0GPp0Ag-41HHC4gdUg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "70020"
+        },
+        "isbn": "1933648317",
+        "isbn13": "9781933648316",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "65"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.9CejSawOdtyZsOX7cLQoKQ",
+        "title": "The Last Cavalier: Being the Adventures of Count Sainte-Hermine in the Age of Napoleon",
+        "title_without_series": "The Last Cavalier: Being the Adventures of Count Sainte-Hermine in the Age of Napoleon",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/70020.The_Last_Cavalier",
+        "num_pages": "864",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Pegasus Books",
+        "publication_day": "12",
+        "publication_year": "2007",
+        "publication_month": "9",
+        "average_rating": "3.65",
+        "ratings_count": "662",
+        "description": "Selected as a Top Ten Book of the Year by The Washington Post: the newly discovered last novel by the author of The Three Musketeers. Rousing, big, spirited, its action sweeping across oceans and continents, its hero gloriously indomitable, the last novel of Alexandre Dumas—lost for 125 years in the archives of the National Library in Paris—completes the oeuvre that Dumas imagined at the outset of his literary career. <br /><br />Indeed, the story of France from the Renaissance to the nineteenth century, as Dumas vibrantly retold it in his numerous enormously popular novels, has long been absent one vital, richly historical era: the Age of Napoleon. But no longer. Now, dynamically, in a tale of family honor and undying vengeance, of high adventure and heroic derring-do, The Last Cavalier fills that gap.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "3181605",
+          "uri": "kca://work/amzn1.gr.work.v1.GogiE9Ra6M8KoqHkCCArnA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "36064363"
+        },
+        "isbn": "1435154525",
+        "isbn13": "9781435154520",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "52"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.TVHi-oB4kn_fOYqskf5MzQ",
+        "title": "The Nutcracker (Barnes & Noble Leatherbound Pocket Editions)",
+        "title_without_series": "The Nutcracker",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/36064363-the-nutcracker",
+        "num_pages": "142",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.68",
+        "ratings_count": "657",
+        "description": "The nutcracker doll that mysterious Godfather Drosselmeyer gives to little Marie for Christmas is no ordinary toy. On Christmas Eve, at the clocks strike midnight, Marie watches as the Nutcracker and her entire cabinet of playthings come to life and boldly do battle against the malevolent Mouse King and his armies. But this is only the start: read on for a tale of enchantment and transformation, enter a world by turns fantastical and sinister, a kindom of dolls and spun-sugar palaces, and learn the true history of the brave little Nutcracker. Adapted from a dark fairy-tale by ETA Hoffmann, Alexandre Dumas' romance of childhood imagination inspired Tchaikovsky's world-famous ballet. Brilliantly adapted by translator Sarah Ardrizzone and illuminated by Kitty Arden, this is the perfect Christmas gift for readers of all ages.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "75016344",
+          "uri": "kca://work/amzn1.gr.work.v3.cCqST8ypkSkh-JUW"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "956343"
+        },
+        "isbn": "2070400514",
+        "isbn13": "9782070400515",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "13"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.nXtcNnwtdH5tiaGJfLqPZA",
+        "title": "Le Vicomte de Bragelonne I",
+        "title_without_series": "Le Vicomte de Bragelonne I",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/956343.Le_Vicomte_de_Bragelonne_I",
+        "num_pages": "897",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Gallimard",
+        "publication_day": "1",
+        "publication_year": "1997",
+        "publication_month": "11",
+        "average_rating": "4.16",
+        "ratings_count": "564",
+        "description": "Elle vit les yeux humides du roi, son front pâle, ses lèvres convulsives, et s'écria avec un accent que rien ne pourrait rendre :<br />« Oh ! sire, vous êtes roi, vous pleurez, et je pars ! »<br />Le roi, pour toute réponse, cacha son visage dans son mouchoir.<br />L'officier poussa comme un rugissement qui effraya les deux chevaux.<br />Mlle de Mancini, indignée, quitta le roi et remonta précipitamment dans son carrosse en criant au cocher :<br />« Partez, partez vite ! »<br />Le cocher obéit, fouetta ses chevaux, et le lourd carrosse s'ébranla sur ses essieux criards, tandis que le roi de France, seul, abattu, anéanti, n'osait plus regarder ni devant ni derrière lui.",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1997",
+        "work": {
+          "id": "67441433",
+          "uri": "kca://work/amzn1.gr.work.v1.7ch0djZleCbam4poEkcB9Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "596834"
+        },
+        "isbn": "0686565088",
+        "isbn13": "9780686565086",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "7"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.w7RK4hi8kb1d1Zbp08Jq6A",
+        "title": "Les Trois Mousquetaires & Vingt ans après",
+        "title_without_series": "Les Trois Mousquetaires & Vingt ans après",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487582430l/596834._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487582430l/596834._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/596834.Les_Trois_Mousquetaires_Vingt_ans_apr_s",
+        "num_pages": "1735",
+        "format": "Leather Bound",
+        "edition_information": "Bibliothèque de la Pléiade",
+        "publisher": "Gallimard",
+        "publication_day": "28",
+        "publication_year": "1962",
+        "publication_month": "5",
+        "average_rating": "4.40",
+        "ratings_count": "515",
+        "description": "Les deux premiers romans de la trilogie des Mousquetaires, le dernier étant <i>Le Vicomte de Bragelonne</i>",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "1962",
+        "work": {
+          "id": "6469883",
+          "uri": "kca://work/amzn1.gr.work.v1.mlfVnahydzlHPh_u5ODMXw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "252572"
+        },
+        "isbn": "1843910829",
+        "isbn13": "9781843910824",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "29"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.oC_1rbA8XEwYOxQAYzFrCA",
+        "title": "One Thousand and One Ghosts",
+        "title_without_series": "One Thousand and One Ghosts",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328728976l/252572._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328728976l/252572._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/252572.One_Thousand_and_One_Ghosts",
+        "num_pages": "156",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Hesperus Press",
+        "publication_day": "1",
+        "publication_year": "2004",
+        "publication_month": "10",
+        "average_rating": "3.82",
+        "ratings_count": "563",
+        "description": "Written at the height of the 1848 revolutions, Alexandre Dumas’ <i>One Thousand and One Ghosts</i> is a macabre collection of supernatural tales, told with unrelenting detail and almost unbearable suspense. Paralyzed with fear, a man confesses to the murder of his wife, and rather than return to the scene of the crime, begs to be locked in prison. As the police probe further, they learn the ghastly truth—that in a fit of fury, the man decapitated his wife, only to see the detached head turn around and whisper to him. Gathering together to decide whether such “deathly activity” is, in fact, possible, a doctor, a priest, and the police in turn tell their own tales of ghostly activity. The result is one of the most remarkable collections of supernatural stories ever written. French novelist and playwright Alexandre Dumas was a key figure in Romantic theater; his most famous works are <i>The Three Musketeers</i> and <i>The Count of Monte Cristo.</i>",
+        "authors": {
+          "author": {
+            "id": "4785",
+            "name": "Alexandre Dumas",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+            "average_rating": "4.17",
+            "ratings_count": "1182132",
+            "text_reviews_count": "33622"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "244749",
+          "uri": "kca://work/amzn1.gr.work.v1.LJvPMji2ywUv53RpKx4MMQ"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "id": "225033",
+  "name": "David  Wong",
+  "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+  "books": {
+    "start": "1",
+    "end": "6",
+    "total": "6",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1857440"
+        },
+        "isbn": "0978970764",
+        "isbn13": "9780978970765",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4239"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ZMxb1bW_2o_P3wIG9fWdeQ",
+        "title": "John Dies at the End (John Dies at the End, #1)",
+        "title_without_series": "John Dies at the End",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1857440.John_Dies_at_the_End",
+        "num_pages": "362",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Permuted Press",
+        "publication_day": "1",
+        "publication_year": "2007",
+        "publication_month": "8",
+        "average_rating": "3.90",
+        "ratings_count": "57998",
+        "description": "<b>STOP. </b>You should not have touched this flyer with your bare hands. NO, don't put it down. It's too late. They're watching you. <b>My name is David Wong.</b> My best friend is John. Those names are fake. You might want to change yours. You may not want to know about the things you'll read on these pages, about <b>the sauce</b>, about <b>Korrok</b>, about the invasion, and the future. But it's too late. You touched the book. You're in the game. You're under <b>the eye</b>. The only defense is knowledge. You need to read this book, to the end. Even the part with the bratwurst. Why? You just have to trust me.<br /><br /><b>The important thing is this: </b>The drug is called <b>Soy Sauce</b> and it gives users a window into another dimension. John and I never had the chance to say no. You still do. I'm sorry to have involved you in this, I really am. But as you read about these terrible events and the very <b>dark epoch</b> the world is about to enter as a result, it is crucial you keep one thing in mind: <b>\n  <i>None of this was my fault.</i>\n</b>",
+        "authors": {
+          "author": {
+            "id": "225033",
+            "name": "David  Wong",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+            "average_rating": "4.02",
+            "ratings_count": "102656",
+            "text_reviews_count": "10238"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "1858059",
+          "uri": "kca://work/amzn1.gr.work.v1.aAN03DTvaPA5C6_uZbZCyg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12924261"
+        },
+        "isbn": "0312546343",
+        "isbn13": "9780312546342",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1832"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.SHlAgv9wZ60x7Etx0wbK-w",
+        "title": "This Book Is Full of Spiders (John Dies at the End, #2)",
+        "title_without_series": "This Book Is Full of Spiders",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365496944l/12924261._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365496944l/12924261._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12924261-this-book-is-full-of-spiders",
+        "num_pages": "406",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "St. Martin’s Press",
+        "publication_day": "2",
+        "publication_year": "2012",
+        "publication_month": "10",
+        "average_rating": "4.26",
+        "ratings_count": "23801",
+        "description": "Originally released as an online serial where itreceivedmore than 70,000 downloads,John Dies at the End has been described as a\"Horrortacular\", an epic of \"spectacular\" horror that combines the laugh out loud humor of the best R-rated comedy, with the darkest terror of H.P. Lovecraft. The book went on to sell an additional60,000 copies in all formats.<br /><br />As thesequel opens, we find our heroes, David and John, again embroiled in a series of horrifying yet mind-bogglingly ridiculous events caused primarily by their own gross incompetence. The guys find that books and movies about zombies may have triggered a zombie apocalypse, despite a complete lack of zombies in the world. As they race against the clock to protect humanity from its own paranoia, they must ask themselves, who are the real monsters? Actually, that would be the shape-shifting horrors secretly taking over the world behind the scenes that, in the end, make John and Dave kind of wish it had been zombies after all.<br /><br />Hilarious, terrifying, engaging and wrenching, This Book Is Full of Spiders, the next thrilling installment, takes us for a wild ride with two slackers from the midwest who really have better things to do with their time than prevent the apocalypse.",
+        "authors": {
+          "author": {
+            "id": "225033",
+            "name": "David  Wong",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+            "average_rating": "4.02",
+            "ratings_count": "102656",
+            "text_reviews_count": "10238"
+          }
+        },
+        "published": "2012",
+        "work": {
+          "id": "18079704",
+          "uri": "kca://work/amzn1.gr.work.v1.Re4KszxbjAFlsd63TSjlsQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "20501606"
+        },
+        "isbn": "1250040191",
+        "isbn13": "9781250040190",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1144"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.nbmBMybK1L-vyr0I-hTCHA",
+        "title": "Futuristic Violence and Fancy Suits (Zoey Ashe, #1)",
+        "title_without_series": "Futuristic Violence and Fancy Suits",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429313468l/20501606._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429313468l/20501606._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/20501606-futuristic-violence-and-fancy-suits",
+        "num_pages": "384",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Thomas Dunne Books",
+        "publication_day": "6",
+        "publication_year": "2015",
+        "publication_month": "10",
+        "average_rating": "3.99",
+        "ratings_count": "12385",
+        "description": "<b>Nightmarish villains with superhuman enhancements.<br /><br />An all-seeing social network that tracks your every move.<br /><br />Mysterious, smooth-talking power players who lurk behind the scenes.<br /><br />A young woman from the trailer park.<br /><br />And her very smelly cat.<br /><br />Together, they will decide the future of mankind.</b><br /><br />Get ready for a world in which anyone can have the powers of a god or the fame of a pop star, in which human achievement soars to new heights while its depravity plunges to the blackest depths. A world in which at least one cat smells like a seafood shop's dumpster on a hot summer day.<br /><br />This is the world in which Zoey Ashe finds herself, navigating a futuristic city in which one can find elements of the fantastic, nightmarish and ridiculous on any street corner. Her only trusted advisor is the aforementioned cat, but even in the future, cats cannot give advice. At least not any that you'd want to follow.<br /><br />Will Zoey figure it all out in time? Or maybe the better question is, will you? After all, the future is coming sooner than you think.",
+        "authors": {
+          "author": {
+            "id": "225033",
+            "name": "David  Wong",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+            "average_rating": "4.02",
+            "ratings_count": "102656",
+            "text_reviews_count": "10238"
+          }
+        },
+        "published": "2015",
+        "work": {
+          "id": "34393786",
+          "uri": "kca://work/amzn1.gr.work.v1.mf8whgkj8avmgGduAnPdgw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "33574090"
+        },
+        "isbn": "1250040205",
+        "isbn13": "9781250040206",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "707"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.HAHMuFtkGN1-WjCB9N2Xxg",
+        "title": "What the Hell Did I Just Read (John Dies at the End, #3)",
+        "title_without_series": "What the Hell Did I Just Read",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488489522l/33574090._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488489522l/33574090._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/33574090-what-the-hell-did-i-just-read",
+        "num_pages": "375",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "St. Martin's Press",
+        "publication_day": "3",
+        "publication_year": "2017",
+        "publication_month": "10",
+        "average_rating": "4.17",
+        "ratings_count": "8208",
+        "description": "NYT bestselling author Wong takes readers to a whole new level with his latest dark comic sci-fi thriller, set in the world of John Dies at the End and This Book is Full of Spiders<br /><br />Dave, John and Amy recount what seems like a fairly straightforward tale of a shape-shifting creature from another dimension that is stealing children and brainwashing their parents, but it eventually becomes clear that someone is lying, and that someone is the narrators. <br /><br />The novel you're reading is a cover-up, and the \"true\" story reveals itself in the cracks of their hilariously convoluted, and sometimes contradictory, narrative.",
+        "authors": {
+          "author": {
+            "id": "225033",
+            "name": "David  Wong",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+            "average_rating": "4.02",
+            "ratings_count": "102656",
+            "text_reviews_count": "10238"
+          }
+        },
+        "published": "2017",
+        "work": {
+          "id": "54380521",
+          "uri": "kca://work/amzn1.gr.work.v1.OZ4yoqLGNJINTk6jeanoVw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "14740590"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "15"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.b1r26AnwCaLDpiTTUJVi4w",
+        "title": "John and Dave and the Temple of X'al'naa'thuthuthu",
+        "title_without_series": "John and Dave and the Temple of X'al'naa'thuthuthu",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344074204l/14740590._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344074204l/14740590._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/14740590-john-and-dave-and-the-temple-of-x-al-naa-thuthuthu",
+        "num_pages": "102",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": "2011",
+        "publication_month": {},
+        "average_rating": "4.23",
+        "ratings_count": "271",
+        "description": "The below tale of wonder and horror was written a couple of years ago as a \"sequel\" to my horror novel John Dies at the End. This unfinished adventure is not included in the print edition of JDatE that is coming out this fall, and right now is an online exclusive.<br /><br />This was part of an early draft of David Wong's totally rad novel This Book Is Full Of Spiders.",
+        "authors": {
+          "author": {
+            "id": "225033",
+            "name": "David  Wong",
+            "role": "Narrator",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+            "average_rating": "4.02",
+            "ratings_count": "102656",
+            "text_reviews_count": "10238"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "21429528",
+          "uri": "kca://work/amzn1.gr.work.v1.marAArcZ-ifxQwVbnDXSVA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "49127471"
+        },
+        "isbn": "1250195799",
+        "isbn13": "9781250195791",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.Cjn__jZ9YP24Nr4E",
+        "title": "Zoey Punches the Future in the Dick (Zoey Ashe, #2)",
+        "title_without_series": "Zoey Punches the Future in the Dick",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579635248l/49127471._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579635248l/49127471._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/49127471-zoey-punches-the-future-in-the-dick",
+        "num_pages": "336",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "St. Martin's Press",
+        "publication_day": "13",
+        "publication_year": "2020",
+        "publication_month": "10",
+        "average_rating": "5.00",
+        "ratings_count": "3",
+        "description": "<b>The latest―and greatest―sci-fi thriler in the Zoey Ashe Series.</b><br /><br />Nightmarish villains with superhuman enhancements. An all-seeing social network that tracks your every move. Mysterious, smooth-talking power players who lurk behind the scenes. A young woman suddenly in charge of the most decadent city in the world. And her very smelly cat.<br /><br />Zoey Ashe is like a fish so far out of water that it has achieved orbit. She finds herself struggling to establish rule over a sprawling empire while Tabula Ra$a's rogue's gallery of larger-than-life crime bosses and corrupt plutocrats smell weakness. Tensions brew across the city.<br /><br />A steamer trunk-sized box arrives at Zoey's door, and she and her bodyguard Wu are shocked to find that it contains a disemboweled corpse, and even more shocked when that corpse, controlled by an unknown party, rises from the box and goes on a rampage through the house. After being subdued, it speaks in an electronic voice, accusing Zoey of being its murderer. Soon, it makes the same claim to the public at large, along with the promise of a cash reward for proof that Zoey and the Suits are behind the crime.<br /><br />Now Zoey is having doubts of her own: Is she 100% sure that someone on her team didn't do this? She also doesn't even have a complete list of what businesses she owns, or what exact laws her organization is still breaking. So what does she really know?",
+        "authors": {
+          "author": {
+            "id": "225033",
+            "name": "David  Wong",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+            "average_rating": "4.02",
+            "ratings_count": "102656",
+            "text_reviews_count": "10238"
+          }
+        },
+        "published": "2020",
+        "work": {
+          "id": "74580787",
+          "uri": "kca://work/amzn1.gr.work.v3.QZPQMr9V0nWtG2C0"
+        }
+      }
+    ]
+  }
+}

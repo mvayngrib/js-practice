@@ -1,0 +1,1648 @@
+{
+  "id": "7735",
+  "name": "Irwin Shaw",
+  "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "103",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "315519"
+        },
+        "isbn": "0440174244",
+        "isbn13": "9780440174240",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "289"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.k0dZnPpkTrSuxy4ln5N3bw",
+        "title": "Rich Man, Poor Man",
+        "title_without_series": "Rich Man, Poor Man",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353725186l/315519._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353725186l/315519._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/315519.Rich_Man_Poor_Man",
+        "num_pages": "666",
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Dell",
+        "publication_day": "15",
+        "publication_year": "1971",
+        "publication_month": "7",
+        "average_rating": "4.17",
+        "ratings_count": "32652",
+        "description": "The San Francisco Examiner calls Rich Man, Poor Man \"a novel so well written, so engrossing, the reader actually hates to finish it . . . by far Shaw's best work . . . it's all fascinating\". Don't forget to stock up on this six-million-copy bestseller.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1971",
+        "work": {
+          "id": "503099",
+          "uri": "kca://work/amzn1.gr.work.v1.3ZtgbwrROa2MD48eppXltg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "315511"
+        },
+        "isbn": "0226751295",
+        "isbn13": "9780226751290",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "122"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.bSjSy6I7-C_nwiLE2UqCdA",
+        "title": "The Young Lions",
+        "title_without_series": "The Young Lions",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/315511.The_Young_Lions",
+        "num_pages": "696",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "University of Chicago Press",
+        "publication_day": "1",
+        "publication_year": "2000",
+        "publication_month": "12",
+        "average_rating": "4.19",
+        "ratings_count": "3126",
+        "description": "<i>The Young Lions</i> is a vivid and classic novel that portrays the experiences of ordinary soldiers fighting World War II. Told from the points of view of a perceptive young Nazi, a jaded American film producer, and a shy Jewish boy just married to the love of his life, Shaw conveys, as no other novelist has since, the scope, confusion, and complexity of war.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "306344",
+          "uri": "kca://work/amzn1.gr.work.v1.HIepTGqjp4xU6TZla--oCw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "315510"
+        },
+        "isbn": "0752848518",
+        "isbn13": "9780752848518",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "38"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.W3vEts93iNRyGjMg-9vhtw",
+        "title": "Beggarman, Thief",
+        "title_without_series": "Beggarman, Thief",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330717839l/315510._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330717839l/315510._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/315510.Beggarman_Thief",
+        "num_pages": "372",
+        "format": {},
+        "edition_information": {},
+        "publisher": "London: Orion",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.94",
+        "ratings_count": "1616",
+        "description": "Wesley, haunted by his father's murder, begins a strange and deeply personal quest; Billy becomes involved with a girl who leads him into unexpected dangers; Gretchen finds new challenges and experiences a remarkable twist to her life. Moving between Europe and America, \"Beggarman, Thief\" is a brilliant novel chronicling the fortunes of one family - the joys, sorrows, successes and failures. This is not only the gripping sequel to Irwin Shaw's bestselling \"Rich Man, Poor Man\", but also an outstanding novel in its own right.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "306343",
+          "uri": "kca://work/amzn1.gr.work.v1.Y8RZSWrlxr2gVYgYzR2zLw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "315513"
+        },
+        "isbn": "0440108446",
+        "isbn13": "9780440108443",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "59"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.uHlo5TeXDUBwrQOgGh8k5g",
+        "title": "Bread Upon the Waters",
+        "title_without_series": "Bread Upon the Waters",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343674597l/315513._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343674597l/315513._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/315513.Bread_Upon_the_Waters",
+        "num_pages": "480",
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Dell",
+        "publication_day": "1",
+        "publication_year": "1982",
+        "publication_month": "7",
+        "average_rating": "4.01",
+        "ratings_count": "1367",
+        "description": "The Stands are a self-reliant family in New York City. Far from wealthy they are still reasonably content with their life until one night when their teenage daughter helps a wealthy and lonely Wall Street lawyer. Out of gratitude the lawyer showers the family with gifts and money. The Strands find their lives altered and not necessarily for the best.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1982",
+        "work": {
+          "id": "306346",
+          "uri": "kca://work/amzn1.gr.work.v1.mGrD3vSNeZjXKC3JHZQTkw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "515139"
+        },
+        "isbn": "0440057574",
+        "isbn13": "9780440057574",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "46"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.mwjHnp8wtmNPgMb9UNkCZQ",
+        "title": "Nightwork",
+        "title_without_series": "Nightwork",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/515139.Nightwork",
+        "num_pages": "344",
+        "format": "Hardcover",
+        "edition_information": "First Edition - U.S.A.",
+        "publisher": "Delacorte Press",
+        "publication_day": "1",
+        "publication_year": "1975",
+        "publication_month": "1",
+        "average_rating": "3.92",
+        "ratings_count": "1213",
+        "description": "A dead man’s briefcase presents a down-on-his-luck pilot with the chance of a lifetime.<br /><br />Pilot Douglas Grimes’s best days are long behind him. Grounded due to a medical condition, Douglas has resigned himself to menial work as a desk clerk at a seedy hotel. But his fortune flips when he discovers a hotel guest dead from a heart attack and, next to him, a tube jammed with hundred-dollar bills. Douglas grabs the money and, with it, the chance to remake his life. In Europe, he meets Miles Fabian, an elegant and erudite con man with a flair for extravagance. Fabian recruits him for his latest ploy: robbing members of the idle rich. But what will happen when his bad behavior catches up with him?",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1975",
+        "work": {
+          "id": "503096",
+          "uri": "kca://work/amzn1.gr.work.v1.vH-n92KWpaefPWTmmC6Rcw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "315512"
+        },
+        "isbn": "1857994477",
+        "isbn13": "9781857994476",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "28"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.N5OWNy7RI58R9tFgBM-HPg",
+        "title": "Evening in Byzantium",
+        "title_without_series": "Evening in Byzantium",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408937530l/315512._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408937530l/315512._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/315512.Evening_in_Byzantium",
+        "num_pages": "288",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": "5",
+        "publication_year": "1996",
+        "publication_month": "8",
+        "average_rating": "3.75",
+        "ratings_count": "707",
+        "description": "Honest men and thieves, pimps, panderers and men of virtue: they were all gamblers in a game with no rules, placing their bets debonairly, or in the sweat of fear. The place is Cannes, the setting, a film festival, and the hero is Jesse Craig, whose survival is at stake.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1996",
+        "work": {
+          "id": "306345",
+          "uri": "kca://work/amzn1.gr.work.v1.SNH_kcygXuLAEJmOnl2CNg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13496201"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "137"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ZBY-O246U2Q5hQXbwHHxvg",
+        "title": "ثورة الموتى",
+        "title_without_series": "ثورة الموتى",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329939046l/13496201._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329939046l/13496201._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13496201",
+        "num_pages": "100",
+        "format": "Paperback",
+        "edition_information": "قطع متوسط",
+        "publisher": "وزارة الثقافة و الإرشاد القومي",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.79",
+        "ratings_count": "695",
+        "description": "مسرحية ثورة الموتى أو ادفنوا الموتى <br /><br /><br />تدور أحداثها حول مجموعة من الجنود الذين دفع بهم ليلقوا حتفهم فى حرب من الحروب العالمية التى كانت غير مبررة وضد الإنسانية، فثار الموتى ضد ظلم بعض الحكام وضد من اعتدى على آدميتهم وجردهم من إنسانيتهم.<br /><br />تعد المسرحية من أعنف الاتهامات المكتوبة التى وجهت ضد الحروب على مر العصور والتى راح ضحيتها الكثير من الجنود المحاربين الذين لا يرغبون فى الحروب غير الإنسانية.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": "ترجمة/ فؤاد دواره",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "559176",
+          "uri": "kca://work/amzn1.gr.work.v1.Bepll7kD3cf4XFoJGDDqdA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "950356"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "22"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.z80oSNOkr3qkJryLhN7WDA",
+        "title": "Lucy Crown",
+        "title_without_series": "Lucy Crown",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583395030l/950356._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583395030l/950356._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/950356.Lucy_Crown",
+        "num_pages": "339",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Random House",
+        "publication_day": {},
+        "publication_year": "1956",
+        "publication_month": {},
+        "average_rating": "3.89",
+        "ratings_count": "528",
+        "description": "<b>An act of infidelity tears apart the members of a Depression-era family</b><br /><br />Friends always envied the Crown marriage, but for Lucy, something was missing. During a family trip to Vermont in the summer of 1937, her husband, Oliver, is called away. When Lucy falls into an affair with a younger man, her son, Tony, walks in on them. The betrayal rips apart the family, ultimately estranging Lucy from her son. Twenty years later, the two run into each other at a bar in Paris, and Lucy realizes that she may have found her best chance at absolution.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1956",
+        "work": {
+          "id": "935280",
+          "uri": "kca://work/amzn1.gr.work.v1.RqLetud5Kg1W4rQpBfWSLg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "671112"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "14"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.J-BF8ccqPvDZ7nOTgLLzRw",
+        "title": "The Top of the Hill",
+        "title_without_series": "The Top of the Hill",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343075128l/671112._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343075128l/671112._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/671112.The_Top_of_the_Hill",
+        "num_pages": "346",
+        "format": "Hardcover",
+        "edition_information": "1st U.S. Edition",
+        "publisher": "Delacorte Press",
+        "publication_day": {},
+        "publication_year": "1979",
+        "publication_month": {},
+        "average_rating": "3.75",
+        "ratings_count": "402",
+        "description": "Michael Storr's joy comes from physical danger as a parachutist, a surfer, a hang glider, a free faller, a reckless skier. Oppressed by his life in New York City, he feels choked by his career as an executive in a high powered office as an executive in a high powered office, choked by the airless world of air conditioned towers. His own sanity depends on his finding a purer, simpler, more vigorous existence, and he sets out to search for one, even though he loses his wife in the process. He finds the physical excitement he craves but along with it developments he has not contempated. For some of the personal relationships in which he becomes entangled prove as threatening as the most dangerous of his sports.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1979",
+        "work": {
+          "id": "657144",
+          "uri": "kca://work/amzn1.gr.work.v1.-yw4g-5HGt5jJznj0Ep_WA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1177646"
+        },
+        "isbn": "0224606859",
+        "isbn13": "9780224606851",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "15"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.qPx1odGVLpkGD3YYQLeSEg",
+        "title": "Two Weeks In Another Town",
+        "title_without_series": "Two Weeks In Another Town",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343663916l/1177646._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343663916l/1177646._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1177646.Two_Weeks_In_Another_Town",
+        "num_pages": "414",
+        "format": "Hardcover",
+        "edition_information": "1st Edition; 2nd Printing",
+        "publisher": "Random House",
+        "publication_day": {},
+        "publication_year": "1960",
+        "publication_month": {},
+        "average_rating": "3.79",
+        "ratings_count": "330",
+        "description": "A beautiful Italian girl, a one-time movie idol turned NATO diplomat, a violent, talented young American writer, a once-famous movie director, all come together in Rome in an attempt to salvage a movie and escape the demands of lives they are afraid to face.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1960",
+        "work": {
+          "id": "1165451",
+          "uri": "kca://work/amzn1.gr.work.v1.QKkyCXDsF35Ryt744JQeOA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1762351"
+        },
+        "isbn": "0877954372",
+        "isbn13": "9780877954378",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "15"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.qvwnUpLE2VbHCzB7jv-spQ",
+        "title": "Acceptable Losses",
+        "title_without_series": "Acceptable Losses",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1762351.Acceptable_Losses",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.43",
+        "ratings_count": "315",
+        "description": "An eloquent story about the regenerative power of one man's confrontation with life and death.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "1760331",
+          "uri": "kca://work/amzn1.gr.work.v1.ol4T-la-hKxkjSq7ZGzaMQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "151413"
+        },
+        "isbn": "0226751287",
+        "isbn13": "9780226751283",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "18"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.sxgPfw57IBqWH81Wbdg3qw",
+        "title": "Short Stories: Five Decades",
+        "title_without_series": "Short Stories: Five Decades",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/151413.Short_Stories",
+        "num_pages": "784",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "University of Chicago Press",
+        "publication_day": "1",
+        "publication_year": "2000",
+        "publication_month": "12",
+        "average_rating": "4.17",
+        "ratings_count": "197",
+        "description": "Featuring sixty-three stories spanning five decades, this superb collection-including \"Girls in Their Summer Dresses,\" \"Sailor Off the Bremen,\" and \"The Eighty-Yard Run\"-clearly illustrates why Shaw is considered one of America's finest short-story writers.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "146137",
+          "uri": "kca://work/amzn1.gr.work.v1.4r-X_dwv7LtS2Fy1xUSAnA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "40275525"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "35"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.XSUw_cCUSx6nc7GmH4Sp0w",
+        "title": "Short Stories of Irwin Shaw",
+        "title_without_series": "Short Stories of Irwin Shaw",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/40275525-short-stories-of-irwin-shaw",
+        "num_pages": "724",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Random House",
+        "publication_day": {},
+        "publication_year": "1966",
+        "publication_month": {},
+        "average_rating": "3.45",
+        "ratings_count": "212",
+        "description": "\"The present collection includes all his short stories from 1938 to 1962.\"<br /><br />A plain, tan cover. Brown letters and green stripes on the spine.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1966",
+        "work": {
+          "id": "18340305",
+          "uri": "kca://work/amzn1.gr.work.v1.tGIKqv_mEQDJ39reBextEQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "19326524"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.j9VWgv8eo83so3Tv2C7Idg",
+        "title": "Rich Man, Poor Man and Beggarman, Thief",
+        "title_without_series": "Rich Man, Poor Man and Beggarman, Thief",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/19326524-rich-man-poor-man-and-beggarman-thief",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.43",
+        "ratings_count": "142",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "26946427",
+          "uri": "kca://work/amzn1.gr.work.v1.PrV1AoE0MCfP13aWgJpQmQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1710362"
+        },
+        "isbn": "0440193559",
+        "isbn13": "9780440193555",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "8"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.WK0VX5PfM6CtSdqFvXrcQg",
+        "title": "Voices Of A Summer Day",
+        "title_without_series": "Voices Of A Summer Day",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975357l/1710362._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975357l/1710362._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1710362.Voices_Of_A_Summer_Day",
+        "num_pages": "223",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Dial Press",
+        "publication_day": {},
+        "publication_year": "1965",
+        "publication_month": {},
+        "average_rating": "3.63",
+        "ratings_count": "141",
+        "description": "Four decades of American life are re-created through the dramatic reminiscences of Benjamin Federov, son of Russian Jewish immigrants. Main theme at a political level is anti-Jewish prejudice in the US and the case of Nicola Sacco and Bartolomeo Vanzetti. At a personal level, relationships with family and women provide the bulk of the story.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1965",
+        "work": {
+          "id": "1707571",
+          "uri": "kca://work/amzn1.gr.work.v1.uHi-IhC3PcJX1ZUx1sdFbA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1064127"
+        },
+        "isbn": "0440186080",
+        "isbn13": "9780440186083",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "11"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.g_Ljd3-GOa9P2wPfcMuE8A",
+        "title": "The Troubled Air",
+        "title_without_series": "The Troubled Air",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347974905l/1064127._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347974905l/1064127._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1064127.The_Troubled_Air",
+        "num_pages": {},
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Dell",
+        "publication_day": "15",
+        "publication_year": "1978",
+        "publication_month": "7",
+        "average_rating": "3.84",
+        "ratings_count": "120",
+        "description": "<b>New York Times Bestseller: A provocative novel about one man’s struggle with courage and his conscience at the height of McCarthyism.</b><br /> <br />Clement Archer, head of a popular radio show, faces a profound dilemma: Five of his employees stand accused of being communists, and a magazine threatens disclosure unless Archer fires each and every one. Despite his efforts to meet his own moral standards and avoid self-incrimination, Archer finds himself hounded from both ends of the political spectrum for his seemingly righteous actions.<br /> <br />The Troubled Air, Irwin Shaw’s second novel, was published immediately before the author moved to Europe, where he lived for the next twenty-five years. The story remains a powerful portrayal of a good, decent man ensnared by the hysteria and cruelty of a dark period in American history.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1978",
+        "work": {
+          "id": "1050770",
+          "uri": "kca://work/amzn1.gr.work.v1.oxSnRyP9p8Yz_tILjGpScQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "430473"
+        },
+        "isbn": "0297772759",
+        "isbn13": "9780297772750",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.UhHX_Z2GSVMK9L7_XfgRjg",
+        "title": "Paris! Paris!",
+        "title_without_series": "Paris! Paris!",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347973674l/430473._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347973674l/430473._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/430473.Paris_Paris_",
+        "num_pages": "211",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Harcourt Brace Jovanovich",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.42",
+        "ratings_count": "98",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "419450",
+          "uri": "kca://work/amzn1.gr.work.v1.qkiZrjmOntMwYCF_DBeDxQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2280977"
+        },
+        "isbn": "0877952396",
+        "isbn13": "9780877952398",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "7"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4HZVNGhxwloeK2CO9FbP_A",
+        "title": "God Was Here But He Left Early",
+        "title_without_series": "God Was Here But He Left Early",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347974673l/2280977._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347974673l/2280977._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2280977.God_Was_Here_But_He_Left_Early",
+        "num_pages": "219",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Dell Publishing Company",
+        "publication_day": "1",
+        "publication_year": "1975",
+        "publication_month": "1",
+        "average_rating": "3.88",
+        "ratings_count": "85",
+        "description": "A short-story collection dramatizing the author's views of the human condition",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1975",
+        "work": {
+          "id": "2287106",
+          "uri": "kca://work/amzn1.gr.work.v1.vjCN5FS_MVin1cqUKC80OQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "15835743"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.UtZRRAWr_LeE_wc48p3zuQ",
+        "title": "Om bogat, om sarac, vol II",
+        "title_without_series": "Om bogat, om sarac, vol II",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347974460l/15835743._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347974460l/15835743._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/15835743-om-bogat-om-sarac-vol-ii",
+        "num_pages": "284",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Constelatia",
+        "publication_day": {},
+        "publication_year": "1992",
+        "publication_month": {},
+        "average_rating": "4.15",
+        "ratings_count": "46",
+        "description": "Autorul ne prezinta epopeea familiei Jordache- in centrul careia se situeaza cei doi frati, Rudolph si Tom, precum si sora lor, Gretchen- dintr-un unghi original, dezvaluidu-ne- fara complexe si retinere- realitatile dominante si astazi in aceasta mult popularizata lume a tuturor posibilitatilor- tirania dolarului atotputernic, care, totusi, poate fi infranta de un tanar cu spirit intreprinzator, ce nu precupeteste munca pentru atingerea telului sau, acela de a se imbogati repede, teroarea exercitata de mafia in domeniul sportului si a criminalitatii internationale organizate care poate distruge pe oricine incearca sa i se opuna, fascinanta atractie a cinematografiei, arta americana dominanta, care nu poate asigura fericirea ravnita de cei care i se dedica si o slujesc.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1992",
+        "work": {
+          "id": "21573549",
+          "uri": "kca://work/amzn1.gr.work.v1.fIpJNfIsCzhHPPV2OUebhw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1578587"
+        },
+        "isbn": "0440150779",
+        "isbn13": "9780440150770",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.8AopN0nsFTHtejX8QhlS5g",
+        "title": "Love on a Dark Street",
+        "title_without_series": "Love on a Dark Street",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347973839l/1578587._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347973839l/1578587._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1578587.Love_on_a_Dark_Street",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.60",
+        "ratings_count": "43",
+        "description": "This story collection contains: The Man Who Married a French Wife; The Inhabitants of Venus; Noises in the City; A Year to Learn the Language; Once in Aleppo; Circle of Light; Wistful Delicately Gay; Tune Every Heart and Every Voice; Goldilocks at Graveside; and Love on a Dark Street.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "1571364",
+          "uri": "kca://work/amzn1.gr.work.v1.i-cUVPzwrC9hykg9oGkvQg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2903891"
+        },
+        "isbn": "0451014537",
+        "isbn13": "9780451014535",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.WHmxUijCgbqcb8kzyTxLdQ",
+        "title": "Tip on a Dead Jockey",
+        "title_without_series": "Tip on a Dead Jockey",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347972951l/2903891._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347972951l/2903891._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2903891-tip-on-a-dead-jockey",
+        "num_pages": {},
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Signet Book",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.79",
+        "ratings_count": "34",
+        "description": "Ten Stories by one of America's top ten writers: all with the nuance of city detail, the magical spirit of the present, that the author [...] can bootle so expertely.<br /><br />Daily Mail, Back cover",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "2931033",
+          "uri": "kca://work/amzn1.gr.work.v1.EApjyDFSXRwAcvk--f73_g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12157302"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4c6tK19ofjlGv2Nw0YGqzQ",
+        "title": "Selected Short Stories",
+        "title_without_series": "Selected Short Stories",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975429l/12157302._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975429l/12157302._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12157302-selected-short-stories",
+        "num_pages": "426",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Modern Library",
+        "publication_day": {},
+        "publication_year": "1961",
+        "publication_month": {},
+        "average_rating": "4.11",
+        "ratings_count": "18",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1961",
+        "work": {
+          "id": "17128160",
+          "uri": "kca://work/amzn1.gr.work.v1.yL5-1BTOJoMKBzRxX3YlHA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13099509"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "5"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.mP2AIs7gTjaFyKaJ74-Z7A",
+        "title": "In the Company of Dolphins",
+        "title_without_series": "In the Company of Dolphins",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348066212l/13099509._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348066212l/13099509._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13099509-in-the-company-of-dolphins",
+        "num_pages": "154",
+        "format": "Hardcover",
+        "edition_information": "first printing",
+        "publisher": "Bernard Geis Associates",
+        "publication_day": {},
+        "publication_year": "1964",
+        "publication_month": {},
+        "average_rating": "3.82",
+        "ratings_count": "17",
+        "description": "A Mediterranean cruise of several weeks told with relish and good humor",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1964",
+        "work": {
+          "id": "18271940",
+          "uri": "kca://work/amzn1.gr.work.v1.q3N_efasnzmAs9aT77P1lg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "3551270"
+        },
+        "isbn": "0450033449",
+        "isbn13": "9780450033445",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.yRvui2XOCM9WJgYTd99cGQ",
+        "title": "Mixed Company",
+        "title_without_series": "Mixed Company",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975239l/3551270._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347975239l/3551270._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/3551270-mixed-company",
+        "num_pages": "500",
+        "format": "Hardcover",
+        "edition_information": "First Edition",
+        "publisher": "Random House",
+        "publication_day": {},
+        "publication_year": "1950",
+        "publication_month": {},
+        "average_rating": "3.94",
+        "ratings_count": "16",
+        "description": "37 stories including some of his finest such as; \"The Girls in Their Summer Dresses,\" and \"The Eighty-Yard Run.\"",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1950",
+        "work": {
+          "id": "3593373",
+          "uri": "kca://work/amzn1.gr.work.v1.e5I7RB2TsOvt-6iAkzxtPw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "523883"
+        },
+        "isbn": "0836940245",
+        "isbn13": "9780836940244",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "3"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.tCV8fOGnnTc_LPW_4JI4Yw",
+        "title": "Act of Faith and Other Stories",
+        "title_without_series": "Act of Faith and Other Stories",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347973277l/523883._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347973277l/523883._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/523883.Act_of_Faith_and_Other_Stories",
+        "num_pages": "212",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Random House",
+        "publication_day": {},
+        "publication_year": "1946",
+        "publication_month": {},
+        "average_rating": "3.69",
+        "ratings_count": "16",
+        "description": "12 stories of the \"\"obscure\"\" war, that employ poignant understatement for the revelation of the new links between man of all countries and of all types, for the projection of the war against prejudices. The much discussed Act of Faith embodies both ideas, in the story of a Jewish boy, who learning of the mounting anti-semitism in the United States, plans to use the Lueger taken from a German he has killed to defend himself when he returns home, but who sells it to provide money for a Paris leave for himself and his two Christian friends. The other eleven show a father whose belief is shaken in his competence as he sees his boy off to war; a new naval Lieutenant who does an appendectomy at sea; a German Major who gets no sympathy from a French Jev; a French Lieutenant who tries to surrender to the Americans, but is killed by his men who do not believe him; a Greek-American Sergeant who is shipped home with new bonds of friendship; an American Lieutenant who learns of the terror and courage of the Jevish refugees in Palestine; a veteran, coming home, who tells off a homefront critic; and others- in stories of feeling, warm humanity and decent belief.<br /><br />Contents:<br />Preach on the dusty roads.--<br />Faith at sea.--<br />Gunners' passage.--<br />Walking wounded.--<br />Hamlets of the world.--<br />Retreat.--<br />Part in a play.--<br />The priest.--<br />Night in Algiers.--<br />Medal from Jerusalem.--<br />The veterans reflect.--<br />Act of faith.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1946",
+        "work": {
+          "id": "511751",
+          "uri": "kca://work/amzn1.gr.work.v1.rcLgQJekt584Y5R-wBGA_g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7759884"
+        },
+        "isbn": "8371326041",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.HOpvIn1UEJLXF88GXbdlSQ",
+        "title": "Szus",
+        "title_without_series": "Szus",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7759884-szus",
+        "num_pages": "341",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Książnica",
+        "publication_day": {},
+        "publication_year": "2002",
+        "publication_month": {},
+        "average_rating": "3.54",
+        "ratings_count": "13",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "15295066",
+          "uri": "kca://work/amzn1.gr.work.v1.lwHWes7q4mGZQo5XRj2fCQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "15764367"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.M8ytR_D-Y1chAmegO8o2NA",
+        "title": "The Girls in Their Summer Dresses and other stories",
+        "title_without_series": "The Girls in Their Summer Dresses and other stories",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/15764367-the-girls-in-their-summer-dresses-and-other-stories",
+        "num_pages": "218",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Kodansha",
+        "publication_day": {},
+        "publication_year": "1988",
+        "publication_month": {},
+        "average_rating": "3.67",
+        "ratings_count": "12",
+        "description": "A collection of seven short stories by Irwin Shaw, selected by Shimpei Tokiwa. The stories included are The Eighty-Yard Run, Strawberry Ice Cream, Welcome to the City, The Girls in Their Summer Dresses, Return to Kansas City, Tip on a Dead Jockey and In the French Style. There are also 31 pages of notes with different words and phrases translated into Japanese.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1988",
+        "work": {
+          "id": "21467290",
+          "uri": "kca://work/amzn1.gr.work.v1.HlQwQ65GClW2koIsDPnkaQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13333620"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.rbjYY45L3XUI1rnUbL6gUw",
+        "title": "Report On Israel",
+        "title_without_series": "Report On Israel",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13333620-report-on-israel",
+        "num_pages": "144",
+        "format": "Hardcover",
+        "edition_information": "First Edition",
+        "publisher": "Simon & Schuster",
+        "publication_day": {},
+        "publication_year": "1950",
+        "publication_month": {},
+        "average_rating": "4.10",
+        "ratings_count": "10",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1950",
+        "work": {
+          "id": "18541580",
+          "uri": "kca://work/amzn1.gr.work.v1.T46aS0KxNHFQISrbklt18w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "36230711"
+        },
+        "isbn": "1504047206",
+        "isbn13": "9781504047203",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.0J95DxCRPZ39c1q9nN3tUA",
+        "title": "Collected Fiction: The Young Lions, Bread Upon the Waters, Short Stories: Five Decades, and The Troubled Air",
+        "title_without_series": "Collected Fiction: The Young Lions, Bread Upon the Waters, Short Stories: Five Decades, and The Troubled Air",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507150999l/36230711._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507150999l/36230711._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/36230711-collected-fiction",
+        "num_pages": "3223",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Open Road Media",
+        "publication_day": "3",
+        "publication_year": "2017",
+        "publication_month": "10",
+        "average_rating": "4.12",
+        "ratings_count": "8",
+        "description": "<b>Three acclaimed novels plus collected short fiction by the <i>New York Times</i>–bestselling author of <i>Rich Man, Poor Man</i>.</b><br /><br /><i>The Young Lions</i>: Irwin Shaw’s <i>New York Times–</i>bestselling debut is widely considered one of the four great World War II novels, along with <i>From Here to Eternity</i>, <i>The Naked and the Dead</i>, and <i>The Caine Mutiny</i>. Ambitious in its scope and robust in its prose, this “masterpiece” is also deeply humanistic, presenting the reality of war as seen through the eyes of three ordinary soldiers: a Nazi sergeant, a Jewish American infantryman, and an idealistic urbanite from New York City (<i>The</i><i>Boston Globe</i>).<br />  <br /><i>Bread Upon the Waters</i>: No good deed goes unpunished? The Strands are a happy family, though not without their financial struggles. When their daughter helps a mugging victim by bringing him home, he turns out to be a Wall Street lawyer whose gratitude is as boundless as his bank account. But with each successive “reward,” the Strand family moves farther away from the wealth of happiness they already possessed.<br />  <br /><i>Short Stories: Five Decades</i>: Shaw’s prolific output of short stories appeared regularly in the pages of the<i> New Yorker </i>and <i>Esquire </i>for over half a century. These sixty-three stories include such iconic works as “The Eighty-Yard Run” and “The Girls in Their Summer Dresses.”<br />  <br /><i>The Troubled Air</i>: Five employees of Clement Archer’s popular radio show are accused Communists. He will have to fire them to keep his show on the air. But it’s not a simple choice—whatever Archer decides, he won’t be able to keep his hands clean, in Shaw’s provocative classic about courage and morality at the height of McCarthyism.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "2017",
+        "work": {
+          "id": "57871249",
+          "uri": "kca://work/amzn1.gr.work.v1.mMugZ1o5qLeNPpne7aI54Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "35502141"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.cHqYlOZYdx8z2CO3Q7j8sA",
+        "title": "Bogataš in revež 2 (Rich man, poor man, #2)",
+        "title_without_series": "Bogataš in revež 2",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498547644l/35502141._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498547644l/35502141._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/35502141-bogata-in-reve-2",
+        "num_pages": "319",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Pomurska založba",
+        "publication_day": {},
+        "publication_year": "1977",
+        "publication_month": {},
+        "average_rating": "3.62",
+        "ratings_count": "8",
+        "description": "Dogajanje romana <i>Bogataš in revež</i> obsega skoraj petindvajsetletno obdobje ZDA, v katerega je I. Shaw znal vplesti najpomembnejše značilnosti ameriškega življenja (1945-1968). Tudi film in TV-nadaljevanka, posneta po tem romanu - uspešnici, sta znala izluščiti veliko zanimivih prizorov iz družine Jordache, medtem ko je lahko roman seveda veliko bolj natančno, zanimivo in vsebinsko bogato prodrl v številne podrobnosti človeških odnosov. I. Shaw je orisal panoramo ameriške družbe s pomočjo Jordachovih: živčno razrvane matere Mary, katere drobne, a lepe sanje so se razbile ob krutem soprogu Axelu, ki se je le s krvavim nožem v rokah znal zavleči v ZDA, ob dveh sinovih — Thomasu, »črni« družinski ovci, in Rudolphu, »uresničitelju« t. i. »ameriškega sna« o uspešni poslovnosti, ter hčerki Gretchen, ki ni našla utehe v objemih številnih ljubimcev. Delo odlikuje psihološko prefinjena pripoved. Shaw je znal iz najdrobnejših vlaken človeške psihe stkati polnokrvne like, iz drobtin je znal zgnesti velik kolač, ki pa ni bil sladek, ker je zaudarjal po plesnobi, ki jo je Axel prinesel iz Nemčije, po krvi, ki se je cedila s pesti pretepaškega Thomasa, po znoju povaljanih postelj hčerke Gretchen, po potu ambicioznega Rudyja, prototipa ameriškega poslovnega človeka, po solzah prezgodaj ostarele matere Mary, po bedi in izobilju, po vonju beznic in razkošnih vil, boksarskih aren in toplih človeških odnosov, političnih mahinacij in »človekoljubnih« transparentov. Gre za številne drobce, za črepinje družine Jordache in za vprašanje: kdo jih bo lahko sestavil ali vsaj delno zlepil v podobo, ki bo spominjala na človeka?<br /><br />Drugi del romana opisuje obdobje med leti 1949 in 1961.",
+        "authors": {
+          "author": {
+            "id": "7735",
+            "name": "Irwin Shaw",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p5/7735.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1491654461p2/7735.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/7735.Irwin_Shaw",
+            "average_rating": "4.10",
+            "ratings_count": "46843",
+            "text_reviews_count": "1509"
+          }
+        },
+        "published": "1977",
+        "work": {
+          "id": "56907779",
+          "uri": "kca://work/amzn1.gr.work.v1.qYq5p7KnrQRenR1hpA7guQ"
+        }
+      }
+    ]
+  }
+}

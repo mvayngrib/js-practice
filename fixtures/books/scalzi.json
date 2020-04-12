@@ -1,0 +1,1618 @@
+{
+  "id": "4763",
+  "name": "John Scalzi",
+  "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "125",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "36510196"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "999"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.7sj7r8V2FIyW9Bogd6cyKQ",
+        "title": "Old Man's War (Old Man's War, #1)",
+        "title_without_series": "Old Man's War",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509467059l/36510196._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509467059l/36510196._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/36510196-old-man-s-war",
+        "num_pages": "332",
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "1",
+        "publication_year": "2007",
+        "publication_month": "4",
+        "average_rating": "4.24",
+        "ratings_count": "148236",
+        "description": "John Perry did two things on his 75th birthday. First he visited his wife's grave. Then he joined the army.<br /><br />The good news is that humanity finally made it into interstellar space. The bad news is that planets fit to live on are scarce-- and alien races willing to fight us for them are common. So: we fight. To defend Earth, and to stake our own claim to planetary real estate. Far from Earth, the war has been going on for decades: brutal, bloody, unyielding.<br /><br />Earth itself is a backwater. The bulk of humanity's resources are in the hands of the Colonial Defense Force. Everybody knows that when you reach retirement age, you can join the CDF. They don't want young people; they want people who carry the knowledge and skills of decades of living. You'll be taken off Earth and never allowed to return. You'll serve two years at the front. And if you survive, you'll be given a generous homestead stake of your own, on one of our hard-won colony planets.<br /><br />John Perry is taking that deal. He has only the vaguest idea what to expect. Because the actual fight, light-years from home, is far, far harder than he can imagine--and what he will become is far stranger.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "50700",
+          "uri": "kca://work/amzn1.gr.work.v1.j7Z9ksghuQbWG761dcNj-Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13055592"
+        },
+        "isbn": "0765316994",
+        "isbn13": "9780765316998",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "8059"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.JJcTWRb36olmdV0fM4pDtg",
+        "title": "Redshirts",
+        "title_without_series": "Redshirts",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13055592-redshirts",
+        "num_pages": "320",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "5",
+        "publication_year": "2012",
+        "publication_month": "6",
+        "average_rating": "3.85",
+        "ratings_count": "81921",
+        "description": "Ensign Andrew Dahl has just been assigned to the Universal Union Capital Ship <i>Intrepid</i>, flagship of the Universal Union since the year 2456. It’s a prestige posting, and Andrew is thrilled all the more to be assigned to the ship’s Xenobiology laboratory.<br /><br />Life couldn’t be better…until Andrew begins to pick up on the fact that: <br />(1) every Away Mission involves some kind of lethal confrontation with alien forces <br />(2) the ship’s captain, its chief science officer, and the handsome Lieutenant Kerensky always survive these confrontations <br />(3) at least one low-ranked crew member is, sadly, always killed.<br /><br />Not surprisingly, a great deal of energy below decks is expended on avoiding, at all costs, being assigned to an Away Mission. Then Andrew stumbles on information that completely transforms his and his colleagues’ understanding of what the starship <i>Intrepid</i> really is…and offers them a crazy, high-risk chance to save their own lives.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2012",
+        "work": {
+          "id": "18130445",
+          "uri": "kca://work/amzn1.gr.work.v1.1NXlUf-xSeQjrIZfZBH1gg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "239399"
+        },
+        "isbn": "0765354063",
+        "isbn13": "9780765354068",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2551"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.cutihFCApwYgBkEiSL19JA",
+        "title": "The Ghost Brigades (Old Man's War, #2)",
+        "title_without_series": "The Ghost Brigades",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403295928l/239399._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403295928l/239399._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/239399.The_Ghost_Brigades",
+        "num_pages": "347",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "1",
+        "publication_year": "2007",
+        "publication_month": "5",
+        "average_rating": "4.10",
+        "ratings_count": "63682",
+        "description": "The Ghost Brigades are the Special Forces of the Colonial Defense Forces, elite troops created from the DNA of the dead and turned into the perfect soldiers for the CDF's toughest operations. They’re young, they’re fast and strong, and they’re totally without normal human qualms.<br /><br />The universe is a dangerous place for humanity—and it's about to become far more dangerous. Three races that humans have clashed with before have allied to halt our expansion into space. Their linchpin: the turncoat military scientist Charles Boutin, who knows the CDF’s biggest military secrets. To prevail, the CDF must find out why Boutin did what he did.<br /><br />Jared Dirac is the only human who can provide answers -- a superhuman hybrid, created from Boutin's DNA, Jared’s brain should be able to access Boutin's electronic memories. But when the memory transplant appears to fail, Jared is given to the Ghost Brigades.<br /><br />At first, Jared is a perfect soldier, but as Boutin’s memories slowly surface, Jared begins to intuit the reason’s for Boutin’s betrayal. As Jared desperately hunts for his \"father,\" he must also come to grips with his own choices. Time is running out: The alliance is preparing its offensive, and some of them plan worse things than humanity’s mere military defeat…",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "18279845",
+          "uri": "kca://work/amzn1.gr.work.v1.7yqKkNKDKv8HfTkJe3VtpA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "21418013"
+        },
+        "isbn": "0765375869",
+        "isbn13": "9780765375865",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4580"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.1e9r2UlKpJoJWWC6IO_k5w",
+        "title": "Lock In (Lock In, #1)",
+        "title_without_series": "Lock In",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438701397l/21418013._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438701397l/21418013._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/21418013-lock-in",
+        "num_pages": "336",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "26",
+        "publication_year": "2014",
+        "publication_month": "8",
+        "average_rating": "3.89",
+        "ratings_count": "51519",
+        "description": "Not too long from today, a new, highly contagious virus makes its way across the globe. Most who get sick experience nothing worse than flu, fever and headaches. But for the unlucky one percent - and nearly five million souls in the United States alone - the disease causes \"Lock In\": Victims fully awake and aware, but unable to move or respond to stimulus. The disease affects young, old, rich, poor, people of every color and creed. The world changes to meet the challenge.<br /><br />A quarter of a century later, in a world shaped by what's now known as \"Haden's syndrome,\" rookie FBI agent Chris Shane is paired with veteran agent Leslie Vann. The two of them are assigned what appears to be a Haden-related murder at the Watergate Hotel, with a suspect who is an \"integrator\" - someone who can let the locked in borrow their bodies for a time. If the Integrator was carrying a Haden client, then naming the suspect for the murder becomes that much more complicated.<br /><br />But \"complicated\" doesn't begin to describe it. As Shane and Vann began to unravel the threads of the murder, it becomes clear that the real mystery - and the real crime - is bigger than anyone could have imagined. The world of the locked in is changing, and with the change comes opportunities that the ambitious will seize at any cost. The investigation that began as a murder case takes Shane and Vann from the halls of corporate power to the virtual spaces of the locked in, and to the very heart of an emerging, surprising new human culture. It's nothing you could have expected.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "26115712",
+          "uri": "kca://work/amzn1.gr.work.v1._s_agMIyO23goWIrfYuTJA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "88071"
+        },
+        "isbn": "0765316978",
+        "isbn13": "9780765316974",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1761"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4JzszrQ4MSuHOp81OmydLQ",
+        "title": "The Last Colony (Old Man's War, #3)",
+        "title_without_series": "The Last Colony",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/88071.The_Last_Colony",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.06",
+        "ratings_count": "48322",
+        "description": "Retired from his fighting days, John Perry is now village ombudsman for a human colony on distant Huckleberry. With his wife, former Special Forces warrior Jane Sagan, he farms several acres, adjudicates local disputes, and enjoys watching his adopted daughter grow up.<br /><br />That is, until his and Jane's past reaches out to bring them back into the game--as leaders of a new human colony, to be peopled by settlers from all the major human worlds, for a deep political purpose that will put Perry and Sagan back in the thick of interstellar politics, betrayal, and war.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "18279847",
+          "uri": "kca://work/amzn1.gr.work.v1.axmNRQZRwmprBmHfyPJyRw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "30078567"
+        },
+        "isbn": "0765388898",
+        "isbn13": "9780765388896",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2552"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.kGJXgsAl8HtN79AESfi8Yg",
+        "title": "The Collapsing Empire (The Interdependency, #1)",
+        "title_without_series": "The Collapsing Empire",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/30078567-the-collapsing-empire",
+        "num_pages": "336",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "21",
+        "publication_year": "2017",
+        "publication_month": "3",
+        "average_rating": "4.10",
+        "ratings_count": "32478",
+        "description": "The first novel of a new space-opera sequence set in an all-new universe by the Hugo Award-winning, New York Times-bestselling author of Redshirts and Old Man's War.<br /><br />Our universe is ruled by physics and faster than light travel is not possible -- until the discovery of The Flow, an extra-dimensional field we can access at certain points in space-time that transport us to other worlds, around other stars. <br /><br />Humanity flows away from Earth, into space, and in time forgets our home world and creates a new empire, the Interdependency, whose ethos requires that no one human outpost can survive without the others. It’s a hedge against interstellar war -- and a system of control for the rulers of the empire.<br /><br />The Flow is eternal -- but it is not static. Just as a river changes course, The Flow changes as well, cutting off worlds from the rest of humanity. When it’s discovered that The Flow is moving, possibly cutting off all human worlds from faster than light travel forever, three individuals -- a scientist, a starship captain and the Empress of the Interdependency -- are in a race against time to discover what, if anything, can be salvaged from an interstellar empire on the brink of collapse.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2017",
+        "work": {
+          "id": "50498420",
+          "uri": "kca://work/amzn1.gr.work.v1.EL_K1Wnlcphft1OuDV7A7A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "15698479"
+        },
+        "isbn": "0765333511",
+        "isbn13": "9780765333513",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1217"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Yc_o1eV14LlLSyAkCFTmIA",
+        "title": "The Human Division (Old Man's War, #5)",
+        "title_without_series": "The Human Division",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341582413l/15698479._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341582413l/15698479._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/15698479-the-human-division",
+        "num_pages": "431",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "14",
+        "publication_year": "2013",
+        "publication_month": "5",
+        "average_rating": "4.08",
+        "ratings_count": "25247",
+        "description": "Following the events of <i>The Last Colony</i>, John Scalzi tells the story of the fight to maintain the unity of the human race.<br /><br />The people of Earth now know that the human Colonial Union has kept them ignorant of the dangerous universe around them. For generations the CU had defended humanity against hostile aliens, deliberately keeping Earth an ignorant backwater and a source of military recruits. Now the CU's secrets are known to all. Other alien races have come on the scene and formed a new alliance—an alliance against the Colonial Union. And they've invited the people of Earth to join them. For a shaken and betrayed Earth, the choice isn't obvious or easy.<br /><br />Against such possibilities, managing the survival of the Colonial Union won't be easy, either. It will take diplomatic finesse, political cunning…and a brilliant \"B Team,\" centered on the resourceful Lieutenant Harry Wilson, that can be deployed to deal with the unpredictable and unexpected things the universe throws at you when you're struggling to preserve the unity of the human race.<br /><br />Being published online from January to April 2013 as a three-month digital serial, <i>The Human Division</i> will appear as a full-length novel of the Old Man's War universe, plus—for the first time in print—the first tale of Lieutenant Harry Wilson, and a coda that wasn't part of the digital serialization.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "21356077",
+          "uri": "kca://work/amzn1.gr.work.v1.g_gf4fImQtJdsKMV-v7fUQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9647532"
+        },
+        "isbn": "0765328542",
+        "isbn13": "9780765328540",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2021"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.W95cbVBdSto0vmHBZ9yMmg",
+        "title": "Fuzzy Nation (Fuzzy Sapiens #7)",
+        "title_without_series": "Fuzzy Nation",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316132345l/9647532._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316132345l/9647532._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9647532-fuzzy-nation",
+        "num_pages": "303",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.12",
+        "ratings_count": "24549",
+        "description": "Jack Holloway works alone, for reasons he doesn't care to talk about. Hundreds of miles from ZaraCorp's headquarters on planet, 178 light-years from the corporation's headquarters on Earth, Jack is content as an independent contractor, prospecting and surveying at his own pace. As for his past, that's not up for discussion.<br /><br />Then, in the wake of an accidental cliff collapse, Jack discovers a seam of unimaginably valuable jewels, to which he manages to lay legal claim just as ZaraCorp is cancelling their contract with him for his part in causing the collapse. Briefly in the catbird seat, legally speaking, Jack pressures ZaraCorp into recognizing his claim, and cuts them in as partners to help extract the wealth.<br /><br />But there's another wrinkle to ZaraCorp's relationship with the planet Zarathustra. Their entire legal right to exploit the verdant Earth-like planet, the basis of the wealth they derive from extracting its resources, is based on being able to certify to the authorities on Earth that Zarathustra is home to no sentient species.<br /><br />Then a small furry biped—trusting, appealing, and ridiculously cute—shows up at Jack's outback home. Followed by its family. As it dawns on Jack that despite their stature, these are people, he begins to suspect that ZaraCorp's claim to a planet's worth of wealth is very flimsy indeed…and that ZaraCorp may stop at nothing to eliminate the \"fuzzys\" before their existence becomes more widely known.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "18280046",
+          "uri": "kca://work/amzn1.gr.work.v1.XyQmeohMmKB5RCaQ1ZXQYQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2102600"
+        },
+        "isbn": "0765316986",
+        "isbn13": "9780765316981",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1361"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.OetXJHau3U0CIoRpkX6pVw",
+        "title": "Zoe's Tale (Old Man's War, #4)",
+        "title_without_series": "Zoe's Tale",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301108028l/2102600._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301108028l/2102600._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2102600.Zoe_s_Tale",
+        "num_pages": "335",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.74",
+        "ratings_count": "26729",
+        "description": "How do you tell your part in the biggest tale in history?<br /><br />I ask because it's what I have to do. I'm Zoe Boutin Perry: A colonist stranded on a deadly pioneer world. Holy icon to a race of aliens. A player (and a pawn) in a interstellar chess match to save humanity, or to see it fall. Witness to history. Friend. Daughter. Human. Seventeen years old.<br /><br />Everyone on Earth knows the tale I am part of. But you don't know my tale: How I did what I did — how I did what I had to do — not just to stay alive but to keep you alive, too. All of you. I'm going to tell it to you now, the only way I know how: not straight but true, the whole thing, to try make you feel what I felt: the joy and terror and uncertainty, panic and wonder, despair and hope. Everything that happened, bringing us to Earth, and Earth out of its captivity. All through my eyes.<br /><br />It's a story you know. But you don't know it all.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "18280032",
+          "uri": "kca://work/amzn1.gr.work.v1.xOA6hSv2pTisBOOmy8yoHQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "26082188"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2159"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.-kcU3bMyawYNtZ_KCXRX0Q",
+        "title": "The Dispatcher",
+        "title_without_series": "The Dispatcher",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474569919l/26082188._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474569919l/26082188._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/26082188-the-dispatcher",
+        "num_pages": "3",
+        "format": "Audible Audio",
+        "edition_information": "Unabridged",
+        "publisher": "Audible Studios",
+        "publication_day": "4",
+        "publication_year": "2016",
+        "publication_month": "10",
+        "average_rating": "3.99",
+        "ratings_count": "19525",
+        "description": "<b>Listening Length: 2 hours and 18 minutes</b><br /><br />One day, not long from now, it becomes almost impossible to murder anyone - 999 times out of a thousand, anyone who is intentionally killed comes back. How? We don't know. But it changes everything: war, crime, daily life.<br />Tony Valdez is a Dispatcher - a licensed, bonded professional whose job is to humanely dispatch those whose circumstances put them in death's crosshairs, so they can have a second chance to avoid the reaper. But when a fellow Dispatcher and former friend is apparently kidnapped, Tony learns that there are some things that are worse than death and that some people are ready to do almost anything to avenge a supposed wrong.<br />It's a race against time for Valdez to find his friend before it's too late...before not even a Dispatcher can save him.<br /><br /><br />___<br />Zachary Quinto - best known for his role as the Nimoy-approved Spock in the recent Star Trek reboot and the menacing, power-stealing serial killer, Sylar, in Heroes - brings his well-earned sci-fi credentials and simmering intensity to this audio-exclusive novella from master storyteller John Scalzi.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2016",
+        "work": {
+          "id": "46020966",
+          "uri": "kca://work/amzn1.gr.work.v1.c-X6WOZFyTi1ENp2psW0fQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7081"
+        },
+        "isbn": "0765309416",
+        "isbn13": "9780765309419",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1280"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.GmP8l3A3yA6Y4EdJt7qS6A",
+        "title": "The Android's Dream (The Android's Dream #1)",
+        "title_without_series": "The Android's Dream",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7081.The_Android_s_Dream",
+        "num_pages": "396",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": "2006",
+        "publication_month": "11",
+        "average_rating": "3.97",
+        "ratings_count": "17279",
+        "description": "<div>A human diplomat kills his alien counterpart. Earth is on the verge of war with a vastly superior alien race. A lone man races against time and a host of enemies to find the one object that can save our planet and our people from alien enslavement...<br /><br />A sheep.<br /><br />That's right, a sheep. And if you think that's the most surprising thing about this book, wait until you read Chapter One. Welcome to <i>The Android's Dream.<br /></i><br />For Harry Creek, it's quickly becoming a nightmare. All he wants is to do his uncomplicated mid-level diplomatic job with Earth's State Department. But his past training and skills get him tapped to save the planet--and to protect pet store owner Robin Baker, whose own past holds the key to the whereabouts of that lost sheep. Doing both will take him from lava-strewn battlefields to alien halls of power. All in a day's work. Maybe it's time for a raise.<br /><br />Throw in two-timing freelance mercenaries, political lobbyists with megalomaniac tendencies, aliens on a religious quest, and an artificial intelligence with unusual backstory, and you've got more than just your usual science fiction adventure story. You've got <i>The Android's Dream.</i></div>",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "18280036",
+          "uri": "kca://work/amzn1.gr.work.v1.FUJvaYsVqPpYuF_gLAe_cw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "88072"
+        },
+        "isbn": "1596060204",
+        "isbn13": "9781596060203",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1116"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.QmYBW3IObzsiIcmCbKKCLw",
+        "title": "Agent to the Stars",
+        "title_without_series": "Agent to the Stars",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303914309l/88072._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303914309l/88072._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/88072.Agent_to_the_Stars",
+        "num_pages": "280",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": "1",
+        "publication_year": "2005",
+        "publication_month": "8",
+        "average_rating": "3.91",
+        "ratings_count": "16726",
+        "description": "The space-faring Yherajk have come to Earth to meet us and to begin humanity's first interstellar friendship. There's just one problem: They're hideously ugly and they smell like rotting fish. So getting humanity's trust is a challenge. The Yherajk need someone who can help them close the deal. Enter Thomas Stein, who knows something about closing deals. He's one of Hollywood's hottest young agents. But although Stein may have just concluded the biggest deal of his career, it's quite another thing to negotiate for an entire alien race. To earn his percentage this time, he's going to need all the smarts, skills, and wits he can muster.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "18280048",
+          "uri": "kca://work/amzn1.gr.work.v1.qU_Itv837EFbhpk5szT6dg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "23168809"
+        },
+        "isbn": "0765376075",
+        "isbn13": "9780765376077",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "863"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.9UbNdbJHp4jpxhziByg4Ow",
+        "title": "The End of All Things (Old Man's War, #6)",
+        "title_without_series": "The End of All Things",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411134775l/23168809._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411134775l/23168809._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/23168809-the-end-of-all-things",
+        "num_pages": "380",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "11",
+        "publication_year": "2015",
+        "publication_month": "8",
+        "average_rating": "3.98",
+        "ratings_count": "16141",
+        "description": "<b>Hugo-award winning author, John Scalzi returns to his best-selling Old Man's War universe with the direct sequel to 2013’s The Human Division</b><br /><br />Humans expanded into space…only to find a universe populated with multiple alien species bent on their destruction. Thus was the Colonial Union formed, to help protect us from a hostile universe. The Colonial Union used the Earth and its excess population for colonists and soldiers. It was a good arrangement...for the Colonial Union. Then the Earth said: no more.<br />　<br />Now the Colonial Union is living on borrowed time—a couple of decades at most, before the ranks of the Colonial Defense Forces are depleted and the struggling human colonies are vulnerable to the alien species who have been waiting for the first sign of weakness, to drive humanity to ruin. And there’s another problem: A group, lurking in the darkness of space, playing human and alien against each other—and against their own kind —for their own unknown reasons.<br />　<br />In this collapsing universe, CDF Lieutenant Harry Wilson and the Colonial Union diplomats he works with race against the clock to discover who is behind attacks on the Union and on alien races, to seek peace with a suspicious, angry Earth, and keep humanity’s union intact...or else risk oblivion, and extinction—and the end of all things.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2015",
+        "work": {
+          "id": "42713953",
+          "uri": "kca://work/amzn1.gr.work.v1.QTj2FDaB2eolG0w1CDXH6A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "34942741"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1203"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.KBX86L--y4mTqr0XZVe8SA",
+        "title": "The Consuming Fire (The Interdependency, #2)",
+        "title_without_series": "The Consuming Fire",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518468399l/34942741._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518468399l/34942741._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/34942741-the-consuming-fire",
+        "num_pages": "304",
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "16",
+        "publication_year": "2018",
+        "publication_month": "10",
+        "average_rating": "4.23",
+        "ratings_count": "15107",
+        "description": "The Consuming Fire―the sequel to the 2018 Hugo Award Best Novel finalist and 2018 Locus Award-winning The Collapsing Empire―an epic space-opera novel in the bestselling Interdependency series, from New York Times bestselling author John Scalzi<br /><br />The Interdependency―humanity’s interstellar empire―is on the verge of collapse. The extra-dimensional conduit that makes travel between the stars possible is disappearing, leaving entire systems and human civilizations stranded.<br /><br />Emperox Grayland II of the Interdependency is ready to take desperate measures to help ensure the survival of billions. But arrayed before her are those who believe the collapse of the Flow is a myth―or at the very least an opportunity to an ascension to power.<br /><br />While Grayland prepares for disaster, others are preparing for a civil war. A war that will take place in the halls of power, the markets of business and the altars of worship as much as it will between spaceships and battlefields.<br /><br />The Emperox and her allies are smart and resourceful, as are her enemies. Nothing about this will be easy... and all of humanity will be caught in its consuming fire.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2018",
+        "work": {
+          "id": "56211540",
+          "uri": "kca://work/amzn1.gr.work.v1.vIBOex-gd5Mg8N2F0_4lYw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "35018901"
+        },
+        "isbn": "076538891X",
+        "isbn13": "9780765388919",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1207"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.E1qfo0SbaSgkFH7-DxoIkA",
+        "title": "Head On (Lock In, #2)",
+        "title_without_series": "Head On",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994548l/35018901._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994548l/35018901._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/35018901-head-on",
+        "num_pages": "335",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "17",
+        "publication_year": "2018",
+        "publication_month": "4",
+        "average_rating": "4.00",
+        "ratings_count": "14489",
+        "description": "John Scalzi returns with <i>Head On</i>, the standalone follow-up to the New York Times bestselling and critically acclaimed <i>Lock In</i>. Chilling near-future SF with the thrills of a gritty cop procedural, <i>Head On</i> brings Scalzi's trademark snappy dialogue and technological speculation to the future world of sports.<br /><br />Hilketa is a frenetic and violent pastime where players attack each other with swords and hammers. The main goal of the game: obtain your opponent’s head and carry it through the goalposts. With flesh and bone bodies, a sport like this would be impossible. But all the players are “threeps,” robot-like bodies controlled by people with Haden’s Syndrome, so anything goes. No one gets hurt, but the brutality is real and the crowds love it.<br /><br />Until a star athlete drops dead on the playing field.<br /><br />Is it an accident or murder? FBI Agents and Haden-related crime investigators, Chris Shane and Leslie Vann, are called in to uncover the truth―and in doing so travel to the darker side of the fast-growing sport of Hilketa, where fortunes are made or lost, and where players and owners do whatever it takes to win, on and off the field.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2018",
+        "work": {
+          "id": "45415409",
+          "uri": "kca://work/amzn1.gr.work.v1.8ruqxE2fPH39Ea0kKwUwLg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "21805681"
+        },
+        "isbn": "1466871792",
+        "isbn13": "9781466871793",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "707"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xdbL_sZEH9uBD4xtWKKB1g",
+        "title": "Unlocked: An Oral History of Haden's Syndrome (Lock In, #0.5)",
+        "title_without_series": "Unlocked: An Oral History of Haden's Syndrome",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397572655l/21805681._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397572655l/21805681._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/21805681-unlocked",
+        "num_pages": "63",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "7",
+        "publication_year": "2014",
+        "publication_month": "5",
+        "average_rating": "3.97",
+        "ratings_count": "6593",
+        "description": "A new near-future science fiction novella by John Scalzi, one of the most popular authors in modern SF. <i>Unlocked</i> traces the medical history behind a virus that will sweep the globe and affect the majority of the world’s population, setting the stage for <i>Lock In</i>, the next major novel by John Scalzi.<br /><br />Free to read here:<br /><a target=\"_blank\" href=\"http://www.tor.com/2014/05/13/unlocked-an-oral-history-of-hadens-syndrome-john-scalzi\" rel=\"nofollow\">http://www.tor.com/2014/05/13/unlocke...</a><br /><br />At the publisher's request, this title is being sold without Digital Rights Management software (DRM) applied.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "41068587",
+          "uri": "kca://work/amzn1.gr.work.v1.0kIt7xBSsAelPBM-nhinZA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180352"
+        },
+        "isbn": "1466830514",
+        "isbn13": "9781466830516",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "247"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.y_fiyeJN7f9jBufuYX9J2A",
+        "title": "The B-Team (The Human Division, #1)",
+        "title_without_series": "The B-Team",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358271951l/16180352._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358271951l/16180352._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180352-the-b-team",
+        "num_pages": "93",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "15",
+        "publication_year": "2013",
+        "publication_month": "1",
+        "average_rating": "4.07",
+        "ratings_count": "6007",
+        "description": "The opening episode of <i>The Human Division,</i> John Scalzi's new thirteen-episode novel in the world of his bestselling <i>Old Man's War</i>.<br /><br />Colonial Union Ambassador Ode Abumwe and her team are used to life on the lower end of the diplomatic ladder. But when a high-profile diplomat goes missing, Abumwe and her team are last minute replacements on a mission critical to the Colonial Unions future. As the team works to pull off their task, CDF Lieutenant Harry Wilson discovers theres more to the story of the missing diplomats than anyone expected...a secret that could spell war for humanity.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035285",
+          "uri": "kca://work/amzn1.gr.work.v1.tn5RjMmqv9a-fX3GeaPCEA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6470498"
+        },
+        "isbn": "1596062800",
+        "isbn13": "9781596062801",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "571"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.GpMX_arr3W3E8ZApb5svhw",
+        "title": "The God Engines",
+        "title_without_series": "The God Engines",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255398826l/6470498._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255398826l/6470498._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6470498-the-god-engines",
+        "num_pages": "136",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": {},
+        "publication_year": "2009",
+        "publication_month": "12",
+        "average_rating": "3.60",
+        "ratings_count": "6215",
+        "description": "Captain Ean Tephe is a man of faith, whose allegiance to his lord and to his ship is uncontested. The Bishopry Militant knows this -- and so, when it needs a ship and crew to undertake a secret, sacred mission to a hidden land, Tephe is the captain to whom the task is given. Tephe knows from the start that his mission will be a test of his skill as a leader of men and as a devout follower of his god. It's what he doesn't know that matters: to what ends his faith and his ship will ultimately be put -- and that the tests he will face will come not only from his god and the Bishopry Militant, but from another, more malevolent source entirely....",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "15558776",
+          "uri": "kca://work/amzn1.gr.work.v1.KutHeCCg61_AXr5xZpepzg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "61664"
+        },
+        "isbn": "1596061030",
+        "isbn13": "9781596061033",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "365"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.z7EbU_U7DZfTpFsozsMTfQ",
+        "title": "The Sagan Diary  (Old Man's War, #2.5)",
+        "title_without_series": "The Sagan Diary",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/61664.The_Sagan_Diary",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": "1",
+        "publication_year": "2007",
+        "publication_month": "1",
+        "average_rating": "3.30",
+        "ratings_count": "5827",
+        "description": "Fans of John Scalzi's \"Old Man\" universe, prepare yourselves: there's a long new story in that universe, told from the point of view of one of the series' most intriguing characters. Subterranean Press is proud to publish The Sagan Diary, a long novelette that for the first time looks at the worlds of the Hugo-nominated Old Man's War and its sequel The Ghost Brigades from the point of view of Lieutenant Jane Sagan, who in a series of diary entries gives her views on some of the events included in the series... and sheds new light into some previously unexplored corners. If you thought you knew Jane Sagan before, prepare to be surprised.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "15558795",
+          "uri": "kca://work/amzn1.gr.work.v1.pjlDNhDuCBX5XI3XySgUyw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180355"
+        },
+        "isbn": "1466830530",
+        "isbn13": "9781466830530",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "92"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xsQBEymrqiYA1EEP20Qhdw",
+        "title": "We Only Need the Heads (The Human Division, #3)",
+        "title_without_series": "We Only Need the Heads",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358272271l/16180355._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358272271l/16180355._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180355-we-only-need-the-heads",
+        "num_pages": "48",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "29",
+        "publication_year": "2013",
+        "publication_month": "1",
+        "average_rating": "4.09",
+        "ratings_count": "2921",
+        "description": "CDF Lieutenant Harry Wilson has been loaned out to a CDF platoon tasked with secretly removing an unauthorized colony of humans on an alien world. Colonial Ambassador Abumwe has been ordered to participate in final negotiations with an alien race the Union hopes to make allies. Wilson and Abumwes missions are fated to crossand in doing so, place both missions at risk of failure.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035288",
+          "uri": "kca://work/amzn1.gr.work.v1.jqJ1IvL0scA0mDmtLAPaww"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180353"
+        },
+        "isbn": "1466830522",
+        "isbn13": "9781466830523",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "119"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Yc7nSOmvt3P6kTlVsnXONw",
+        "title": "Walk the Plank (The Human Division, #2)",
+        "title_without_series": "Walk the Plank",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354919963l/16180353._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354919963l/16180353._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180353-walk-the-plank",
+        "num_pages": "32",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "22",
+        "publication_year": "2013",
+        "publication_month": "1",
+        "average_rating": "3.88",
+        "ratings_count": "3074",
+        "description": "Wildcat colonies are illegal, unauthorized and secret so when an injured stranger shows up at the wildcat colony New Seattle, the colony leaders are understandably suspicious of who he is and what he represents. His story of how he came to their colony is shocking, surprising, and might have bigger consequences than anyone could have expected.<br /><br />The second episode of <i>The Human Division,</i> John Scalzi's new thirteen-episode novel in the world of his bestselling <i>Old Man's War</i>.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035286",
+          "uri": "kca://work/amzn1.gr.work.v1.RjJTbi9NR_ArhtZzN3YM2A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "8627906"
+        },
+        "isbn": "1429952121",
+        "isbn13": "9781429952125",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "141"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.oFkRvEzxtBMJ-EyxbP1iYw",
+        "title": "After the Coup (Old Man's War, #4.5)",
+        "title_without_series": "After the Coup",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316139694l/8627906._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316139694l/8627906._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/8627906-after-the-coup",
+        "num_pages": "26",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor.com",
+        "publication_day": "20",
+        "publication_year": "2008",
+        "publication_month": "7",
+        "average_rating": "3.93",
+        "ratings_count": "2852",
+        "description": "<div>\n  <div>\n    <p>In a universe of harsh interstellar conflict, the practice of interspecies diplomacy—when possible—is important. So being a Colonial Union officer attached to an interplanetary diplomatic mission sometimes means taking a fall. Literally.</p>\n  </div>\n</div>",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "15558809",
+          "uri": "kca://work/amzn1.gr.work.v1.rXvFgRCdPmPIGHSkuNaSyA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180357"
+        },
+        "isbn": "1466830557",
+        "isbn13": "9781466830554",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "77"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.E0qmqqLWm_3gYbMsKqrqOw",
+        "title": "Tales From the Clarke (The Human Division, #5)",
+        "title_without_series": "Tales From the Clarke",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358272955l/16180357._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358272955l/16180357._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180357-tales-from-the-clarke",
+        "num_pages": "43",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "12",
+        "publication_year": "2013",
+        "publication_month": "2",
+        "average_rating": "4.11",
+        "ratings_count": "2616",
+        "description": "Captain Sophia Coloma of the Clarke has a simple task: Ferry around representatives from Earth in an aging spaceship that the Colonial Union hopes to sell to them. But nothing is as simple as it seems, and Coloma discovers the ship she's showing off holds suprises of its own...and it's not the only one with secrets.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035290",
+          "uri": "kca://work/amzn1.gr.work.v1.58oooYIF2C5tUjXcxCMpVg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180356"
+        },
+        "isbn": "1466830549",
+        "isbn13": "9781466830547",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "78"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.TPMx0Sq8qavemf6OqhVJ3g",
+        "title": "A Voice in the Wilderness (The Human Division, #4)",
+        "title_without_series": "A Voice in the Wilderness",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358272870l/16180356._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358272870l/16180356._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180356-a-voice-in-the-wilderness",
+        "num_pages": "36",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "5",
+        "publication_year": "2013",
+        "publication_month": "2",
+        "average_rating": "4.00",
+        "ratings_count": "2626",
+        "description": "Albert Birnbaum was once one of the biggest political talk show hosts around, but these days hes watching his career enter a death spiral. A stranger offers a solution to his woes, promising to put him back on top. Its everything Birnbaum wants, but is there a catch? And does Birnbaum actually care if there is?",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035289",
+          "uri": "kca://work/amzn1.gr.work.v1.0JHTyKp7q3FK_NLBE70N8w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180364"
+        },
+        "isbn": "146683062X",
+        "isbn13": "9781466830622",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "97"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.zCVgGPp5RJr6MDhy5Uvb2A",
+        "title": "Earth Below, Sky Above (The Human Division, #13)",
+        "title_without_series": "Earth Below, Sky Above",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273475l/16180364._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273475l/16180364._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180364-earth-below-sky-above",
+        "num_pages": "77",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "9",
+        "publication_year": "2013",
+        "publication_month": "4",
+        "average_rating": "4.24",
+        "ratings_count": "2423",
+        "description": "At last, the Earth and the Colonial Union have begun formal discussions about their relationship in the futurea chance for the divisions in humanity to be repaired. The diplomats and crew of the Clarke are on hand to help with the process, including Ambassador Ode Abumwe and CDF Lieutenant Harry Wilson, both of whom were born on Earth. But not everyone wants The Human Division to be repaired...and they will go to great length to make sure it isnt.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035297",
+          "uri": "kca://work/amzn1.gr.work.v1.uLRG14Z27VYJXO6Fsc1YvA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180354"
+        },
+        "isbn": "1466830638",
+        "isbn13": "9781466830639",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "86"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.kejSg2Z0px4vGrGFtvv22Q",
+        "title": "The Dog King (The Human Division, #7)",
+        "title_without_series": "The Dog King",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354923873l/16180354._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354923873l/16180354._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180354-the-dog-king",
+        "num_pages": "43",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "26",
+        "publication_year": "2013",
+        "publication_month": "2",
+        "average_rating": "4.13",
+        "ratings_count": "2474",
+        "description": "CDF Lieutenant Harry Wilson has one simple task: Watch an ambassador’s dog while the diplomat is conducting sensitive negotiations with an alien race. But you know dogs - always getting into something. And when this dog gets into something that could launch an alien civil war, Wilson has to find a way to solve the conflict, fast, or be the one in the Colonial Union’s doghouse.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035287",
+          "uri": "kca://work/amzn1.gr.work.v1.nvV8fQO9EaeUu-eFVITj2g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180358"
+        },
+        "isbn": "1466830565",
+        "isbn13": "9781466830561",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "62"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1._vRXaygFcjHjwpRiPXRhzQ",
+        "title": "The Back Channel (The Human Division, #6)",
+        "title_without_series": "The Back Channel",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354923803l/16180358._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354923803l/16180358._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180358-the-back-channel",
+        "num_pages": "33",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "19",
+        "publication_year": "2013",
+        "publication_month": "2",
+        "average_rating": "4.11",
+        "ratings_count": "2452",
+        "description": "The Conclave is a confederation of four hundred alien racesmany of whom would like to see the Colonial Union, and the humans inside of it, blasted to extinction. To avoid a conflict that neither side can afford, Conclave leader General Tarsem Gau appoints Hafte Sorvalh to resolve an emerging diplomatic crisis with the humans, before the only acceptable solution is war.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035291",
+          "uri": "kca://work/amzn1.gr.work.v1.qULZuFEa9Y6FEce-5TPfPg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16180362"
+        },
+        "isbn": "1466830603",
+        "isbn13": "9781466830608",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "62"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.bO8gyEm59J2f-U7NA4Kybg",
+        "title": "A Problem of Proportion (The Human Division, #11)",
+        "title_without_series": "A Problem of Proportion",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273356l/16180362._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273356l/16180362._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16180362-a-problem-of-proportion",
+        "num_pages": "46",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "26",
+        "publication_year": "2013",
+        "publication_month": "3",
+        "average_rating": "4.16",
+        "ratings_count": "2397",
+        "description": "A secret backdoor meeting between Ambassador Ode Abumwe and the Conclaves Hafte Sorvalh turns out to be less than secret as both of their ships are attacked. Its a surprise to both teams but its the identity of the attacker that is the real surprise, and suggests a threat to both humanity and The Conclave.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "22035295",
+          "uri": "kca://work/amzn1.gr.work.v1.VdOOzuHHlgv7tOXcGFaTAQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "5196932"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "229"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.C68jDjWCvQf7J1krykZjJA",
+        "title": "METAtropolis: The Dawn of Uncivilization",
+        "title_without_series": "METAtropolis: The Dawn of Uncivilization",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/5196932-metatropolis",
+        "num_pages": "10",
+        "format": "Audiobook",
+        "edition_information": {},
+        "publisher": "Audible",
+        "publication_day": {},
+        "publication_year": "2009",
+        "publication_month": {},
+        "average_rating": "3.54",
+        "ratings_count": "2812",
+        "description": "Five original tales set in a shared urban future--from some of the hottest young writers in modern SF<br /><br />More than an anthology, <i>Metatropolis </i>is the brainchild of five of science fiction's hottest writers--Elizabeth Bear, Tobias Buckell, Jay Lake, Karl Schroeder, and project editor John Scalzi---who combined their talents to build a new urban future, and then wrote their own stories in this collectively-constructed world. The results are individual glimpses of a shared vision, and a reading experience unlike any you've had before.<br /><br />A strange man comes to an even stranger encampment...a bouncer becomes the linchpin of an unexpected urban movement...a courier on the run has to decide who to trust in a dangerous city...a slacker in a \"zero-footprint\" town gets a most unusual new job...and a weapons investigator uses his skills to discover a metropolis hidden right in front of his eyes.<br /><br />Welcome to the future of cities. Welcome to <i>Metatropolis</i>.<br /><br />Contents:<br />Introduction (METAtropolis) - essay by John Scalzi<br />In the Forests of the Night - novella by Jay Lake<br />Stochasti-city - novella by Tobias S. Buckell<br />The Red in the Sky Is Our Blood - novelette by Elizabeth Bear<br />Utere Nihil Non Extra Quiritationem Suis - novella by John Scalzi<br />To Hie from Far Cilenia - novella by Karl Schroeder",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": "Editor, Narrator",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "15558797",
+          "uri": "kca://work/amzn1.gr.work.v1.5FvzRo0m7ICOUa9IFI3o5g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "346685"
+        },
+        "isbn": "1596060484",
+        "isbn13": "9781596060487",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "122"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.B2uVL8dTlIYC_iMoryHwRw",
+        "title": "Questions for a Soldier (Old Man's War, #1.5)",
+        "title_without_series": "Questions for a Soldier",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/346685.Questions_for_a_Soldier",
+        "num_pages": "30",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": "1",
+        "publication_year": "2005",
+        "publication_month": "12",
+        "average_rating": "3.77",
+        "ratings_count": "2628",
+        "description": "A tale set in the world of his debut novel, OLD MAN'S WAR. Published as a signed limited edition chapbook.",
+        "authors": {
+          "author": {
+            "id": "4763",
+            "name": "John Scalzi",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+            "average_rating": "4.03",
+            "ratings_count": "697483",
+            "text_reviews_count": "56165"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "336984",
+          "uri": "kca://work/amzn1.gr.work.v1.T3_TiatoAwAxfo0I163NGA"
+        }
+      }
+    ]
+  }
+}

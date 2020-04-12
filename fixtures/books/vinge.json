@@ -1,0 +1,1634 @@
+{
+  "id": "44037",
+  "name": "Vernor Vinge",
+  "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "95",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "77711"
+        },
+        "isbn": "0812515285",
+        "isbn13": "9780812515282",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1980"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.P2pv-bd3HGUPBOYQNaPGJw",
+        "title": "A Fire Upon the Deep (Zones of Thought, #1)",
+        "title_without_series": "A Fire Upon the Deep",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333915005l/77711._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333915005l/77711._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep",
+        "num_pages": "613",
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Tor Science Fiction",
+        "publication_day": "31",
+        "publication_year": "2010",
+        "publication_month": "8",
+        "average_rating": "4.14",
+        "ratings_count": "49458",
+        "description": "<i>Alternate Cover Edition can be found <a href=\"https://www.goodreads.com/book/show/22062498-a-fire-upon-the-deep\" rel=\"nofollow\">here</a>. </i><br /><br /><i>A Fire upon the Deep</i> is the big, breakout book that fulfills the promise of Vinge's career to date: a gripping tale of galactic war told on a cosmic scale.<br /><br />Thousands of years hence, many races inhabit a universe where a mind's potential is determined by its location in space, from superintelligent entities in the Transcend, to the limited minds of the Unthinking Depths, where only simple creatures and technology can function. Nobody knows what strange force partitioned space into these \"regions of thought,\" but when the warring Straumli realm use an ancient Transcendent artifact as a weapon, they unwittingly unleash an awesome power that destroys thousands of worlds and enslaves all natural and artificial intelligence.<br /><br />Fleeing the threat, a family of scientists, including two children, are taken captive by the Tines, an alien race with a harsh medieval culture, and used as pawns in a ruthless power struggle. A rescue mission, not entirely composed of humans, must rescue the children-and a secret that may save the rest of interstellar civilization.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "1253374",
+          "uri": "kca://work/amzn1.gr.work.v1.XzTWI2yQAYURjmlUrbKl3g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "226004"
+        },
+        "isbn": "0812536355",
+        "isbn13": "9780812536355",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "778"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.QAo0n279_XA2-6OaX7OUSQ",
+        "title": "A Deepness in the Sky (Zones of Thought, #2)",
+        "title_without_series": "A Deepness in the Sky",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky",
+        "num_pages": "775",
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Tor Science Fiction",
+        "publication_day": "15",
+        "publication_year": "2000",
+        "publication_month": "1",
+        "average_rating": "4.32",
+        "ratings_count": "27828",
+        "description": "<b>Alternative Cover Edition can be found <a href=\"https://www.goodreads.com/book/show/13568401-a-deepness-in-the-sky\" rel=\"nofollow\">here</a>. <br /></b><br />After thousands of years searching, humans stand on the verge of first contact with an alien race. Two human groups: the Qeng Ho, a culture of free traders, and the Emergents, a ruthless society based on the technological enslavement of minds.<br /><br />The group that opens trade with the aliens will reap unimaginable riches. But first, both groups must wait at the aliens' very doorstep for their strange star to relight and for their planet to reawaken, as it does every two hundred and fifty years....<br /><br />Then, following terrible treachery, the Qeng Ho must fight for their freedom and for the lives of the unsuspecting innocents on the planet below, while the aliens themselves play a role unsuspected by the Qeng Ho and Emergents alike.<br /><br />More than just a great science fiction adventure, <i>A Deepness in the Sky </i>is a universal drama of courage, self-discovery, and the redemptive power of love.<br /><i></i> <br /><br /><i>A Deepness in the Sky</i> is a 1999 Nebula Award Nominee for Best Novel and the winner of the 2000 Hugo Award for Best Novel.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "1270006",
+          "uri": "kca://work/amzn1.gr.work.v1.-gSR03di3ImGro4HPw9hMA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "102439"
+        },
+        "isbn": "0812536363",
+        "isbn13": "9780812536362",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "793"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.9-MC1C0kbnbNVZTQPJcK6w",
+        "title": "Rainbows End",
+        "title_without_series": "Rainbows End",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/102439.Rainbows_End",
+        "num_pages": "381",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Science Fiction",
+        "publication_day": "3",
+        "publication_year": "2007",
+        "publication_month": "4",
+        "average_rating": "3.77",
+        "ratings_count": "15405",
+        "description": "Robert Gu is a recovering Alzheimer's patient. The world that he remembers was much as we know it today. Now, as he regains his faculties through a cure developed during the years of his near-fatal decline, he discovers that the world has changed and so has his place in it. He was a world-renowned poet. Now he is seventy-five years old, though by a medical miracle he looks much younger, and he’s starting over, for the first time unsure of his poetic gifts. Living with his son’s family, he has no choice but to learn how to cope with a new information age in which the virtual and the real are a seamless continuum, layers of reality built on digital views seen by a single person or millions, depending on your choice. But the consensus reality of the digital world is available only if, like his thirteen-year-old granddaughter Miri, you know how to wear your wireless access—through nodes designed into smart clothes—and to see the digital context—through smart contact lenses. <br /> <br />With knowledge comes risk. When Robert begins to re-train at Fairmont High, learning with other older people what is second nature to Miri and other teens at school, he unwittingly becomes part of a wide-ranging conspiracy to use technology as a tool for world domination. <br /> <br />In a world where every computer chip has Homeland Security built-in, this conspiracy is something that baffles even the most sophisticated security analysts, including Robert’s son and daughter-in law, two top people in the U.S. military. And even Miri, in her attempts to protect her grandfather, may be entangled in the plot. <br /> <br />As Robert becomes more deeply involved in conspiracy, he is shocked to learn of a radical change planned for the UCSD Geisel Library; all the books there, and worldwide, would cease to physically exist. He and his fellow re-trainees feel compelled to join protests against the change. With forces around the world converging on San Diego, both the conspiracy and the protest climax in a spectacular moment as unique and satisfying as it is unexpected.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "3101132",
+          "uri": "kca://work/amzn1.gr.work.v1.FwoFMExXWAKQbIYWw0k2VA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "167845"
+        },
+        "isbn": "0765308835",
+        "isbn13": "9780765308832",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "156"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.skG9zj7m8uTHNcgdXKfj6w",
+        "title": "The Peace War (Across Realtime, #1)",
+        "title_without_series": "The Peace War",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/167845.The_Peace_War",
+        "num_pages": "304",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "1",
+        "publication_year": "2003",
+        "publication_month": "12",
+        "average_rating": "3.97",
+        "ratings_count": "6122",
+        "description": "<i>The Peace War</i> is quintessential hard-science adventure. The Peace Authority conquered the world with a weapon that never should have been a weapon--the \"bobble,\" a spherical force-field impenetrable by any force known to mankind. Encasing governmental installations and military bases in bobbles, the Authority becomes virtually omnipotent. But they've never caught Paul Hoehler, the maverick who invented the technology, and who has been working quietly for decades to develop a way to defeat the Authority. With the help of an underground network of determined, independent scientists and a teenager who may be the apprentice genius he's needed for so long, he will shake the world, in the fast-paced hard-science thriller that garnered Vinge the first of his four Hugo nominations for best novel.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "1269997",
+          "uri": "kca://work/amzn1.gr.work.v1.sDUcxd8OTfIdGsVYVrU6Hg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "10170545"
+        },
+        "isbn": "0312875622",
+        "isbn13": "9780312875626",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "453"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.BXWP0p9_UKdFiQsTTdxnGw",
+        "title": "The Children of the Sky  (Zones of Thought, #3)",
+        "title_without_series": "The Children of the Sky",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309047939l/10170545._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309047939l/10170545._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/10170545-the-children-of-the-sky",
+        "num_pages": "444",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Tor",
+        "publication_day": "11",
+        "publication_year": "2011",
+        "publication_month": "10",
+        "average_rating": "3.64",
+        "ratings_count": "5694",
+        "description": "After nearly twenty years, Vernor Vinge has produced an enthralling sequel to his memorable bestselling novel <a href=\"https://www.goodreads.com/search/search?q=A%20Fire%20Upon%20the%20Deep\" title=\"A Fire Upon the Deep\" rel=\"nofollow\">A Fire Upon the Deep</a>.<br /><br />Ten years have passed on Tines World, where Ravna Bergnsdot and a number of human children ended up after a disaster that nearly obliterated humankind throughout the galaxy. Ravna and the pack animals for which the planet is named have survived a war, and Ravna has saved more than one hundred children who were in cold-sleep aboard the vessel that brought them.<br /><br />While there is peace among the Tines, there are those among them—and among the humans—who seek power… and no matter the cost, these malcontents are determined to overturn the fledgling civilization that has taken root since the humans landed.<br /><br />On a world of fascinating wonders and terrifying dangers, Vernor Vinge has created a powerful novel of adventure and discovery that will entrance the many readers of <i>A Fire Upon the Deep</i>. Filled with the inventiveness, excitement, and human drama that have become hallmarks of his work, this new novel is sure to become another great milestone in Vinge’s already stellar career.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "15069342",
+          "uri": "kca://work/amzn1.gr.work.v1.PYKHHGUOtnBuwnwQ9FfryQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "167847"
+        },
+        "isbn": "0765308843",
+        "isbn13": "9780765308849",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "168"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.FmuxVkxaMO0lZ_1dzETkkA",
+        "title": "Marooned in Realtime (Across Realtime, #2)",
+        "title_without_series": "Marooned in Realtime",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/167847.Marooned_in_Realtime",
+        "num_pages": "288",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": {},
+        "publication_year": "2004",
+        "publication_month": "10",
+        "average_rating": "4.09",
+        "ratings_count": "4974",
+        "description": "Multiple Hugo Award winner Vernor Vinge takes readers on a fifty-million-year trip to a future where humanity's fate will be decided in a dangerous game of high-tech survival.<br /><br />In this taut thriller, a Hugo finalist for Best Novel, nobody knows why there are only three hundred humans left alive on the Earth fifty million years from now. Opinion is fiercely divided on whether to settle in and plant the seed of mankind anew, or to continue using high-energy stasis fields, or \"bobbles,\" in venturing into the future. When somebody is murdered, it's obvious someone has a secret he or she is willing to kill to preserve.The murder intensifies the rift between the two factions, threatening the survival of the human race. It's up to 21st century detective Wil Brierson, the only cop left in the world, to find the culprit, a diabolical fiend whose lust for power could cause the utter extinction of man.<br /><br />Filled with excitement and adventure, Vinge's tense SF puzzler will satisfy readers with its sense of wonder and engaging characters, one of whom is a murderer with a unique modus operandi.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "448211",
+          "uri": "kca://work/amzn1.gr.work.v1.21AsxvNcLyjKiJpMOZWFQg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "167844"
+        },
+        "isbn": "1857981472",
+        "isbn13": "9781857981476",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "51"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.icTPGVZM-MZ4cnN6D_bLiA",
+        "title": "Across Realtime",
+        "title_without_series": "Across Realtime",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408937805l/167844._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408937805l/167844._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/167844.Across_Realtime",
+        "num_pages": {},
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Millennium",
+        "publication_day": "1",
+        "publication_year": "1994",
+        "publication_month": "12",
+        "average_rating": "4.15",
+        "ratings_count": "2269",
+        "description": "\"The intricately plotted progress of characters from near to farfuture... on an Earth which, like an abandon playground, has long ago been left behind by an evolving humanity... human-scale action within a vast canvas.\"<br /><i>-- The Excyclopedia of Science Fiction.</i><br /><br />Encompassing time-travel, powerful mystery and the future history of humanity to its last handful of survivors, Across Realtime spans millions of years and is an utterly engrossing SF classic.<br /><br />\"You can hardly turn the pages fast enough. As sheer entertainment, it's a winner\"<br /><i>-- Locus</i>",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "1994",
+        "work": {
+          "id": "2234422",
+          "uri": "kca://work/amzn1.gr.work.v1.uSUPlf1XuUyMwI18BR56sg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "167846"
+        },
+        "isbn": "0312862075",
+        "isbn13": "9780312862077",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "38"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.30GOuH2lO9bva8XpaYqUfQ",
+        "title": "True Names: and the Opening of the Cyberspace Frontier",
+        "title_without_series": "True Names: and the Opening of the Cyberspace Frontier",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/167846.True_Names",
+        "num_pages": "352",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "14",
+        "publication_year": "2001",
+        "publication_month": "12",
+        "average_rating": "4.07",
+        "ratings_count": "982",
+        "description": "Once in a great while a science fiction story is so visionary, yet so close to impending scientific developments that it becomes not only an accurate predictor, but itself the locus for new discoveries and development. True Names by Vernor Vinge, first published in 1981, is such a work.<br /><br />Here is a feast of articles by computer scientists and journalists on the cutting edge of the field, writing about innovations and developments of the Internet, including, among others:<br /><br />Danny Hillis: Founder of thinking machines and the first Disney Fellow.<br /><br />Timothy C. May: former chief scientist at Intel--a major insider in the field of computers and technology.<br /><br />Marvin Minsky: Cofounder of the MIT Artificial Intelligence Lab.<br /><br />Chip Morningstar and F. Randall Farmer: Codevelopers of habitat, the first real computer interactive environment.<br /><br />Mark Pesce: Cocreator of VRML and the author of the <i>Playful World: How Technology Transforms Our Imagination.</i><br /><br />Richard M. Stallman: Research affiliate with MIT; the founder of the Free Software Movement.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "2605977",
+          "uri": "kca://work/amzn1.gr.work.v1.VN4YBbwPe0KSgmclducmPA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "167843"
+        },
+        "isbn": "0312875843",
+        "isbn13": "9780312875848",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "40"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.oVMisIM4409RRKzjqBftLg",
+        "title": "The Collected Stories of Vernor Vinge",
+        "title_without_series": "The Collected Stories of Vernor Vinge",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316728143l/167843._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316728143l/167843._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/167843.The_Collected_Stories_of_Vernor_Vinge",
+        "num_pages": "464",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Orb Books",
+        "publication_day": "17",
+        "publication_year": "2002",
+        "publication_month": "8",
+        "average_rating": "3.98",
+        "ratings_count": "976",
+        "description": "Since his first published story, \"Apartness,\" appeared in 1965, Vernor Vinge has forged a unique and awe-inspiring career in science fiction as his work has grown and matured. He is now one of the most celebrated science fiction writers in the field , having won the field's top award, the Hugo, for each of his last two novels.<br /><br />Now, for the first time, this illustrious author gathers all his short fiction into a single volume. This collection is truly the definitive Vinge, capturing his visionary ideas at their very best. It also contains a never-before-published novella, one that represents precisely what this collection encapsulates--bold, unique, challenging science fictional ideas brought to vivid life with compelling storytelling.<br /><br />Including such major pieces as \"The Ungoverned\" and \"The Blabber,\" this sumptuous volume will satisfy any reader who loves the sense of wonder, and the excitement of great SF.<br /><br />The volume collects Vinge's short fiction through 2001 (except \"True Names\", including Vinge's comments from the earlier two volumes.)<br /><br />Contents:<br />\"Bookworm, Run!\"<br />\"The Accomplice\"<br />\"The Peddler's Apprentice\" (with Joan D. Vinge)<br />\"The Ungoverned\"<br />\"Long Shot\"<br />\"Apartness\"<br />\"Conquest by Default\"<br />\"The Whirligig of Time\"<br />\"Bomb Scare\"<br />\"The Science Fair\"<br />\"Gemstone\"<br />\"Just Peace\" (with William Rupp)<br />\"Original Sin\"<br />\"The Blabber\"<br />\"Win A Nobel Prize!\" (originally published in Nature, Vol 407 No 6805 \"Futures\")<br />\"The Barbarian Princess\" (this is also the first section of \"Tatja Grimm's World\")<br />\"Fast Times at Fairmont High\" (occurs in the same milieu as Rainbows End) (winner 2002 Hugo Award for Best Novella)",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "3100319",
+          "uri": "kca://work/amzn1.gr.work.v1.RAd6kutqjaCe8fHXqE2I3A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6656681"
+        },
+        "isbn": "0575093692",
+        "isbn13": "9780575093690",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "16"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.yIAqNTowI8YpgG6yQ_JGSQ",
+        "title": "Zones of Thought: A Fire Upon the Deep / A Deepness in the Sky",
+        "title_without_series": "Zones of Thought: A Fire Upon the Deep / A Deepness in the Sky",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329042806l/6656681._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329042806l/6656681._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6656681-zones-of-thought",
+        "num_pages": "976",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Gollancz",
+        "publication_day": "21",
+        "publication_year": "2010",
+        "publication_month": "10",
+        "average_rating": "4.38",
+        "ratings_count": "646",
+        "description": "Vinge's masterpieces together at last, in one epic volume.<br /><br />The Hugo Award winning A FIRE UPON THE DEEP and its epic companion novel A DEEPNESS IN THE SKY, set in the same universe but 20,000 years earlier, were benchmarks for SF in the last decade of the 20th century.<br /><br />In FIRE 'Vinge presents a galaxy divided into Zones - regions where different physical constraints allow very different technological and mental possibilities. Earth remains in the \"Slowness\" zone, where nothing can travel faster than light and minds are fairly limited. The action of the book is in the \"Beyond\", where translight travel and other marvels exist, and humans are one of many intelligent species. One human colony has been experimenting to find a path to the \"Transcend\", where intelligence and power are so great as to seem godlike. Instead they release the Blight, an evil power, from a billion-year captivity.' Publisher's Weekly<br /><br />In DEEPNESS, 'the story has the same sense of epic vastness despite happening mostly in one isolated solar system. Here there's a world of intelligent spider creatures who traditionally hibernate through the \"Deepest Darkness\" of their strange variable sun's long \"off\" periods, when even the atmosphere freezes. Now, science offers them an alternative. Meanwhile, attracted by spider radio transmissions, two human starfleets come exploring--merchants hoping for customers and tyrants who want slaves. Their inevitable clash leaves both fleets crippled, with the power in the wrong hands, which leads to a long wait in space until the spiders develop exploitable technology. Over the years Vinge builds palpable tension through multiple storylines and characters.' Dave Langford",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "6851317",
+          "uri": "kca://work/amzn1.gr.work.v1.qlzzhAblNnTzbOlOPDj_6A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "167841"
+        },
+        "isbn": "0765308851",
+        "isbn13": "9780765308856",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "36"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.X88QWg_CBZMvMO-467Gufw",
+        "title": "Tatja Grimm's World",
+        "title_without_series": "Tatja Grimm's World",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729987l/167841._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729987l/167841._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/167841.Tatja_Grimm_s_World",
+        "num_pages": "288",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "24",
+        "publication_year": "2006",
+        "publication_month": "1",
+        "average_rating": "3.31",
+        "ratings_count": "798",
+        "description": "Multiple Hugo Award winner Vernor Vinge's first full-length novel<br /><br />As a mud-spattered youngster, Tatja quickly realized she was different from the stone-age primitives with whom she grew up. Her insatiable curiosity and thirst for knowledge could not be quenched among them; she had to explore and learn more about the strange world she lived on.<br /><br />She finds the bastion of all culture, arts, entertainment and history for the entire planet, the seven-hundred-year-old science fiction magazine <i>Fantasie</i>, which is produced entirely aboard a gargantuan floating vessel the size of a small city. But despite the printing presses, sail-powered vessels, and mind-expanding technology, Tatja is still dissatisfied. Rising through the ranks, she finds that the people on the enormous barge are just as unintelligent as the primitives she grew up with. But others have come to the planet who not only challenge her intelligence, but offer her a tantalizing opportunity to uncover answers to mysteries that have long plagued her.<br /><br />But with opportunity comes risk. And if she acts unwisely, she could bring doom to the only world she knows.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "1269999",
+          "uri": "kca://work/amzn1.gr.work.v1.8qzANzru-q7_lyXwHwIzuQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "167842"
+        },
+        "isbn": "076530886X",
+        "isbn13": "9780765308863",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "31"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.hppOYdvgaUkzTaLC8OBtuQ",
+        "title": "The Witling",
+        "title_without_series": "The Witling",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/167842.The_Witling",
+        "num_pages": "220",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "28",
+        "publication_year": "2006",
+        "publication_month": "11",
+        "average_rating": "3.42",
+        "ratings_count": "612",
+        "description": "This second novel by multiple award-winner Vernor Vinge, from 1976, is a fast-paced adventure where galactic policies collide and different cultures clash as two scientists and their faith in technology are pitted against an elusive race of telekinetic beings.<br /><br />Marooned on a distant world and slowly dying of food poisoning, two anthropologists are caught between warring alien factions engaged in a battle that will affect the future of the world's inhabitants and their deadly telekinetic powers. If the anthropologists can't help resolve the conflict between the feuding alien factions, no one will survive.<br /><br />This edition features sixteen full-page illustrations by Doug Beekman.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "1270005",
+          "uri": "kca://work/amzn1.gr.work.v1.bUg8axMrQbLDMIcmBCVSSw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "321005"
+        },
+        "isbn": "0671653636",
+        "isbn13": "9780671653637",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "20"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.prApe-uuQR7NebSnC_pGkw",
+        "title": "True Names... and Other Dangers",
+        "title_without_series": "True Names... and Other Dangers",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330657262l/321005._SY160_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330657262l/321005._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/321005.True_Names_and_Other_Dangers",
+        "num_pages": "275",
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Baen Books",
+        "publication_day": {},
+        "publication_year": "1987",
+        "publication_month": "11",
+        "average_rating": "4.07",
+        "ratings_count": "490",
+        "description": "Contents:<br />Bookworm, Run! (1966)<br />True Names (1981)<br />The Peddler's Apprentice (1975) with Joan D. Vinge<br />The Ungoverned (1985)<br />Long Shot (1972)<br />Marooned in Realtime (excerpt) (1987)",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "1987",
+        "work": {
+          "id": "6670362",
+          "uri": "kca://work/amzn1.gr.work.v1.NJlOTSbd44z32RFDRzKKWQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1280983"
+        },
+        "isbn": "0312944446",
+        "isbn13": "9780312944445",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "43"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.KebTVIyftV7pSxbkDyrT6Q",
+        "title": "True Names",
+        "title_without_series": "True Names",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1280983.True_Names",
+        "num_pages": "153",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Bluejay Books",
+        "publication_day": "15",
+        "publication_year": "1984",
+        "publication_month": "12",
+        "average_rating": "3.90",
+        "ratings_count": "417",
+        "description": "Disaffected computer wizard \"Mr. Slippery\" (True Name Roger Pollack) is an early adopter of a new full-immersion virtual reality technology called the Other Plane. He and the other wizards form a cabal to keep their true identities — their True Names — secret to avoid prosecution by their \"Great Adversary\" — the government of the United States. <br /><br />The lines that define us are not always black and white, though. There's a new wizard in the Other Plan and they're recruiting for a scheme to translate cyberspace domination into real world power.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "1984",
+        "work": {
+          "id": "26477427",
+          "uri": "kca://work/amzn1.gr.work.v1.e8iiuJ3PzR9VRmKcrOz3bg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12846542"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "8"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.DCWR8BS7-dlx1DYX89LvAg",
+        "title": "After the Battle on Starship Hill: Prologue to The Children of the Sky",
+        "title_without_series": "After the Battle on Starship Hill: Prologue to The Children of the Sky",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12846542-after-the-battle-on-starship-hill",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.71",
+        "ratings_count": "418",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "17607581",
+          "uri": "kca://work/amzn1.gr.work.v1.4LUg-1F6gkEuSNjuJKuCEA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "5393037"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "22"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.tEiTJw6ZhXwMgq3upSToDw",
+        "title": "Fast Times at Fairmont High",
+        "title_without_series": "Fast Times at Fairmont High",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/5393037-fast-times-at-fairmont-high",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "Fictionwise",
+        "publication_day": {},
+        "publication_year": "2002",
+        "publication_month": "7",
+        "average_rating": "3.72",
+        "ratings_count": "305",
+        "description": "In a near future where everyone lives in a wireless-direct-mind-link, networked, sensory-enhanced world, two eighth-graders struggle to pass an exam for which using outside information sources is forbidden. [This work is part of a collection.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "5460557",
+          "uri": "kca://work/amzn1.gr.work.v1.BrhMBPQL39Hlx7SUiMyU3A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "22017980"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "14"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.BSpZttNuAklfmAnzbdnq5A",
+        "title": "The Coming Technological Singularity - New Century Edition with DirectLink Technology",
+        "title_without_series": "The Coming Technological Singularity - New Century Edition with DirectLink Technology",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/22017980-the-coming-technological-singularity---new-century-edition-with-directli",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.34",
+        "ratings_count": "108",
+        "description": "This book has DirectLink Technology built into the formatting. This means that we have made it easy for you to navigate the various chapters of this book. Some other versions of this book may not have the DirectLink technology built into them. We can guarantee that if you buy this version of the book it will be formatted perfectly on your Kindle.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "13431109",
+          "uri": "kca://work/amzn1.gr.work.v1.ZjEKdh9vhEEmBm_9OGAGCw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1280982"
+        },
+        "isbn": "0671697900",
+        "isbn13": "9780671697907",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.hYwEskVXHc9SfN67qyAN6g",
+        "title": "Threats... and Other Promises",
+        "title_without_series": "Threats... and Other Promises",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1280982.Threats_and_Other_Promises",
+        "num_pages": "320",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Baen Books",
+        "publication_day": {},
+        "publication_year": "1988",
+        "publication_month": "11",
+        "average_rating": "3.73",
+        "ratings_count": "73",
+        "description": "Threats and Promises: HOW DO YOU TELL THE DIFFERENCE?<br /><br />Take for example the \"promises\" inherent in computers: super-human intelligences to do our every bidding and make our every wish come true; mind links with those mechanical intelligences to give us the gift of instant knowledge-on-demand of anything that has ever been recorded or can be calculated. Computer realities that aren't just as good as everyday life--but much, much better.<br /><br />But once we have such servants civilization will no longer be recognizable, or even comprehensible to such as us. Once you mind link with that super-intelligence you will no longer be human--you might not even be you. And the world that \"you\" inhabit may be nothing more than a dream in the mind of a computer.<br /><br />What was once a threat will have become a promise, and what was once a promise will be some kind of... joke.<br /><br />Contents:<br />Apartness (1965)<br />Conquest by Default (1968)<br />The Whirligig of Time (1974)<br />Gemstone (1983)<br />Just Peace (1971) with William Rupp<br />Original Sin (1972)<br />The Blabber (1988)",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "1988",
+        "work": {
+          "id": "1270000",
+          "uri": "kca://work/amzn1.gr.work.v1.1x1txRA9RwiaPj4_CVqECQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "10146787"
+        },
+        "isbn": "8889096233",
+        "isbn13": "9788889096239",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "6"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.DKuSF6Zh7K-3gMq2eyh2KQ",
+        "title": "I simulacri",
+        "title_without_series": "I simulacri",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409348041l/10146787._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409348041l/10146787._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/10146787-i-simulacri",
+        "num_pages": "125",
+        "format": "Paperback",
+        "edition_information": "Odissea. Fantascienza #1",
+        "publisher": "Delos Books",
+        "publication_day": "1",
+        "publication_year": "2005",
+        "publication_month": "10",
+        "average_rating": "3.57",
+        "ratings_count": "72",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "74104244",
+          "uri": "kca://work/amzn1.gr.work.v2.81595ce8-ed1c-4fa0-b6ca-6c573b797b2a"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16042732"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9788496013292",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "9"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.akD9kEaB0UjOKxGnJ1g8Ag",
+        "title": "El monstruo de las galletas",
+        "title_without_series": "El monstruo de las galletas",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348434462l/16042732._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348434462l/16042732._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16042732-el-monstruo-de-las-galletas",
+        "num_pages": "212",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Grupo Editorial AJEC",
+        "publication_day": "3",
+        "publication_year": "2007",
+        "publication_month": "4",
+        "average_rating": "3.37",
+        "ratings_count": "65",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "74104231",
+          "uri": "kca://work/amzn1.gr.work.v2.50cca3fd-292d-4ec6-b916-ea5407e4c80f"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "35427623"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.yhHAHjQeLhpQSHL7CNLQGA",
+        "title": "The Zones of Thought Series: A Fire Upon the Deep, The Children of the Sky, A Deepness in the Sky  (Zones of Thought #1-3)",
+        "title_without_series": "The Zones of Thought Series: A Fire Upon the Deep, The Children of the Sky, A Deepness in the Sky",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/35427623-the-zones-of-thought-series",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.29",
+        "ratings_count": "51",
+        "description": "Thousands of years in the future, humanity is no longer alone in a universe where a mind's potential is determined by its location in space, from superintelligent entities in the Transcend, to the limited minds of the Unthinking Depths, where only simple creatures, and technology, can function. Nobody knows what strange force partitioned space into these \"regions of thought,\" but when the warring Straumli realm use an ancient Transcendent artifact as a weapon, they unwittingly unleash an awesome power that destroys thousands of worlds and enslaves all natural and artificial intelligence.<br /><br />A Fire Upon The Deep — Fleeing a galactic threat, Ravna crash lands on a strange world with a ship hold full of cryogenically frozen children, the only survivors. They are taken captive by the Tines, an alien race with a harsh medieval culture, and used as pawns in a ruthless power struggle.<br /><br />The Children of the Sky — Ten years have passed on Tines World, and Ravna and the children have survived a war. While there is peace among the Tines, there are those among them—and among the humans—who seek power…and no matter the cost, these malcontents are determined to overturn the fledgling civilization that has taken root since the humans landed.<br /><br />A Deepness in the Sky — Thirty-thousand years before A Fire Upon the Deep, two human groups, the Qeng Ho, a culture of free traders, and the Emergents, a ruthless society based on the technological enslavement of minds, stand on the verge of first contact with an alien race.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "56805351",
+          "uri": "kca://work/amzn1.gr.work.v1.-cdE8oMBscAq28tH8EHxXg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6944687"
+        },
+        "isbn": "0425017508",
+        "isbn13": "9780425017500",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.rWSsb2RFr8sKDT9ibmUSJw",
+        "title": "Grimm's World",
+        "title_without_series": "Grimm's World",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255665614l/6944687._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255665614l/6944687._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6944687-grimm-s-world",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "2.85",
+        "ratings_count": "26",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "50931116",
+          "uri": "kca://work/amzn1.gr.work.v1.qAL3YPkqEaY-kwrP5ClYwQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13420711"
+        },
+        "isbn": "9986950899",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.aE9y2ISZGRtmnWMG6TlxVw",
+        "title": "Gelmė danguje: Pirma knyga (A Deepness in the Sky 1/3)",
+        "title_without_series": "Gelmė danguje: Pirma knyga",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13420711-gelm-danguje",
+        "num_pages": "254",
+        "format": "Paperback",
+        "edition_information": "PFAF 200",
+        "publisher": "Eridanas",
+        "publication_day": {},
+        "publication_year": "2001",
+        "publication_month": {},
+        "average_rating": "4.21",
+        "ratings_count": "14",
+        "description": "Tarpžvaigždinių Prekybininkų civilizacija Keng Ho jau seniai ruošėsi ekspedicijai link tolimos Mirgančiosios žvaigždės. Tačiau išsvajotąjį tikslą jie pasiekė ne vieni. Mirgančiosios paslaptys bei turtai priviliojo ir kitą žmonių civilizaciją - emergentus, ginkluotus nepažįstamu, neįveikiamu Fokusu...",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "62195610",
+          "uri": "kca://work/amzn1.gr.work.v1.YrfSqIcgJnIiFErVbs5Vmw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "28801070"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.M7CGnIoGARqDWzn4gM_ujA",
+        "title": "Болтунья",
+        "title_without_series": "Болтунья",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/28801070",
+        "num_pages": "103",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.71",
+        "ratings_count": "14",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "49012963",
+          "uri": "kca://work/amzn1.gr.work.v1.y_8ocS90nEIvZj2I19Z60w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13420722"
+        },
+        "isbn": "9986950929",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.DVkWfovzUM_B58J8ewKkeg",
+        "title": "Gelmė danguje: Trečia knyga (A Deepness in the Sky 3/3)",
+        "title_without_series": "Gelmė danguje: Trečia knyga",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13420722-gelm-danguje",
+        "num_pages": "251",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Naujasis Eridanas",
+        "publication_day": {},
+        "publication_year": "2001",
+        "publication_month": {},
+        "average_rating": "4.57",
+        "ratings_count": "7",
+        "description": "Praėjo 40 metų po katastrofos prie Arachnos planetos. Mirgančioji žvaigždė užgeso ir emergentai pradeda vykdyti savo planą, ketindami sunaikinti vorų civilizaciją. Bet iš tiesų tai tik žūtbūtinės kovos pradžia...",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "62195614",
+          "uri": "kca://work/amzn1.gr.work.v1.eVmo0v4v7kYyHatDnnreDw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9698273"
+        },
+        "isbn": "8842914479",
+        "isbn13": "9788842914471",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.jFpBUNHZd2SadDjNtHEUjw",
+        "title": "Tutti i racconti vol. 1",
+        "title_without_series": "Tutti i racconti vol. 1",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343149346l/9698273._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343149346l/9698273._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9698273-tutti-i-racconti-vol-1",
+        "num_pages": {},
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Nord",
+        "publication_day": {},
+        "publication_year": "2006",
+        "publication_month": "10",
+        "average_rating": "3.38",
+        "ratings_count": "8",
+        "description": "Lo scrittore riunisce qui i suoi racconti brevi in volume. È un'antologia rappresentativa della produzione di Vernor Vinge, ne contiene le originali creazioni e illustra lo spirito con cui è stata composta: idee originali per la fantascienza, sviluppate con capacità narrativa. Questo volume desidera soddisfare tutti i lettori che apprezzano il \"sense of wonder\" della fantascienza creativa.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "14586447",
+          "uri": "kca://work/amzn1.gr.work.v1.hL1eXbIzucdlGwCrmLcVDA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "28001696"
+        },
+        "isbn": "9548610578",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.weFJQ31PSCp9sdrUbGJrFQ",
+        "title": "Дълбина в небето (Zones of Thought #2.1)",
+        "title_without_series": "Дълбина в небето",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448709918l/28001696._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448709918l/28001696._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/28001696",
+        "num_pages": "448",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Лира Принт",
+        "publication_day": {},
+        "publication_year": "2002",
+        "publication_month": {},
+        "average_rating": "3.50",
+        "ratings_count": "6",
+        "description": "Експедицията на Чуенг Хо и Новородените до Изчезващата звезда и нейната единствена обитаема планета Арахна се превръща в изгнание.<br />Преди следващия Период на мрак двете политически фракции на Арахна са на крачка от унищожителен ядрен сблъсък. Пъклените планове на Томас Нау и Новородените, с помощта на заразените с вируса на „гнилия мозък”, са на път да се осъществят – чрез проникване в компютърните системи на Съглашението, те изстрелват ядрените им ракети по стратегическите цели на Сродниците. Стремежът им е да унищожат местната раса на Паяците и да заграбят откритите там уникални технологии за свръхсветлинни полети.<br />Има обаче два фактора сред нашествениците и местните, които Нау не е дооценил...",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "62195619",
+          "uri": "kca://work/amzn1.gr.work.v1.7sOdjEKARssAnf44yBNyQA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9770220"
+        },
+        "isbn": "8842912646",
+        "isbn13": "9788842912644",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.i05AHphNJIkiUzhq0U-sWw",
+        "title": "I premi Hugo 2002",
+        "title_without_series": "I premi Hugo 2002",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327911870l/9770220._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327911870l/9770220._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9770220-i-premi-hugo-2002",
+        "num_pages": "158",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Nord",
+        "publication_day": "1",
+        "publication_year": "2003",
+        "publication_month": "1",
+        "average_rating": "2.62",
+        "ratings_count": "8",
+        "description": "Dopo aver portato la civiltà umana sull'orlo dell'estinzione, i computer sono stati banditi e la bioingegneria regna incontrastata. In questo scenario, incontriamo Sir Blackthorpe Ravenscairn de Plus Precieux, conosciuto anche come \"Surplus\", un cane d'intelligenza sopraffina, e Aubrey Darger, un furfante che ha come obiettivo quello di rubare a Lady Pamela Coherence-Hamilton i suoi favolosi diamanti. Ma qualcosa va storto... Grazie alla sua capacità inventiva senza pari, Swanwick si conferma uno degli autori più interessanti in circolazione.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "14659799",
+          "uri": "kca://work/amzn1.gr.work.v1.kmCvFmUCebzkX5hz9LX1Pg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "13420716"
+        },
+        "isbn": "9986950910",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.U4OIS1rOBrlytPO1JfLM9w",
+        "title": "Gelmė danguje: Antra knyga (A Deepness in the Sky 2/3)",
+        "title_without_series": "Gelmė danguje: Antra knyga",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/13420716-gelm-danguje",
+        "num_pages": "248",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Naujasis Eridanas",
+        "publication_day": {},
+        "publication_year": "2001",
+        "publication_month": {},
+        "average_rating": "4.75",
+        "ratings_count": "4",
+        "description": "Po mūšio išlikusiems emergentams ir jų pavergtiems Keng Ho beliko viena viltis – Arachnos vorų civilizacija, kuri netrukus pasieks informacinę erą ir padės žmonėms atstatyti nuniokotą laivyną. Fokusu ginkluoti emergentai neįveikiami. Tačiau tarp nugalėtųjų, prisidengęs svetimu vardu, slepiasi pats Keng Ho įkūrėjas, legendinis Famas Njuvenas, kuris niekada nepraranda vilties...",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "62195616",
+          "uri": "kca://work/amzn1.gr.work.v1.GxrM6sGc9soKq47MxdLAVA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "28001898"
+        },
+        "isbn": "9548610596",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.cdaVfQab7RHU7Nq7vds8kg",
+        "title": "Убежище в дълбината (Zones of Thought #2.2)",
+        "title_without_series": "Убежище в дълбината",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448713271l/28001898._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448713271l/28001898._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/28001898",
+        "num_pages": "400",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Лира Принт",
+        "publication_day": {},
+        "publication_year": "2002",
+        "publication_month": {},
+        "average_rating": "4.25",
+        "ratings_count": "4",
+        "description": "Експедицията на Чуенг Хо и Новородените до Изчезващата звезда и нейната единствена обитаема планета Арахна се превръща в изгнание.<br />Преди следващия Период на мрак двете политически фракции на Арахна са на крачка от унищожителен ядрен сблъсък. Пъклените планове на Томас Нау и Новородените, с помощта на заразените с вируса на „гнилия мозък”, са на път да се осъществят – чрез проникване в компютърните системи на Съглашението, те изстрелват ядрените им ракети по стратегическите цели на Сродниците. Стремежът им е да унищожат местната раса на Паяците и да заграбят откритите там уникални технологии за свръхсветлинни полети.<br />Има обаче два фактора сред нашествениците и местните, които Нау не е дооценил...",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+            "average_rating": "4.08",
+            "ratings_count": "120768",
+            "text_reviews_count": "5735"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "61942882",
+          "uri": "kca://work/amzn1.gr.work.v1.wn5nDwMKFE7I0LdTliJItQ"
+        }
+      }
+    ]
+  }
+}

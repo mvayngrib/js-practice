@@ -1,0 +1,7 @@
+{
+  "name": "js-practice",
+  "private": true,
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}

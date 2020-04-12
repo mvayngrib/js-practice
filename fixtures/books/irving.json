@@ -1,0 +1,1614 @@
+{
+  "id": "3075",
+  "name": "John Irving",
+  "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "107",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4473"
+        },
+        "isbn": "0552135399",
+        "isbn13": "9780552135399",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10721"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.LVPUKd81dEoPmk3cPdgKGQ",
+        "title": "A Prayer for Owen Meany",
+        "title_without_series": "A Prayer for Owen Meany",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260470010l/4473._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260470010l/4473._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany",
+        "num_pages": "637",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Black Swan",
+        "publication_day": {},
+        "publication_year": "1990",
+        "publication_month": {},
+        "average_rating": "4.23",
+        "ratings_count": "279351",
+        "description": "Eleven-year-old Owen Meany, playing in a Little League baseball game in Gravesend, New Hampshire, hits a foul ball and kills his best friend's mother. Owen doesn't believe in accidents; he believes he is God's instrument. What happens to Owen after that 1953 foul is both extraordinary and terrifying. At moments a comic, self-deluded victim, but in the end the principal, tragic actor in a divine plan, Owen Meany is the most heartbreaking hero John Irving has yet created.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1990",
+        "work": {
+          "id": "1734019",
+          "uri": "kca://work/amzn1.gr.work.v1.Br-kWGeESY4PLghr9FsfqA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7069"
+        },
+        "isbn": "0345915593",
+        "isbn13": "9780345915597",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "3965"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.0RjOdzlarqwc0Ykhh_R_gg",
+        "title": "The World According to Garp",
+        "title_without_series": "The World According to Garp",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447234581l/7069._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447234581l/7069._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7069.The_World_According_to_Garp",
+        "num_pages": "610",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.08",
+        "ratings_count": "199413",
+        "description": "This is the life and times of T. S. Garp, the bastard son of Jenny Fields—a feminist leader ahead of her times. This is the life and death of a famous mother and her almost-famous son; theirs is a world of sexual extremes—even of sexual assassinations. It is a novel rich with \"lunacy and sorrow\"; yet the dark, violent events of the story do not undermine a comedy both ribald and robust. In more than thirty languages, in more than forty countries—with more than ten million copies in print—this novel provides almost cheerful, even hilarious evidence of its famous last line: \"In the world according to Garp, we are all terminal cases.\"",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "1028204",
+          "uri": "kca://work/amzn1.gr.work.v1.aI5cSX6Se-tIaeVFROSBWQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4687"
+        },
+        "isbn": "0786226749",
+        "isbn13": "9780786226740",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2794"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.oMLEvX1F0-d8qc4m9bZYjw",
+        "title": "The Cider House Rules",
+        "title_without_series": "The Cider House Rules",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327962519l/4687._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327962519l/4687._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4687.The_Cider_House_Rules",
+        "num_pages": {},
+        "format": "Hardcover",
+        "edition_information": "Large Print",
+        "publisher": "Thorndike Press",
+        "publication_day": "1",
+        "publication_year": "2000",
+        "publication_month": "7",
+        "average_rating": "4.13",
+        "ratings_count": "156222",
+        "description": "Raised from birth in the orphanage at St. Cloud's, Maine, Homer Wells has become the protege of Dr. Wilbur Larch, its physician and director. There Dr. Larch cares for the troubled mothers who seek his help, either by delivering and taking in their unwanted babies or by performing illegal abortions. Meticulously trained by Dr. Larch, Homer assists in the former, but draws the line at the latter. Then a young man brings his beautiful fiancee to Dr. Larch for an abortion, and everything about the couple beckons Homer to the wide world outside the orphanage ...",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "3875895",
+          "uri": "kca://work/amzn1.gr.work.v1.JQ4wtZyOiJ6yUvVVxgdh5Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "11768"
+        },
+        "isbn": "0552992097",
+        "isbn13": "9780552992091",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1207"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.aO4wj-GiiYEFTqx_b9KFFQ",
+        "title": "The Hotel New Hampshire",
+        "title_without_series": "The Hotel New Hampshire",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318013543l/11768._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318013543l/11768._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/11768.The_Hotel_New_Hampshire",
+        "num_pages": "520",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Black Swan",
+        "publication_day": "22",
+        "publication_year": "1982",
+        "publication_month": "10",
+        "average_rating": "3.91",
+        "ratings_count": "56584",
+        "description": "“The first of my father’s illusions was that bears could survive the life lived by human beings, and the second was that human beings could survive a life led in hotels.” So says John Berry, son of a hapless dreamer, brother to a cadre of eccentric siblings, and chronicler of the lives lived, the loves experienced, the deaths met, and the myriad strange and wonderful times encountered by the family Berry. Hoteliers, pet-bear owners, friends of Freud (the animal trainer and vaudevillian, that is), and playthings of mad fate, they “dream on” in a funny, sad, outrageous, and moving novel by the remarkable author of A Prayer for Owen Meany and Last Night in Twisted River.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1982",
+        "work": {
+          "id": "1786995",
+          "uri": "kca://work/amzn1.gr.work.v1.IlFmH0ek-PwEZNp5HVhkow"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4659"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1915"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.vC0ufucELFo-lv9ghYV5Og",
+        "title": "A Widow for One Year",
+        "title_without_series": "A Widow for One Year",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220946l/4659._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220946l/4659._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4659.A_Widow_for_One_Year",
+        "num_pages": "576",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Ballantine Books",
+        "publication_day": "1",
+        "publication_year": "2004",
+        "publication_month": "6",
+        "average_rating": "3.76",
+        "ratings_count": "56382",
+        "description": "“One night when she was four and sleeping in the bottom bunk of her bunk bed, Ruth Cole woke to the sound of lovemaking—it was coming from her parents’ bedroom.”<br /><br />This sentence opens John Irving’s ninth novel, A Widow for One Year, a story of a family marked by tragedy. Ruth Cole is a complex, often self-contradictory character—a “difficult” woman. By no means is she conventionally “nice,” but she will never be forgotten.<br /><br />Ruth’s story is told in three parts, each focusing on a critical time in her life. When we first meet her—on Long Island, in the summer of 1958—Ruth is only four.<br /><br />The second window into Ruth’s life opens on the fall of 1990, when she is an unmarried woman whose personal life is not nearly as successful as her literary career. She distrusts her judgment in men, for good reason.<br /><br />A Widow for One Year closes in the autumn of 1995, when Ruth Cole is a forty-one-year-old widow and mother. She’s about to fall in love for the first time.<br /><br />Richly comic, as well as deeply disturbing, A Widow for One Year is a multilayered love story of astonishing emotional force. Both ribald and erotic, it is also a brilliant novel about the passage of time and the relentlessness of grief.<br />Source: john-irving.com",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "3359767",
+          "uri": "kca://work/amzn1.gr.work.v1.0JnPmAM3QyTKUhT-SAeF0A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4656"
+        },
+        "isbn": "0345463153",
+        "isbn13": "9780345463159",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "979"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.1C9EPhVH-HuHLJPAOwhozQ",
+        "title": "The Fourth Hand",
+        "title_without_series": "The Fourth Hand",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375776688l/4656.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375776688l/4656._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4656.The_Fourth_Hand",
+        "num_pages": "368",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Fawcett Books",
+        "publication_day": "29",
+        "publication_year": "2003",
+        "publication_month": "4",
+        "average_rating": "3.31",
+        "ratings_count": "27475",
+        "description": "Jurnalis TV Patrick Wallingford malah menjadi sumber berita ketika kehilangan tangan karena digigit singa di India. Peristiwa itu sempat meramaikan berita TV beberapa lama. Patrick bahkan mendapat julukan the lion guy. Tak perlu waktu lama, Patrick mendapat tawaran untuk menjalani operasi transplantasi ringan.<br />Dr. Nicholas M. Zajac, dokter bedah tangan yang sangat cerdas, yang memberi tawaran itu. Meskipun Dr. Zajac tidak punya maksud apa pun selain menolong Patrick, tapi teman-teman sejawatnya malah menjauhi dokter aneh yang sering salah tingkah itu karena menganggapnya mencari popularitas belaka.<br />Dr. Zajac segera mendapat donor untuk Patrick. Donor itu tangan Otto Clausen yang tak sengaja bunuh diri dalam truk birnya di Green Bay. Masalahnya, janda Otto, Doris Clausen ingin bertemu dengan Patrick sebelum operasi, juga menuntut hak kunjung bagi tangan suaminya.<br />Hubungan mereka berkembang dengan aneh. Masing-masing memiliki obsesi yang ajaib, tapi akhirnya mereka harus saling membantu memberi keberanian menghadapi kesempatan kedua dan kekuatan untuk berubah.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "1137643",
+          "uri": "kca://work/amzn1.gr.work.v1.nGGnN2TOCIaGpU0ySMUahg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12758317"
+        },
+        "isbn": "1451664125",
+        "isbn13": "9781451664126",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2929"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.bTPPSm7aNTzGJFBpgXbgIw",
+        "title": "In One Person",
+        "title_without_series": "In One Person",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379313446l/12758317._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379313446l/12758317._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12758317-in-one-person",
+        "num_pages": "425",
+        "format": "Hardcover",
+        "edition_information": "First Edition",
+        "publisher": "Simon & Schuster",
+        "publication_day": "8",
+        "publication_year": "2012",
+        "publication_month": "5",
+        "average_rating": "3.67",
+        "ratings_count": "24179",
+        "description": "His most daringly political, sexually transgressive, and moving novel in well over a decade\" (<i>Vanity Fair</i>).<br /><br />Winner of a 2013 Lambda Literary Award<br /><br />A <i>New York Times</i> bestselling novel of desire, secrecy, and sexual identity, <i>In One Person</i> is a story of unfulfilled love—tormented, funny, and affecting—and an impassioned embrace of our sexual differences. Billy, the bisexual narrator and main character of <i>In One Person</i>, tells the tragicomic story (lasting more than half a century) of his life as a \"sexual suspect,\" a phrase first used by John Irving in 1978 in his landmark novel of \"terminal cases,\" <i>The World According to Garp</i>.<br /><br /><i>In One Person</i> is a poignant tribute to Billy’s friends and lovers—a theatrical cast of characters who defy category and convention. Not least, <i>In One Person</i> is an intimate and unforgettable portrait of the solitariness of a bisexual man who is dedicated to making himself \"worthwhile.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2012",
+        "work": {
+          "id": "17893276",
+          "uri": "kca://work/amzn1.gr.work.v1.fGg2rfDeZkfZbSkBM04diw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6323821"
+        },
+        "isbn": "1400063841",
+        "isbn13": "9781400063840",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2384"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.cp9AYG_k1R7KWoCWKwcdbA",
+        "title": "Last Night in Twisted River",
+        "title_without_series": "Last Night in Twisted River",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399850194l/6323821._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399850194l/6323821._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6323821-last-night-in-twisted-river",
+        "num_pages": "554",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Random House",
+        "publication_day": "27",
+        "publication_year": "2009",
+        "publication_month": "10",
+        "average_rating": "3.76",
+        "ratings_count": "23516",
+        "description": "In 1954, in the cookhouse of a logging and sawmill settlement in northern New Hampshire, an anxious twelve-year-old boy mistakes the local constable’s girlfriend for a bear. Both the twelve-year-old and his father become fugitives, forced to run from Coos County–to Boston, to southern Vermont, to Toronto–pursued by the implacable constable. Their lone protector is a fiercely libertarian logger, once a river driver, who befriends them.<br /><br />In a story spanning five decades, <b>Last Night in Twisted River</b>–John Irving’s twelfth novel–depicts the recent half-century in the United States as “a living replica of Coos County, where lethal hatreds were generally permitted to run their course.” From the novel’s taut opening sentence–“The young Canadian, who could not have been more than fifteen, had hesitated too long”–to its elegiac final chapter, <b>Last Night in Twisted River</b> is written with the historical authenticity and emotional authority of <b>The Cider House Rules</b> and A <b>Prayer for Owen Meany.</b> It is also as violent and disturbing a story as John Irving’s breakthrough bestseller, <b>The World According to Garp.</b><br /><br />What further distinguishes <b>Last Night in Twisted River</b> is the author’s unmistakable voice–the inimitable voice of an accomplished storyteller. Near the end of this moving novel, John Irving writes: “We don’t always have a choice how we get to know one another. Sometimes, people fall into our lives cleanly–as if out of the sky, or as if there were a direct flight from Heaven to Earth–the same sudden way we lose people, who once seemed they would always be part of our lives.”",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "6259580",
+          "uri": "kca://work/amzn1.gr.work.v1.sfhKfCTONzTEspXkpq1SCg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9355"
+        },
+        "isbn": "0345479726",
+        "isbn13": "9780345479723",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1376"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xH51Tsp_ke-KP_lmiMyejg",
+        "title": "Until I Find You",
+        "title_without_series": "Until I Find You",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9355.Until_I_Find_You",
+        "num_pages": "820",
+        "format": "Paperback",
+        "edition_information": "Ballantine Books Trade Paperback Edition",
+        "publisher": "Ballantine Books",
+        "publication_day": "30",
+        "publication_year": "2006",
+        "publication_month": "5",
+        "average_rating": "3.63",
+        "ratings_count": "24215",
+        "description": "Every major character in Until I Find You has been marked for life – not only William Burns, a church organist who is addicted to being tattooed, but also William's song, Jack, an actor who is shaped as a child by his relationships with older women. And Jack's mother, Alice – a Toronto tattoo artist – has been permanently damaged by William's rejection of her. This is a novel about the loss of innocence, on many levels.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "2269323",
+          "uri": "kca://work/amzn1.gr.work.v1.DKM333Jy1DHRKXBdOFYbvA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7073"
+        },
+        "isbn": "0345915623",
+        "isbn13": "9780345915627",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "490"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.myPCJWE71siNtDElh6xdeQ",
+        "title": "A Son of the Circus",
+        "title_without_series": "A Son of the Circus",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561342994l/7073.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561342994l/7073._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7073.A_Son_of_the_Circus",
+        "num_pages": "680",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.63",
+        "ratings_count": "18365",
+        "description": "A Hindi film star . . . an American missionary . . . twins separated at birth . . . a dwarf chauffeur . . . a serial killer . . . all are on a collision course. In the tradition of A Prayer for Owen Meany, Irving's characters transcend nationality. They are misfits--coming from everywhere, belonging nowhere. Set almost entirely in India, this is John Irving's most ambitious novel and a major publishing event.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "1323492",
+          "uri": "kca://work/amzn1.gr.work.v1.VJiQIppd7AO7lIPXJj856Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4660"
+        },
+        "isbn": "0345417968",
+        "isbn13": "9780345417961",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "282"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.S4z_RzhXvHok1jexMg8tnA",
+        "title": "The 158-Pound Marriage",
+        "title_without_series": "The 158-Pound Marriage",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4660.The_158_Pound_Marriage",
+        "num_pages": "176",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Ballantine Books",
+        "publication_day": "23",
+        "publication_year": "1997",
+        "publication_month": "6",
+        "average_rating": "3.24",
+        "ratings_count": "12370",
+        "description": "The darker vision and sexual ambiguities of this erotic, ironic tale about a ménage a quatre in a New England university town foreshadow those of <b>The World According to Garp</b>; but this very trim and precise novel is a marked departure from the author's generally robust, boisterous style. Though Mr. Irving's cool eye spares none of his foursome, he writes with genuine compassion for the sexual tests and illusions they perpetrate on each other; but the sexual intrigue between them demonstrates how even the kind can be ungenerous, and even the well-intentioned, destructive.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1997",
+        "work": {
+          "id": "1831615",
+          "uri": "kca://work/amzn1.gr.work.v1.DpVA-7OlcBnAQ6dURi7nSQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4657"
+        },
+        "isbn": "034541800X",
+        "isbn13": "9780345418005",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "252"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ispPErkadLxNnoVq1OFlWQ",
+        "title": "The Water-Method Man",
+        "title_without_series": "The Water-Method Man",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4657.The_Water_Method_Man",
+        "num_pages": "272",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Ballantine Books",
+        "publication_day": "23",
+        "publication_year": "1997",
+        "publication_month": "6",
+        "average_rating": "3.35",
+        "ratings_count": "11419",
+        "description": "The main character of John Irving's second novel, written when the author was twenty-nine, is a perpetual graduate student with a birth defect in his urinary tract--and a man on the threshold of committing himself to a second marriage that bears remarkable resemblance to his first....<br />\"Three or four times as funny as most novels.\"<br />THE NEW YORKER<br /><br /><br /><i>From the Paperback edition.</i>",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1997",
+        "work": {
+          "id": "2342047",
+          "uri": "kca://work/amzn1.gr.work.v1.DURF4J8D7UPssr1_lX52pg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "25111109"
+        },
+        "isbn": "1451664168",
+        "isbn13": "9781451664164",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1541"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.89wTNV2ayOSmTLYjxZAO2g",
+        "title": "Avenue of Mysteries",
+        "title_without_series": "Avenue of Mysteries",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446397975l/25111109._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446397975l/25111109._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/25111109-avenue-of-mysteries",
+        "num_pages": "460",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Simon  Schuster",
+        "publication_day": "3",
+        "publication_year": "2015",
+        "publication_month": "11",
+        "average_rating": "3.23",
+        "ratings_count": "10874",
+        "description": "John Irving returns to the themes that established him as one of our most admired and beloved authors in this absorbing novel of fate and memory.<br />As we grow older—most of all, in what we remember and what we dream—we live in the past. Sometimes, we live more vividly in the past than in the present.<br /><br />As an older man, Juan Diego will take a trip to the Philippines, but what travels with him are his dreams and memories; he is most alive in his childhood and early adolescence in Mexico. “An aura of fate had marked him,” John Irving writes, of Juan Diego. “The chain of events, the links in our lives—what leads us where we’re going, the courses we follow to our ends, what we don’t see coming, and what we do—all this can be mysterious, or simply unseen, or even obvious.”<br /><br /><i>Avenue of Mysteries</i> is the story of what happens to Juan Diego in the Philippines, where what happened to him in the past—in Mexico—collides with his future.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2015",
+        "work": {
+          "id": "41775373",
+          "uri": "kca://work/amzn1.gr.work.v1.ryTKxBD-ovXQcurYFxYc9g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4658"
+        },
+        "isbn": "0345417984",
+        "isbn13": "9780345417985",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "218"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.vKFyWlg4dNbVa95djjweBw",
+        "title": "Setting Free the Bears",
+        "title_without_series": "Setting Free the Bears",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4658.Setting_Free_the_Bears",
+        "num_pages": "304",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Ballantine Books",
+        "publication_day": "23",
+        "publication_year": "1997",
+        "publication_month": "6",
+        "average_rating": "3.30",
+        "ratings_count": "9663",
+        "description": "It is 1967 and two Viennese university students want to liberate the Vienna Zoo, as was done after World War II. But their good intentions have both comic and gruesome consequences, in this first novel written by a twenty-five year old John Irving, already a master storyteller.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1997",
+        "work": {
+          "id": "3359784",
+          "uri": "kca://work/amzn1.gr.work.v1.wCbzghiaLpZNbQ1mUPq1rA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4661"
+        },
+        "isbn": "0345404742",
+        "isbn13": "9780345404749",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "185"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.YCaLnspTEd9Yr9eDAgc5aw",
+        "title": "Trying to Save Piggy Sneed",
+        "title_without_series": "Trying to Save Piggy Sneed",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338442050l/4661._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338442050l/4661._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4661.Trying_to_Save_Piggy_Sneed",
+        "num_pages": "464",
+        "format": "Paperback",
+        "edition_information": "First Ballantine Books Edition",
+        "publisher": "Ballantine Books",
+        "publication_day": "11",
+        "publication_year": "1997",
+        "publication_month": "2",
+        "average_rating": "3.36",
+        "ratings_count": "6344",
+        "description": "A collection of one dozen short works includes the title piece, a loving portrait of the author's grandmother, and additional stories, including \"The Pension Grillparzer\" and \"Dinner at the White House\"<br /><br />Here is a treat for John Irving addicts and a perfect introduction to his work for the uninitiated. To open this spirited collection, Irving explains how he became a writer. There follow six scintillating stories written over the last twenty years ending with a homage to Charles Dickens. This irresistible collection cannot fail to delight and charm.<br /><br />The first collection of short pieces--two of them previously unpublished--by the author of The World According to Garp includes memoirs, six short stories, and essays on Charles Dickens and Gu+a5nter Grass. Reprint. Tour.<br /><br />This gem, a delightful collection of shorter works, both fiction and nonfiction, written by one of the country's finest--and funniest--writers, includes a living portrait of Irving's grandmother, a new, never-before-published essay, six scintillating short stories--including the O. Henry Award-winning \"Interior Space\"--and two essays on Irving's favorite 19th-century novelist, Charles Dickens. Trying to Save Piggy Sneed is John Irving at the top of his form.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1997",
+        "work": {
+          "id": "4339",
+          "uri": "kca://work/amzn1.gr.work.v1.mE9tN-HGVtvk-3mxMnd9vA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4654"
+        },
+        "isbn": "0345458265",
+        "isbn13": "9780345458261",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "114"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.dYxVZgqdjYlLLgW1nZJqXw",
+        "title": "The Imaginary Girlfriend",
+        "title_without_series": "The Imaginary Girlfriend",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4654.The_Imaginary_Girlfriend",
+        "num_pages": "208",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Ballantine Books",
+        "publication_day": "3",
+        "publication_year": "2002",
+        "publication_month": "12",
+        "average_rating": "3.42",
+        "ratings_count": "2180",
+        "description": "Dedicated to the memory of two wrestling coaches and two writer friends, <i>The Imaginary Girlfriend</i> is John Irving's candid memoir of his twin careers in writing and wrestling. The award-winning author of best-selling novels from <i>The World According to Garp</i> to <i>In One Person</i>, Irving began writing when he was fourteen, the same age at which he began to wrestle at Exeter. He competed as a wrestler for twenty years, was certified as a referee at twenty-four, and coached the sport until he was forty-seven. Irving coached his sons Colin and Brendan to New England championship titles, a championship that he himself was denied.<br /><br />In an autobiography filled with the humor and compassion one finds in his fiction, Irving explores the interrelationship between the two disciplines of writing and wrestling, from the days when he was a beginner at both until his fourth wresting related surgery at the age of fifty-three. Writing as a father and mentor, he offers a lucid portrait of those—writers and wrestlers from Kurt Vonnegut to Ted Seabrooke—who played a mentor role in his development as a novelist, wrestler, and wrestling coach. He reveals lessons he learned about the pursuit for which he is best known, writing. “And,” as the Denver Post observed, in filling “his narrative with anecdotes that are every bit as hilarious as the antics in his novels, Irving combines the lessons of both obsessions (wrestling and writing) . . . into a somber reflection on the importance of living well.”",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "3034226",
+          "uri": "kca://work/amzn1.gr.work.v1.nPJ4qG3fdpx15vdYC9v85g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7071"
+        },
+        "isbn": "0345441303",
+        "isbn13": "9780345441300",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "60"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.UJu99bpP2tJU32JhEuajBQ",
+        "title": "My Movie Business: A Memoir",
+        "title_without_series": "My Movie Business: A Memoir",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7071.My_Movie_Business",
+        "num_pages": "222",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Ballantine Books",
+        "publication_day": "10",
+        "publication_year": "2000",
+        "publication_month": "10",
+        "average_rating": "3.34",
+        "ratings_count": "1232",
+        "description": "John Irving's memoir begins with his account of the distinguished career and medical writings of the novelist's grandfather Dr. Frederick C. Irving, a renowned obstetrician and gynecologist, and includes Mr. Irving's incisive history of abortion politics in the United States. But <i>My Movie Business</i> focuses primarily on the thirteen years John Irving spent adapting his novel <i>The Cider House Rules</i> for the screen--for four different directors.<br /> <br />Mr. Irving also writes about the failed effort to make his first novel, Setting Free the Bears, into a movie; about two of the films that were made from his novels (but not from his screenplays), <i>The World According to Garp</i> and <i>The Hotel New Hampshire</i>; about his slow progress at shepherding his screenplay of <i>A Son of the Circus</i> into production.<br /> <br />Not least, and in addition to its qualities as a memoir--anecdotal, comic, affectionate, and candid--<i>My Movie Business</i> is an insightful essay on the essential differences between writing a novel and writing a screenplay.<br /><br />The photographs in <i>My Movie Business</i> were taken by Stephen Vaughan, the still photographer on the set of <i>The Cider House Rules</i>--a Miramax production directed by Lasse Hallström, with Michael Caine in the role of Dr. Larch. Concurrently with the November 1999 release of the film, Talk Miramax Books will publish John Irving's screenplay.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2000",
+        "work": {
+          "id": "350580",
+          "uri": "kca://work/amzn1.gr.work.v1.WkSQ_L8jO6Kws4Eb0NC7ZA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4655"
+        },
+        "isbn": "0747572933",
+        "isbn13": "9780747572930",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "44"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4_Y3iHrQO2n9-g18rTUeIg",
+        "title": "A Sound Like Someone Trying Not to Make a Sound",
+        "title_without_series": "A Sound Like Someone Trying Not to Make a Sound",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4655.A_Sound_Like_Someone_Trying_Not_to_Make_a_Sound",
+        "num_pages": "32",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Bloomsbury Publishing PLC",
+        "publication_day": {},
+        "publication_year": "2003",
+        "publication_month": {},
+        "average_rating": "4.01",
+        "ratings_count": "758",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "274940",
+          "uri": "kca://work/amzn1.gr.work.v1.GgBwxSzYOHyB5lOjv5vppA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "98936"
+        },
+        "isbn": "0786885238",
+        "isbn13": "9780786885237",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "20"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.B1QHG9gJWwmJ4wumu7zRDw",
+        "title": "The Cider House Rules: A Screenplay",
+        "title_without_series": "The Cider House Rules: A Screenplay",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375776661l/98936._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375776661l/98936._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/98936.The_Cider_House_Rules",
+        "num_pages": "192",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Miramax Books",
+        "publication_day": "10",
+        "publication_year": "1999",
+        "publication_month": "12",
+        "average_rating": "4.03",
+        "ratings_count": "338",
+        "description": "This acadamy-award winning screenplay by John Irving was written over a fourteen year period and is the companion screenplay to the Miramax film, co-starring Michael Caine, who won the Acadmy Award for Best Supporting Actor for his role as Dr.Wilbur Larch.The Cider House Rules is set in rural Maine in the first half of this century. It tells the story of Homer Wells, an orphan who is raised and mentored by Wilbur Larch, the doctor at the orphanage. Dr. Larch teaches Homer eveything about medicine. Yet though his capacity for kindness is saintly, Larch is also an ether addict. He and Homer come into conflict, which is typical of many father-son relationships, but in this case, their conflict is intensified by their disagreements about abortion. The result is Homer leaves the only family he has ever known.<br /><br />Homer's new life provides more excitement than he could have imagined, especially when he falls in love for the first time. But, when forced to make decisions that will change the course of his future, Homer finally realizes that he can't escape his past. The Cider House Rules is ultimately about the choices we make and the rules that are meant to be broken.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1999",
+        "work": {
+          "id": "23983640",
+          "uri": "kca://work/amzn1.gr.work.v1.gMlVBb0Ngp1SV-YJNbzQyA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1531624"
+        },
+        "isbn": "3257701675",
+        "isbn13": "9783257701678",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "7"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.keDM6QRyMhRHY-GhOG1rlw",
+        "title": "Die Pension Grillparzer - eine Bärengeschichte",
+        "title_without_series": "Die Pension Grillparzer - eine Bärengeschichte",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375776713l/1531624._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375776713l/1531624._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1531624.Die_Pension_Grillparzer_eine_B_rengeschichte",
+        "num_pages": "95",
+        "format": "Paperback",
+        "edition_information": "Kleine Diogenes-Taschenbücher",
+        "publisher": "Diogenes",
+        "publication_day": {},
+        "publication_year": "2001",
+        "publication_month": {},
+        "average_rating": "3.65",
+        "ratings_count": "329",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "19267952",
+          "uri": "kca://work/amzn1.gr.work.v1.pwTHVWGvuqw98DrfUWuh-w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7076"
+        },
+        "isbn": "0517146541",
+        "isbn13": "9780517146545",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "8"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.PtdTwniSnOBy40nrimGV5Q",
+        "title": "Setting Free the Bears / The Water-Method Man / The 158-Pound Marriage",
+        "title_without_series": "Setting Free the Bears / The Water-Method Man / The 158-Pound Marriage",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527273432l/7076._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527273432l/7076._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7076.Setting_Free_the_Bears_The_Water_Method_Man_The_158_Pound_Marriage",
+        "num_pages": "718",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Wings",
+        "publication_day": "21",
+        "publication_year": "1995",
+        "publication_month": "5",
+        "average_rating": "3.83",
+        "ratings_count": "309",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1995",
+        "work": {
+          "id": "10251",
+          "uri": "kca://work/amzn1.gr.work.v1.3R32cOunfr2WlPtjVeJ3Pw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7077"
+        },
+        "isbn": "0345458907",
+        "isbn13": "9780345458902",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "9"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.-8XW-y4jszVT7NMH2rtQYg",
+        "title": "John Irving box set: The Cider House Rules / A Widow for One Year / A Prayer for Owen Meany",
+        "title_without_series": "John Irving box set: The Cider House Rules / A Widow for One Year / A Prayer for Owen Meany",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7077.John_Irving_box_set",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "Ballantine Books",
+        "publication_day": "29",
+        "publication_year": "2002",
+        "publication_month": "10",
+        "average_rating": "4.36",
+        "ratings_count": "121",
+        "description": "A boxed set containing three beloved,<i> New York Times</i> bestselling novels by John Irving: <i>The Cider House Rules</i>, <i>A Widow for One Year</i>, and <i>A Prayer for Owen Meany</i>.<p>\n  <i>The Cider House Rules</i>\n</p><p>Set in rural Maine in the first half of this century, it tells the story of Dr. Wilbur Larch—saint and obstetrician, founder and director of the orphanage in the town of St. Cloud's, ether addict and abortionist. It is also the story of Dr. Larch's favorite orphan, Homer Wells, who is never adopted. </p><p>\n  <i>A Widow for One Year</i>\n</p><p>Richly comic, as well as deeply disturbing, <i>A Widow for One Year</i> is a multilayered love story of astonishing emotional force.  Both ribald and erotic, it is also a brilliant novel about the passage of time and the relentlessness of grief. </p><p>\n  <i>A Prayer for Owen Meany</i>\n</p><p>In the summer of 1953, two eleven-year-old boys–best friends–are playing in a Little League baseball game in Gravesend, New Hampshire. One of the boys hits a foul ball that kills the other boy’s mother. The boy who hits the ball doesn’t believe in accidents; Owen Meany believes he is God’s instrument. What happens to Owen, after that 1953 foul ball, is extraordinary and terrifying.</p>",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "26328097",
+          "uri": "kca://work/amzn1.gr.work.v1.4wWtlEVv4E_pvkRyfRa2Rw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "22260182"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.dGrj6LvdkoMUuzzlUd-4wQ",
+        "title": "The Door in the Floor",
+        "title_without_series": "The Door in the Floor",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462044404l/22260182._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462044404l/22260182._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/22260182-the-door-in-the-floor",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "J. Bridges",
+        "publication_day": {},
+        "publication_year": "2004",
+        "publication_month": {},
+        "average_rating": "3.92",
+        "ratings_count": "73",
+        "description": "The Door in the Floor is limited to 5,000 copies--printed in Korea--pictures and drawings copyright 2004 by Jeff Bridges.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2004",
+        "work": {
+          "id": "41637086",
+          "uri": "kca://work/amzn1.gr.work.v1.D9E2jgicDcsSew4SDA96TQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12369612"
+        },
+        "isbn": "1780811446",
+        "isbn13": "9781780811444",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.qQP-Bf6sJ6uwyzBke-M-Kw",
+        "title": "John Irving 5 book collection",
+        "title_without_series": "John Irving 5 book collection",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12369612-john-irving-5-book-collection",
+        "num_pages": {},
+        "format": "Paperback",
+        "edition_information": "Box Set",
+        "publisher": "Books Events",
+        "publication_day": "5",
+        "publication_year": "2011",
+        "publication_month": "8",
+        "average_rating": "3.79",
+        "ratings_count": "24",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "17349908",
+          "uri": "kca://work/amzn1.gr.work.v1.GlG5HFFzzCGtO5LFNha4Wg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1726203"
+        },
+        "isbn": "3257701764",
+        "isbn13": "9783257701760",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "3"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Yz9y1_7PyD11IESD051efg",
+        "title": "Deutschlandreise",
+        "title_without_series": "Deutschlandreise",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1726203.Deutschlandreise",
+        "num_pages": "88",
+        "format": "Paperback",
+        "edition_information": "Kleine Diogenes-Taschenbücher, #70176.",
+        "publisher": "Diogenes",
+        "publication_day": {},
+        "publication_year": "2002",
+        "publication_month": {},
+        "average_rating": "3.40",
+        "ratings_count": "25",
+        "description": "John Irving über Günter Grass und Elisabeth Mann Borgese, über Marcel Reich-Ranicki und Hunde, die Klavier spielen können. Ein Stimmungsbericht über das Deutschland der neunziger Jahre.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2002",
+        "work": {
+          "id": "28141550",
+          "uri": "kca://work/amzn1.gr.work.v1.cPgGEOwICqim_OT2jcD3kQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "22308759"
+        },
+        "isbn": "006237429X",
+        "isbn13": "9780062374295",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Y1JAqN8z3PtgzXoG_2p-aQ",
+        "title": "A Teacher's Guide for a Prayer for Owen Meany: Common-Core Aligned Teacher Materials and a Sample Chapter",
+        "title_without_series": "A Teacher's Guide for a Prayer for Owen Meany: Common-Core Aligned Teacher Materials and a Sample Chapter",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406514282l/22308759._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406514282l/22308759._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/22308759-a-teacher-s-guide-for-a-prayer-for-owen-meany",
+        "num_pages": {},
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "William Morrow Paperbacks",
+        "publication_day": "24",
+        "publication_year": "2014",
+        "publication_month": "6",
+        "average_rating": "4.15",
+        "ratings_count": "20",
+        "description": "For teachers<br /><br />We know that the Common Core State Standards are encouraging you to reevaluate the books that you assign to your students. To help you decide which books are right for your classroom, each free ebook in this series contains a Common Core–aligned teaching guide and a sample chapter.<br /><br />This free teaching guide for <em>A Prayer for Owen Meany</em> by John Irving is designed to help you put the new Common Core State Standards into practice.<br /><br />\"Among the very best American novels of our time.\"—<em>Charlotte Observer</em><br /><br />In the summer of 1953, two eleven-year-old boys—best friends—are playing in a Little League baseball game in Gravesend, New Hampshire. One of the boys hits a foul ball that kills the other boy's mother. The boy who hits the ball doesn't believe in accidents; Owen Meany believes he is God's instrument. What happens to Owen after that 1953 foul ball is extraordinary.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "41678203",
+          "uri": "kca://work/amzn1.gr.work.v1.UEHfGcqStO9i5yCoZn0arg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "49835993"
+        },
+        "isbn": "3837125866",
+        "isbn13": "9783837125863",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.iXmMfnz1vXfjmwmu",
+        "title": "Gottes Werk und Teufels Beitrag",
+        "title_without_series": "Gottes Werk und Teufels Beitrag",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/49835993-gottes-werk-und-teufels-beitrag",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.17",
+        "ratings_count": "18",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "74937108",
+          "uri": "kca://work/amzn1.gr.work.v3.-sAw6G75Ill8t-A-"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1612207"
+        },
+        "isbn": "2020301687",
+        "isbn13": "9782020301688",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.IlT1I3f8f_PWh5TzU_NISg",
+        "title": "L'épopée du buveur d'eau - Liberté pour les ours ! - Une prière pour Owen",
+        "title_without_series": "L'épopée du buveur d'eau - Liberté pour les ours ! - Une prière pour Owen",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1612207.L_pop_e_du_buveur_d_eau_Libert_pour_les_ours_Une_pri_re_pour_Owen",
+        "num_pages": "1628",
+        "format": "Mass Market Paperback",
+        "edition_information": {},
+        "publisher": "Seuil",
+        "publication_day": "2",
+        "publication_year": "1996",
+        "publication_month": "9",
+        "average_rating": "3.62",
+        "ratings_count": "13",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1996",
+        "work": {
+          "id": "19127048",
+          "uri": "kca://work/amzn1.gr.work.v1.juYZ84i26nUHBXtxkRTpsg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "3753145"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.CWg6MIDiXt7z-UQeVkWyXQ",
+        "title": "Ruimte binnenshuis",
+        "title_without_series": "Ruimte binnenshuis",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/3753145-ruimte-binnenshuis",
+        "num_pages": "46",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Anthos",
+        "publication_day": {},
+        "publication_year": "1998",
+        "publication_month": {},
+        "average_rating": "3.50",
+        "ratings_count": "12",
+        "description": "This is one of the stories that is also published in Trying to Save Piggy Sneed, called Interior Space.<br /><br />Speciale uitgave in opdracht an ECI.",
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": "1998",
+        "work": {
+          "id": "3797007",
+          "uri": "kca://work/amzn1.gr.work.v1.eo25QzqMJTbMjQZPlTiaeg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "11760"
+        },
+        "isbn": "0886901847",
+        "isbn13": "9780886901844",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.VziImm14GbipxWR1RZEwug",
+        "title": "Boston Mercy and the Pension Grillparzer/from the World According to Garp",
+        "title_without_series": "Boston Mercy and the Pension Grillparzer/from the World According to Garp",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/11760.Boston_Mercy_and_the_Pension_Grillparzer_from_the_World_According_to_Garp",
+        "num_pages": "0",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.14",
+        "ratings_count": "7",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "3075",
+            "name": "John Irving",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+            "average_rating": "4.00",
+            "ratings_count": "923472",
+            "text_reviews_count": "39532"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "21444273",
+          "uri": "kca://work/amzn1.gr.work.v1.HQCLKaG2MIcEopGyjBP_lg"
+        }
+      }
+    ]
+  }
+}

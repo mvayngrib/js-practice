@@ -1,0 +1,1644 @@
+{
+  "id": "108424",
+  "name": "Patrick Rothfuss",
+  "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "60",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "186074"
+        },
+        "isbn": "075640407X",
+        "isbn13": "9780756404079",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "29836"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.iUoduJh08Drcwhc9Kt94qg",
+        "title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+        "title_without_series": "The Name of the Wind",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515589515l/186074._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515589515l/186074._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind",
+        "num_pages": "662",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Penguin Group DAW",
+        "publication_day": {},
+        "publication_year": "2007",
+        "publication_month": "4",
+        "average_rating": "4.54",
+        "ratings_count": "665612",
+        "description": "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen. <br /><br />The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature. <br /><br />A high-action story written with a poet's hand, <i>The Name of the Wind</i> is a masterpiece that will transport readers into the body and mind of a wizard.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "2502879",
+          "uri": "kca://work/amzn1.gr.work.v1.H-uiZxbMDAHsxOpFwGVKGQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "1215032"
+        },
+        "isbn": "0756404738",
+        "isbn13": "9780756404734",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "16183"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.yc1VSaL44Cp7vbSICVj1JQ",
+        "title": "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+        "title_without_series": "The Wise Man's Fear",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392l/1215032._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392l/1215032._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear",
+        "num_pages": "994",
+        "format": "Hardcover",
+        "edition_information": "First Edition",
+        "publisher": "DAW Books",
+        "publication_day": "1",
+        "publication_year": "2011",
+        "publication_month": "3",
+        "average_rating": "4.57",
+        "ratings_count": "398174",
+        "description": "“<i>There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.</i>”<br /><br />My name is Kvothe.<br />I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. I have spent the night with Felurian and left with both my sanity and my life. I was expelled from the University at a younger age than most people are allowed in. I tread paths by moonlight that others fear to speak of during day. I have talked to Gods, loved women, and written songs that make the minstrels weep.<br />You may have heard of me.<br /><br />So begins the tale of a hero told from his own point of view — a story unequaled in fantasy literature. Now in <i>The Wise Man's Fear</i>, an escalating rivalry with a powerful member of the nobility forces Kvothe to leave the University and seek his fortune abroad. Adrift, penniless, and alone, he travels to Vintas, where he quickly becomes entangled in the politics of courtly society. While attempting to curry favor with a powerful noble, Kvothe uncovers an assassination attempt, comes into conflict with a rival arcanist, and leads a group of mercenaries into the wild, in an attempt to solve the mystery of who (or what) is waylaying travelers on the King's Road.<br /><br />All the while, Kvothe searches for answers, attempting to uncover the truth about the mysterious Amyr, the Chandrian, and the death of his parents. Along the way, Kvothe is put on trial by the legendary Adem mercenaries, is forced to reclaim the honor of the Edema Ruh, and travels into the Fae realm. There he meets Felurian, the faerie woman no man can resist, and who no man has ever survived ... until Kvothe.<br /><br />In <i>The Wise Man's Fear</i>, Kvothe takes his first steps on the path of the hero and learns how difficult life can be when a man becomes a legend in his own time.<br /><br />",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "2502882",
+          "uri": "kca://work/amzn1.gr.work.v1.lmaHiRbSI5W5EVViZJlnqQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "21535271"
+        },
+        "isbn": "0756410436",
+        "isbn13": "9780756410438",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "8040"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.5V1UH4i_BU3EaMA0_xb-sQ",
+        "title": "The Slow Regard of Silent Things (The Kingkiller Chronicle, #2.5)",
+        "title_without_series": "The Slow Regard of Silent Things",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466695l/21535271._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466695l/21535271._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/21535271-the-slow-regard-of-silent-things",
+        "num_pages": "159",
+        "format": "Hardcover",
+        "edition_information": "First Edition",
+        "publisher": "DAW Books",
+        "publication_day": "28",
+        "publication_year": "2014",
+        "publication_month": "10",
+        "average_rating": "3.91",
+        "ratings_count": "106631",
+        "description": "Deep below the University, there is a dark place. Few people know of it: a broken web of ancient passageways and abandoned rooms. A young woman lives there, tucked among the sprawling tunnels of the Underthing, snug in the heart of this forgotten place.<br /><br />Her name is Auri, and she is full of mysteries.<br /><br /><i>The Slow Regard of Silent Things</i> is a brief, bittersweet glimpse of Auri’s life, a small adventure all her own. At once joyous and haunting, this story offers a chance to see the world through Auri’s eyes. And it gives the reader a chance to learn things that only Auri knows...<br /><br />In this book, Patrick Rothfuss brings us into the world of one of <i>The Kingkiller Chronicle’s</i> most enigmatic characters. Full of secrets and mysteries, <i>The Slow Regard of Silent Things</i> is the story of a broken girl trying to live in a broken world.<br /><br /><br /><b>AUTHOR’S FOREWORD</b><br /> <br />You might not want to buy this book.<br /><br />I know, that’s not the sort of thing an author is supposed to say. The marketing people aren’t going to like this. My editor is going to have a fit. But I’d rather be honest with you right out of the gate.<br /><br />First, if you haven’t read my other books, you don’t want to start here.<br /><br />My first two books are <i>The Name of the Wind</i> and <i>The Wise Man’s Fear</i>. If you’re curious to try my writing, start there. They’re the best introduction to my world. This book deals with Auri, one of the characters from that series. Without the context of those books, you’re probably going to feel pretty lost.<br /><br />Second, even if you have read my other books, I think it’s only fair to warn you that this is a bit of a strange story. I don’t go in for spoilers, but suffice to say that this one is ... different. It doesn’t do a lot of the things a classic story is supposed to do. And if you’re looking for a continuation of Kvothe’s storyline, you’re not going to find it here.<br /><br />On the other hand, if you’d like to learn more about Auri, this story has a lot to offer. If you love words and mysteries and secrets. If you’re curious about the Underthing and alchemy. If you want to know more about the hidden turnings of my world...<br /><br />Well, then this book might be for you.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "40864254",
+          "uri": "kca://work/amzn1.gr.work.v1.etRxmYhEXbW3jWChD4Bt2g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7286699"
+        },
+        "isbn": "1596063130",
+        "isbn13": "9781596063136",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "642"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.1mjW3YW0f21T49Qnxq5bvA",
+        "title": "The Thing Beneath the Bed (The Adventures of the Princess and Mr. Whiffle #1)",
+        "title_without_series": "The Thing Beneath the Bed",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1261046207l/7286699._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1261046207l/7286699._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7286699-the-thing-beneath-the-bed",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.28",
+        "ratings_count": "6055",
+        "description": "This is not a book for children.<br /><br />It looks like a children's book. It has pictures. It has a saccharine-sweet title. The main characters are a little girl and her teddy bear. But all of that is just protective coloration. The truth is, this is a book for adults with a dark sense of humor and an appreciation of old-school faerie tales.<br /><br />There are three separate endings to the book. Depending on where you stop, you are left with an entirely different story. One ending is sweet, another is horrible. The last one is the true ending, the one with teeth in it.<br /><br />The Adventures of the Princess and Mr. Whiffle is a dark twist on the classic children's picture-book. I think of it as Calvin and Hobbes meets Coraline, with some Edward Gorey mixed in.<br /><br />Simply said: This is not a book for children.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "8538993",
+          "uri": "kca://work/amzn1.gr.work.v1.RFTWuZkVwbJOmz8BbL9lzQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "21032488"
+        },
+        "isbn": "0575081449",
+        "isbn13": "9780575081444",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "501"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.NRO1Ca4kpEiEf3uSq1OY1g",
+        "title": "Doors of Stone (The Kingkiller Chronicle, #3)",
+        "title_without_series": "Doors of Stone",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/21032488-doors-of-stone",
+        "num_pages": "896",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.78",
+        "ratings_count": "3422",
+        "description": "The eagerly awaited third book of The Kingkiller Chronicle.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "2502884",
+          "uri": "kca://work/amzn1.gr.work.v1.Wpu4irPlft6KegIUJPKDRg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12527544"
+        },
+        "isbn": "9895578490",
+        "isbn13": "9789895578498",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "35"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Gav-_j7u2SX7Y7CcfqaU7Q",
+        "title": "O Medo do Homem Sábio - Parte 1 (A Crónica do Regicida, Livro 2 - Parte 1)",
+        "title_without_series": "O Medo do Homem Sábio - Parte 1",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12527544-o-medo-do-homem-s-bio---parte-1",
+        "num_pages": "703",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Edições Asa",
+        "publication_day": "21",
+        "publication_year": "2011",
+        "publication_month": "9",
+        "average_rating": "4.53",
+        "ratings_count": "2689",
+        "description": "Agora em O Medo do Homem Sábio, Dia Dois das Crónicas do Regicida, uma rivalidade crescente com um membro da nobreza força Kvothe a deixar a Universidade e a procurar a fortuna longe. À deriva, sem um tostão e sozinho, viaja para Vintas, onde, rapidamente, se vê enredado nas intrigas políticas da corte. Enquanto tenta cair nas boas graças de um poderoso nobre, Kvothe descobre uma tentativa de assassínio, entra em confronto com um arcanista rival e lidera um grupo de mercenários, nas terras selvagens, para tentar descobrir quem ou o quê está a eliminar os viajantes na estrada do Rei.<br />Ao mesmo tempo, Kvothe procura respostas, na tentativa de descobrir a verdade sobre os misteriosos Amyr, os Chandrian e a morte da sua família. Ao longo do caminho Kvothe é levado a julgamento pelos lendários mercenários Adem, é forçado a defender a honra dos Edema Ruh e viaja até ao reino de Fae. Lá encontra Felurian, a mulher fae a que nenhum homem consegue resistir, e a quem nenhum homem sobreviveu… até aparecer Kvothe.<br />Em O Medo do Homem Sábio, Kvothe dá os primeiros passos no caminho do herói e aprende o quão difícil a vida pode ser quando um homem se torna uma lenda viva.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "48658825",
+          "uri": "kca://work/amzn1.gr.work.v1.TSmIqmTExPMxpJrSwOhP3Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12973980"
+        },
+        "isbn": "989557925X",
+        "isbn13": "9789895579259",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "29"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.xDDwV5eR-SdhWiz5ssLPFg",
+        "title": "O Medo do Homem Sábio - Parte 2 (A Crónica do Regicida, Livro 2 - Parte 2)",
+        "title_without_series": "O Medo do Homem Sábio - Parte 2",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12973980-o-medo-do-homem-s-bio---parte-2",
+        "num_pages": "684",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Edições Asa",
+        "publication_day": "28",
+        "publication_year": "2011",
+        "publication_month": "11",
+        "average_rating": "4.48",
+        "ratings_count": "2212",
+        "description": "Agora em O Medo do Homem Sábio, Dia Dois das Crónicas do Regicida, uma rivalidade crescente com um membro da nobreza força Kvothe a deixar a Universidade e a procurar a fortuna longe. À deriva, sem um tostão e sozinho, viaja para Vintas, onde, rapidamente, se vê enredado nas intrigas políticas da corte. Enquanto tenta cair nas boas graças de um poderoso nobre, Kvothe descobre uma tentativa de assassínio, entra em confronto com um arcanista rival e lidera um grupo de mercenários, nas terras selvagens, para tentar descobrir quem ou o quê está a eliminar os viajantes na estrada do Rei.<br />Ao mesmo tempo, Kvothe procura respostas, na tentativa de descobrir a verdade sobre os misteriosos Amyr, os Chandrian e a morte da sua família. Ao longo do caminho Kvothe é levado a julgamento pelos lendários mercenários Adem, é forçado a defender a honra dos Edema Ruh e viaja até ao reino de Fae. Lá encontra Felurian, a mulher fae a que nenhum homem consegue resistir, e a quem nenhum homem sobreviveu… até aparecer Kvothe.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "48658908",
+          "uri": "kca://work/amzn1.gr.work.v1.m6qZFlXXZnti9oMZlrC2Pg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "17848997"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9781596066205",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "131"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.rAuegmuK6QGVp1MpBMfyOA",
+        "title": "The Dark of Deep Below (The Adventures of the Princess and Mr. Whiffle #2)",
+        "title_without_series": "The Dark of Deep Below",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366882854l/17848997._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366882854l/17848997._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/17848997-the-dark-of-deep-below",
+        "num_pages": "232",
+        "format": "Hardcover",
+        "edition_information": "Signed, Limited Edition",
+        "publisher": "Subterranean Press",
+        "publication_day": "1",
+        "publication_year": "2013",
+        "publication_month": "11",
+        "average_rating": "4.32",
+        "ratings_count": "1484",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "24983011",
+          "uri": "kca://work/amzn1.gr.work.v1.cNUZyw9EYDebR2aNoV-3GQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "40630116"
+        },
+        "isbn": "1684054168",
+        "isbn13": "9781684054169",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "144"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.cjomIYJl_fGgFS447KwcEA",
+        "title": "Rick and Morty vs. Dungeons & Dragons",
+        "title_without_series": "Rick and Morty vs. Dungeons & Dragons",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548934373l/40630116._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548934373l/40630116._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/40630116-rick-and-morty-vs-dungeons-dragons",
+        "num_pages": "96",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "IDW Publishing",
+        "publication_day": "12",
+        "publication_year": "2019",
+        "publication_month": "3",
+        "average_rating": "4.17",
+        "ratings_count": "1251",
+        "description": "<b>You've got to--<i>belch!</i>--roll for initiative, Morty! </b><br /><br />Two pop-culture juggernauts are teaming up and neither multiverse is prepared for what comes next!<br /><br />When Morty sees a cute girl at school playing <i>Dungeons &amp; Dragons</i>, he asks Rick to show him the ropes, only to discover that his grandfather is a veteran gamer. Next thing he knows, the entire family has been pulled into a campaign that escalates from virtual <i>D&amp;D</i> simulations to alternate universes governed by the rules of the game. And as it turns out, Rick isn't the only one who knows his way around a d20.<br /><br />#1 <i>New York Times</i>-bestselling fantasy author Patrick Rothfuss (<i>The Name of the Wind</i>), acclaimed comics writer Jim Zub (<i>Dungeons &amp; Dragons: Evil at Baldur's Gate</i>, <i>Skullkickers</i>), and Eisner-nominated artist Troy Little (<i>Hunter S. Thompson's Fear and Loathing in Las Vegas</i>) bring you the comics crossover of the year! It's an irreverent, unexpected adventure sure to please fans of both franchises.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2019",
+        "work": {
+          "id": "63133640",
+          "uri": "kca://work/amzn1.gr.work.v1.tP7c0thXr8MEFD20xWQ0_A"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "45036807"
+        },
+        "isbn": "1401333235",
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "57"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.VGIn-WkPHoLElnfA8jkxdw",
+        "title": "The Lightning Tree",
+        "title_without_series": "The Lightning Tree",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555185239l/45036807._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555185239l/45036807._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/45036807-the-lightning-tree",
+        "num_pages": "76",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Gollancz",
+        "publication_day": "5",
+        "publication_year": "2011",
+        "publication_month": "1",
+        "average_rating": "4.11",
+        "ratings_count": "868",
+        "description": "<i>The Lightning Tree</i> is a companion short story in The Kingkiller Chronicle series. It was first published in the anthology <i>Rogues</i>.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "71433815",
+          "uri": "kca://work/amzn1.gr.work.v1.qEs521ZChX5qzCCcrBbITQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "40360406"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "32"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.iRC9JUTVprx9SiRvaWQzcA",
+        "title": "Rick and Morty vs. Dungeons & Dragons #1 (of 4)",
+        "title_without_series": "Rick and Morty vs. Dungeons & Dragons #1",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535555103l/40360406._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535555103l/40360406._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/40360406-rick-and-morty-vs-dungeons-dragons-1",
+        "num_pages": "34",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.23",
+        "ratings_count": "478",
+        "description": "When Morty needs to learn how to play D&amp;D to keep up with the cool kids, his hard-drinking, old school-gaming, mad science-making grandpa is happy to teach him how to roll the dice, but neither of them is prepared for the saving throws they’re about to fail or the true quest yet to come. Strap on a +1 longsword and grab your 10-foot pole, because this is going to be a gaming gauntlet like no other! The world’s greatest role-playing game. Reality’s most dysfunctional family. What could go wrong?",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "62638143",
+          "uri": "kca://work/amzn1.gr.work.v1.oxnQnDBsapfJPB6uaFChMA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6687286"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9788025700891",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "20"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.D1d2pNiGw5qiavJhcahdNg",
+        "title": "Jméno větru - kniha první (Kronika Královraha, #1)",
+        "title_without_series": "Jméno větru - kniha první",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6687286-jm-no-v-tru---kniha-prvn",
+        "num_pages": "328",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Argo",
+        "publication_day": {},
+        "publication_year": "2008",
+        "publication_month": {},
+        "average_rating": "4.22",
+        "ratings_count": "475",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "49755049",
+          "uri": "kca://work/amzn1.gr.work.v1.fHdcAeRurrW8MBlgyAzucA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "36498720"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "42"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.RsJJkPglrE9ERBPYjMktsQ",
+        "title": "How Old Holly Came to Be",
+        "title_without_series": "How Old Holly Came to Be",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517164741l/36498720._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517164741l/36498720._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/36498720-how-old-holly-came-to-be",
+        "num_pages": "11",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": "21",
+        "publication_year": "2013",
+        "publication_month": "6",
+        "average_rating": "3.29",
+        "ratings_count": "477",
+        "description": "<i>How Old Holly Came to Be</i> is a companion short story in The Kingkiller Chronicle series. It was first published on June 21, 2013 by Grim Oak Press in the anthology <i>Unfettered</i>.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2013",
+        "work": {
+          "id": "58214922",
+          "uri": "kca://work/amzn1.gr.work.v1.Td58RDj-ly9wKczGr7rvEA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6687299"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9788025700907",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "15"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.31O8qe2kvuu4s6PlbV4yHA",
+        "title": "Jméno větru - kniha druhá (Kronika Královraha, #1)",
+        "title_without_series": "Jméno větru - kniha druhá",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6687299-jm-no-v-tru---kniha-druh",
+        "num_pages": "328",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Argo",
+        "publication_day": {},
+        "publication_year": "2008",
+        "publication_month": {},
+        "average_rating": "4.38",
+        "ratings_count": "342",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "49755056",
+          "uri": "kca://work/amzn1.gr.work.v1.SHW97vd1qWPvAbhuLyJ3Hw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "41160884"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "12"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.p7HK9olCRHgHuH4WZ2q6Yw",
+        "title": "Rick and Morty vs. Dungeons & Dragons #2 (of 4)",
+        "title_without_series": "Rick and Morty vs. Dungeons & Dragons #2",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538498480l/41160884._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538498480l/41160884._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/41160884-rick-and-morty-vs-dungeons-dragons-2",
+        "num_pages": "32",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": "26",
+        "publication_year": "2018",
+        "publication_month": "9",
+        "average_rating": "4.20",
+        "ratings_count": "234",
+        "description": "Death, dice, and diabolical plans! Rick Sanchez has been power gaming since the ‘70s, but this time he may have finally met his match—his family. The world’s greatest role-playing game. Reality’s most dysfunctional animated series. What could go wrong?",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2018",
+        "work": {
+          "id": "64337294",
+          "uri": "kca://work/amzn1.gr.work.v1.8o7DcE68gD2hZC0gnl1IEA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "41570092"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "8"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.MuIglFs-cyUtoCngxL_8hg",
+        "title": "Rick and Morty vs. Dungeons & Dragons #3 (of 4)",
+        "title_without_series": "Rick and Morty vs. Dungeons & Dragons #3",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/41570092-rick-and-morty-vs-dungeons-dragons-3",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.28",
+        "ratings_count": "185",
+        "description": "A dimension where the Dungeons &amp; Dragons paradigms are real. The rules are absolute… or, at least, they were… until Rick and Morty make their mark. Get ready to plead the fifth (edition) in this unlawful, chaotically evil story of family friction and fantasy frolics. The world’s greatest roleplaying game. Reality’s most dysfunctional animated series. What could go wrong?",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "64875528",
+          "uri": "kca://work/amzn1.gr.work.v1.aARH1pp1SCNY1Sd05Lq15w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "37670856"
+        },
+        "isbn": "9123525843",
+        "isbn13": "9789123525843",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "6"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.VTENIm7IVUztNuhjToe2sg",
+        "title": "Kingkiller Chronicle Patrick Rothfuss Collection 3 Books Box Set -GiftBox",
+        "title_without_series": "Kingkiller Chronicle Patrick Rothfuss Collection 3 Books Box Set -GiftBox",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/37670856-kingkiller-chronicle-patrick-rothfuss-collection-3-books-box-set--giftbo",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.59",
+        "ratings_count": "157",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "59279775",
+          "uri": "kca://work/amzn1.gr.work.v1.4MxYWkiCRgMVP39cQBsNgQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "42290508"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "11"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.aCAX8i9ih1a7FeQrcOBZIw",
+        "title": "Rick and Morty vs. Dungeons & Dragons #4 (of 4)",
+        "title_without_series": "Rick and Morty vs. Dungeons & Dragons #4",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/42290508-rick-and-morty-vs-dungeons-dragons-4",
+        "num_pages": "37",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": "30",
+        "publication_year": "2019",
+        "publication_month": "1",
+        "average_rating": "4.32",
+        "ratings_count": "133",
+        "description": "Dungeons &amp; Morty &amp; Destruction &amp; Death &amp; Rick &amp; Swords &amp; Sassery &amp; Hashtag &amp; Ampersand &amp; It all ends here, people &amp; oh, yeah—Dragons.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2019",
+        "work": {
+          "id": "65932700",
+          "uri": "kca://work/amzn1.gr.work.v1.-dj4SVn7Zp4wadiU645SxQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "4596199"
+        },
+        "isbn": "8758808310",
+        "isbn13": "9788758808314",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.wV1G0j05kkLzlC283KNyGA",
+        "title": "Vindens navn (Kongedræberkrøniken, #1)",
+        "title_without_series": "Vindens navn",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/4596199-vindens-navn",
+        "num_pages": "382",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Tellerup",
+        "publication_day": {},
+        "publication_year": "2008",
+        "publication_month": {},
+        "average_rating": "4.53",
+        "ratings_count": "104",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "53643011",
+          "uri": "kca://work/amzn1.gr.work.v1.JptNKsR2PC6EObllmsn6aQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6286650"
+        },
+        "isbn": "8758808337",
+        "isbn13": "9788758808338",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.El2rBW79JQIRjhp1rNbVxw",
+        "title": "Dragedræberen (Kongedræberkrøniken, #2)",
+        "title_without_series": "Dragedræberen",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6286650-dragedr-beren",
+        "num_pages": "400",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tellerup",
+        "publication_day": {},
+        "publication_year": "2009",
+        "publication_month": "2",
+        "average_rating": "4.40",
+        "ratings_count": "70",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "61365174",
+          "uri": "kca://work/amzn1.gr.work.v1.JEskm8WKrJecYVtU-GxyEg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "186075"
+        },
+        "isbn": "0977480208",
+        "isbn13": "9780977480203",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "5"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.uBZ9LUsHGzeF2tc9c-fhHw",
+        "title": "Your Annotated, Illustrated College Survival Guide",
+        "title_without_series": "Your Annotated, Illustrated College Survival Guide",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1274336720l/186075._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1274336720l/186075._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/186075.Your_Annotated_Illustrated_College_Survival_Guide",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.18",
+        "ratings_count": "57",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "179869",
+          "uri": "kca://work/amzn1.gr.work.v1.KJNg5E4OtXMdsrUrElw4fw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "49927083"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9788415961611",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "5"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.7QtgE6Vyx6oRejDL",
+        "title": "La música del silenci",
+        "title_without_series": "La música del silenci",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/49927083-la-m-sica-del-silenci",
+        "num_pages": {},
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.68",
+        "ratings_count": "37",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "72231390",
+          "uri": "kca://work/amzn1.gr.work.v2.d3ac6b31-6254-428a-a490-8604dc94d92d"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "49129206"
+        },
+        "isbn": "9504966365",
+        "isbn13": "9789504966364",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.FCI6-jOs3XWwSwDn",
+        "title": "NOMBRE DEL VIENTO, EL",
+        "title_without_series": "NOMBRE DEL VIENTO, EL",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/49129206-nombre-del-viento-el",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.48",
+        "ratings_count": "27",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "74582694",
+          "uri": "kca://work/amzn1.gr.work.v3.J4p8z_pzCG1N6_Km"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12272732"
+        },
+        "isbn": "4861913942",
+        "isbn13": "9784861913945",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.zwgU1dyM3Lxw3RRrLCpVHg",
+        "title": "風の名前 : 中 [Kaze no namae chū]",
+        "title_without_series": "風の名前 : 中 [Kaze no namae chū]",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337041202l/12272732._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337041202l/12272732._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12272732",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "白夜書房",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.89",
+        "ratings_count": "18",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "24485120",
+          "uri": "kca://work/amzn1.gr.work.v1.2R-47iySirlsJBfS-xlGGw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6425837"
+        },
+        "isbn": "4861913934",
+        "isbn13": "9784861913938",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.kNdwkex1E8Iu4-9yAdz9Ug",
+        "title": "風の名前 : 上 [Kaze no namae jo]",
+        "title_without_series": "風の名前 : 上 [Kaze no namae jo]",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337040990l/6425837._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337040990l/6425837._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6425837",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "白夜書房",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.00",
+        "ratings_count": "13",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "24485122",
+          "uri": "kca://work/amzn1.gr.work.v1.wdttO4IWUVisajuMlfms0w"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "43200638"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1._hK-YELyNsxlSVbWoURtTg",
+        "title": "Rick and Morty vs. Dungeons & Dragons #1: Director's Cut",
+        "title_without_series": "Rick and Morty vs. Dungeons & Dragons #1: Director's Cut",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/43200638-rick-and-morty-vs-dungeons-dragons-1",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.00",
+        "ratings_count": "12",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "67034500",
+          "uri": "kca://work/amzn1.gr.work.v1.-FKcNPjg23uw8EHGrBBxUA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "38346936"
+        },
+        "isbn": "0692240276",
+        "isbn13": "9780692240274",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.M3bUrAD22UivAAb3CeRLNw",
+        "title": "The Princess and Mr Whiffle Coloring Book",
+        "title_without_series": "The Princess and Mr Whiffle Coloring Book",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517761330l/38346936._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517761330l/38346936._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/38346936-the-princess-and-mr-whiffle-coloring-book",
+        "num_pages": "39",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": {},
+        "publication_year": "2014",
+        "publication_month": {},
+        "average_rating": "3.33",
+        "ratings_count": "12",
+        "description": "2014 Worldbuilders. Paperback Book. A Collectible Art Folio.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "60009434",
+          "uri": "kca://work/amzn1.gr.work.v1.MgHv7pBDDUMYH8-D4SCYjg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "49619254"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.czAPPPr3R936twfK",
+        "title": "Le Nom du Vent",
+        "title_without_series": "Le Nom du Vent",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576940018l/49619254._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576940018l/49619254._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/49619254-le-nom-du-vent",
+        "num_pages": "832",
+        "format": "Hardcover",
+        "edition_information": "Anniversary Edition",
+        "publisher": "Bragelonne",
+        "publication_day": {},
+        "publication_year": "2019",
+        "publication_month": {},
+        "average_rating": "4.88",
+        "ratings_count": "8",
+        "description": "J’ai libéré des princesses. J’ai incendié la ville de Trebon. J’ai suivi des pistes au clair de lune que personne n’ose évoquer durant le jour. J’ai conversé avec des dieux, aimé des femmes et écrit des chansons qui font pleurer les ménestrels.<br />J’ai été exclu de l’Université à un âge où l’on est encore trop jeune pour y entrer. J’y étais allé pour apprendre la magie, celle dont on parle dans les histoires. Je voulais apprendre le nom du vent.<br />Mon nom est Kvothe.<br />Vous avez dû entendre parler de moi.<br /><br />Un homme prêt à mourir raconte sa propre vie, celle du plus grand magicien de tous les temps. Découvrez l’extraordinaire destin de Kvothe : magicien de génie, voleur accompli, musicien d’exception... infâme assassin. Découvrez la vérité qui a créé la légende.",
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": "2019",
+        "work": {
+          "id": "74844547",
+          "uri": "kca://work/amzn1.gr.work.v3.5W-78jbeB_pbDwcC"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "40783040"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.5fri8kBR-unGZg9qRrouFw",
+        "title": "O Medo do Homem Sábio - Parte I",
+        "title_without_series": "O Medo do Homem Sábio - Parte I",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/40783040-o-medo-do-homem-s-bio---parte-i",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.75",
+        "ratings_count": "8",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "63489441",
+          "uri": "kca://work/amzn1.gr.work.v1.Y-3fqNb5SLxdzBwEkuWEbg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "12272726"
+        },
+        "isbn": "4861913950",
+        "isbn13": "9784861913952",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.T11OfyKNu2Bg4Z4Ux_2PYA",
+        "title": "風の名前 : 下 [Kaze no namae ge]",
+        "title_without_series": "風の名前 : 下 [Kaze no namae ge]",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337041378l/12272726._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337041378l/12272726._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/12272726",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": "白夜書房",
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.00",
+        "ratings_count": "7",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "108424",
+            "name": "Patrick Rothfuss",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+            "average_rating": "4.47",
+            "ratings_count": "1219811",
+            "text_reviews_count": "75417"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "24485124",
+          "uri": "kca://work/amzn1.gr.work.v1.FKxDUBOw_XjpH_VCMW4TYA"
+        }
+      }
+    ]
+  }
+}

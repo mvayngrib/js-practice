@@ -1,0 +1,1648 @@
+{
+  "id": "130698",
+  "name": "Ted Chiang",
+  "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+  "books": {
+    "start": "1",
+    "end": "30",
+    "total": "93",
+    "book": [
+      {
+        "id": {
+          "type": "integer",
+          "$t": "223380"
+        },
+        "isbn": "0330426648",
+        "isbn13": "9780330426640",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "4090"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.6ROctfOV67ctZ-15jWtTcA",
+        "title": "Stories of Your Life and Others",
+        "title_without_series": "Stories of Your Life and Others",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others",
+        "num_pages": "281",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Small Beer Press",
+        "publication_day": "26",
+        "publication_year": "2010",
+        "publication_month": "10",
+        "average_rating": "4.26",
+        "ratings_count": "55108",
+        "description": "<div>Ted Chiang's first published story, \"<i>Tower of Babylon</i>,\" won the Nebula Award in 1990. Subsequent stories have won the Asimov's SF Magazine reader poll, a second Nebula Award, the Theodore Sturgeon Memorial Award, and the Sidewise Award for alternate history. He won the John W. Campbell Award for Best New Writer in 1992. Story for story, he is the most honored young writer in modern SF.<br /><br />Now, collected here for the first time are all seven of this extraordinary writer's stories so far-plus an eighth story written especially for this volume.<br /><br />What if men built a tower from Earth to Heaven-and broke through to Heaven's other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if there were a science of naming things that calls life into being from inanimate matter? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life . . . and others.<br /></div>",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "216334",
+          "uri": "kca://work/amzn1.gr.work.v1.dHeaGhYW6RR1vTm2KvbKfw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "41160292"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2310"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.rdRpMI_c2rg5WxzUEwp5Mw",
+        "title": "Exhalation: Stories",
+        "title_without_series": "Exhalation: Stories",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/41160292-exhalation",
+        "num_pages": "352",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.30",
+        "ratings_count": "21902",
+        "description": "<i>An alternate cover edition for this book can be found <a href=\"https://www.goodreads.com/book/show/46347126-exhalation\" rel=\"nofollow\">here.</a></i><br /><br /><b>From an award-winning science fiction writer (whose short story \"The Story of Your Life\" was the basis for the Academy Award-nominated movie <i>Arrival</i>), the long-awaited new collection of stunningly original, humane, and already celebrated short stories</b><br /><br /><br /><br />This much-anticipated second collection of stories is signature Ted Chiang, full of revelatory ideas and deeply sympathetic characters. In \"<a href=\"https://www.goodreads.com/book/show/223379.The_Merchant_and_the_Alchemist_s_Gate\" rel=\"nofollow\">\n  <i>The Merchant and the Alchemist's Gate</i>\n</a>,\" a portal through time forces a fabric seller in ancient Baghdad to grapple with past mistakes and the temptation of second chances. In the epistolary \"<a href=\"https://www.goodreads.com/book/show/48588075-exhalation\" rel=\"nofollow\">\n  <i>Exhalation</i>\n</a>,\" an alien scientist makes a shocking discovery with ramifications not just for his own people, but for all of reality. And in \"<a href=\"https://www.goodreads.com/book/show/7886338-the-lifecycle-of-software-objects\" rel=\"nofollow\">\n  <i>The Lifecycle of Software Objects</i>\n</a>,\" a woman cares for an artificial intelligence over twenty years, elevating a faddish digital pet into what might be a true living being. Also included are two brand-new stories: \"<a href=\"https://www.goodreads.com/book/show/53128694-omphalos\" rel=\"nofollow\">\n  <i>Omphalos</i>\n</a>\" and \"<a href=\"https://www.goodreads.com/book/show/53128611-anxiety-is-the-dizziness-of-freedom\" rel=\"nofollow\">\n  <i>Anxiety Is the Dizziness of Freedom</i>\n</a>.\"<br /><br />In this fantastical and elegant collection, Ted Chiang wrestles with the oldest questions on earth—What is the nature of the universe? What does it mean to be human?—and ones that no one else has even imagined. And, each in its own way, the stories prove that complex and thoughtful science fiction can rise to new heights of beauty, meaning, and compassion.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "64336454",
+          "uri": "kca://work/amzn1.gr.work.v1.-JHTggBT0WbSvFg-_7a1AA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "7886338"
+        },
+        "isbn": "1596063173",
+        "isbn13": "9781596063174",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "493"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.l4kQVT_55lvZ1xVzTKKfPw",
+        "title": "The Lifecycle of Software Objects",
+        "title_without_series": "The Lifecycle of Software Objects",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367177716l/7886338._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367177716l/7886338._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/7886338-the-lifecycle-of-software-objects",
+        "num_pages": "150",
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.92",
+        "ratings_count": "4582",
+        "description": "What's the best way to create artificial intelligence? In 1950, Alan Turing wrote, \"Many people think that a very abstract activity, like the playing of chess, would be best. It can also be maintained that it is best to provide the machine with the best sense organs that money can buy, and then teach it to understand and speak English. This process could follow the normal teaching of a child. Things would be pointed out and named, etc. Again I do not know what the right answer is, but I think both approaches should be tried.\"<p><br />The first approach has been tried many times in both science fiction and reality. In this new novella, at over 30,000 words, his longest work to date, Ted Chiang offers a detailed imagining of how the second approach might work within the contemporary landscape of startup companies, massively-multiplayer online gaming, and open-source software. It's a story of two people and the artificial intelligences they helped create, following them for more than a decade as they deal with the upgrades and obsolescence that are inevitable in the world of software. At the same time, it's an examination of the difference between processing power and intelligence, and of what it means to have a real relationship with an artificial entity.</p>",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "11102380",
+          "uri": "kca://work/amzn1.gr.work.v1.55aHg9sqInNz67PnTfEfHw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "223379"
+        },
+        "isbn": "1596061006",
+        "isbn13": "9781596061002",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "317"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.y8bKIMQQ3KL8UgVRWxcckA",
+        "title": "The Merchant and the Alchemist's Gate",
+        "title_without_series": "The Merchant and the Alchemist's Gate",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/223379.The_Merchant_and_the_Alchemist_s_Gate",
+        "num_pages": "60",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": "23",
+        "publication_year": "2007",
+        "publication_month": "7",
+        "average_rating": "4.31",
+        "ratings_count": "3191",
+        "description": "In medieval Baghdad, a penniless man is brought before the most powerful man in the world, the caliph himself, to tell his story. It begins with a walk in the bazaar, but soon grows into a tale unlike any other told in the caliph's empire. It's a story that includes not just buried treasure and a band of thieves, but also men haunted by their past and others trapped by their future; it includes not just a beloved wife and a veiled seductress, but also long journeys taken by caravan and even longer ones taken with a single step. Above all, it's a story about recognizing the will of Allah and accepting it, no matter what form it takes.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "216332",
+          "uri": "kca://work/amzn1.gr.work.v1.lUlMBY_OqAUoN0rRma7gog"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2246092"
+        },
+        "isbn": "1892391759",
+        "isbn13": "9781892391759",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "206"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.DAErOA3SfOA1wxTgH1m1_A",
+        "title": "Steampunk (Steampunk, #1)",
+        "title_without_series": "Steampunk",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517779165l/2246092._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517779165l/2246092._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2246092.Steampunk",
+        "num_pages": "373",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tachyon Publications",
+        "publication_day": "1",
+        "publication_year": "2008",
+        "publication_month": "5",
+        "average_rating": "3.53",
+        "ratings_count": "2149",
+        "description": "Replete with whimsical mechanical wonders and charmingly anachronistic settings, this pioneering anthology gathers a brilliant blend of fantastical stories. Steampunk originates in the romantic elegance of the Victorian era and blends in modern scientific advances—synthesizing imaginative technologies such as steam-driven robots, analog supercomputers, and ultramodern dirigibles. The elegant allure of this popular new genre is represented in this rich collection by distinctively talented authors, including:<br /><br />Content<br /><br />\"Introduction: The 19th Century Roots of Steampunk\" by Jess Nevins<br /><br />\"Benediction: Excerpt from The Warlord of the Air\" by Michael Moorcock<br />\"Lord Kelvin's Machine\" by James P. Blaylock<br />\"The Giving Mouth\" by Ian R. MacLeod <br />\"A Sun in the Attic\" by Mary Gentle <br />\"The God-Clown is Near\" by Jay Lake<br />\"The Steam Man of the Prairie and the Dark Rider Get Down: A Dime Novel\" by Joe R. Lansdale<br />\"The Selene Gardening Society\" by Molly Brown<br />\"Seventy-Two Letters\" by Ted Chiang<br />\"The Martian Agent, A Planetary Romance\" by Michael Chabon<br />\"Victoria\" by Paul Di Filippo<br />\"Reflected Light\" by Rachel E. Pollock<br />\"Minutes of the Last Meeting\" by Stepan Chapman<br />\"Excerpt from the Third and Last Volume of Tribes of the Pacific Coast\" by Neal Stephenson<br />\"The Steam-Driven Time Machine: A Pop Culture Survey\" by Rick Klaw<br />\"The Essential Sequential Steampunk: A Modest Survey of the Genre within the Comic Book Medium\" by Bill Baker<br /><br />",
+        "authors": {
+          "author": {
+            "id": "33919",
+            "name": "Jeff VanderMeer",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1522640540p5/33919.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1522640540p2/33919.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/33919.Jeff_VanderMeer",
+            "average_rating": "3.69",
+            "ratings_count": "319207",
+            "text_reviews_count": "36770"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "2251965",
+          "uri": "kca://work/amzn1.gr.work.v1.P2RtM1lyvrnx2C2mdSDfWg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "29864598"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "81"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.eeSrFQ-UKWCsvthCJRY8QQ",
+        "title": "Tower of Babylon",
+        "title_without_series": "Tower of Babylon",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/29864598-tower-of-babylon",
+        "num_pages": "39",
+        "format": {},
+        "edition_information": "A Vintage Short",
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.04",
+        "ratings_count": "1455",
+        "description": "A Vintage Shorts “Short Story Month” Selection<br />  <br /> Together with a crew of other miners and cart-pullers, Hillalum is recruited to climb the Tower of Babylon and unearth what lies beyond the vault of heaven. During his journey, Hillalum discovers entire civilizations of tower-dwellers on the tower—there are those who live inside the mists of clouds, those who raise their vegetables above the sun, and those who have spent their lives under the oppressive weight of an endless, white stratum at the top of the universe.<br />  <br /> “Tower of Babylon” is a rare gem—a winner of the prestigious Nebula award, the first story Ted Chiang ever published, and the brilliant opening piece to Chiang’s much-lauded first collection, <i>Stories of Your Life and Others</i>, which is soon to be a major motion picture starring Amy Adams. <br />  <br /> An eBook short.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "43241983",
+          "uri": "kca://work/amzn1.gr.work.v1.Cy_69DILb6RghjWs0syG2Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "6533485"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "94"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1._hsIilJfOuHAsXT-nmSqnw",
+        "title": "Hell is the Absence of God",
+        "title_without_series": "Hell is the Absence of God",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316789238l/6533485._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316789238l/6533485._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/6533485-hell-is-the-absence-of-god",
+        "num_pages": "1",
+        "format": "Audiobook",
+        "edition_information": {},
+        "publisher": "Escape Artists, Inc.",
+        "publication_day": "6",
+        "publication_year": "2009",
+        "publication_month": "2",
+        "average_rating": "4.02",
+        "ratings_count": "1207",
+        "description": "In a world much like our own, the existence of Heaven and Hell are objectively proven. Indeed, the souls in Hell can be seen, and angels occasionally come to Earth, typically causing a mixture of miraculous events and capricious disasters.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "3232084",
+          "uri": "kca://work/amzn1.gr.work.v1.ubWraE46FZaIXaQqxje-DA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "34593154"
+        },
+        "isbn": "159606837X",
+        "isbn13": "9781596068377",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "163"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.pM2BEPySKymi7_qwV7jmeA",
+        "title": "The Best of Subterranean",
+        "title_without_series": "The Best of Subterranean",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489832474l/34593154._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489832474l/34593154._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/34593154-the-best-of-subterranean",
+        "num_pages": "747",
+        "format": {},
+        "edition_information": {},
+        "publisher": "Subterranean Press",
+        "publication_day": "29",
+        "publication_year": "2017",
+        "publication_month": "6",
+        "average_rating": "4.22",
+        "ratings_count": "877",
+        "description": "From its launch in 2005 to its final issue in 2014, <i>Subterranean magazine</i> published stories by the leading lights of science fiction and fantasy literature. From Hugo and Nebula winners to Pulitzer and Booker Prize finalists to New York Times bestsellers, this anthology collects 30 pieces of Subterranean’s best, representing diverse, breathtaking short fiction from today’s modern masters.<br /><br />In “<i>Last Breath</i>” Joe Hill spins the tale of a man who collects the breaths of the dying for his haunting museum. Catherynne M. Valente’s “<i>White Lines on a Green Field</i>” chronicles what might happen if Coyote became a small town high school quarterback. Karen Joy Fowler’s “<i>Younger Women</i>” finds a woman confronting her daughter’s new boyfriend, who happens to be a vampire. Visit the Twilight Zone via George R.R. Martin in the script “<i>The Toys of Caliban</i>”. In Ted Chiang’s “<i>The Truth of Fact, the Truth of Feeling</i>” the narratives of a journalist and a young man are told in contrast, both impacted by technology and literacy. And in Kelley Armstrong’s “<i>The Screams of Dragons</i>” a boy is declared a changeling and things only get stranger from there. Other pieces visit far-flung space and intimate sick rooms, the futuristic pyramids of the rich and a jungle where a man-eating tiger stalks a village.<br /><br />Contents:<br />- <i>Perfidia</i> (2004) by Lewis Shiner<br />- <i>Game</i> (2012) by Maria Dahvana Headley<br />- <i>The Last Log of the Lachrimosa</i> (2014) by Alastair Reynolds<br />- <i>The Seventeenth Kind</i> (2007) by Michael Marshall Smith<br />- <i>Dispersed by the Sun, Melting in the Wind</i> (2007) by Rachel Swirsky<br />- <i>The Pile</i> (2008) by Michael Bishop<br />- <i>The Bohemian Astrobleme</i> (2010) by Kage Baker<br />- <i>Tanglefoot</i> (2008) by Cherie Priest<br />- <i>Hide and Horns</i> (2009) by Joe R. Lansdale<br />- <i>Balfour and Meriwether in The Vampire of Kabul</i> (2011) by Daniel Abraham<br />- <i>Last Breath</i> (2005) by Joe Hill<br />- <i>Younger Women</i> (2011) by Karen Joy Fowler<br />- <i>White Lines on a Green Field</i> (2011) by Catherynne M. Valente<br />- <i>The Least of the Deathly Arts</i> (2012) by Kat Howard<br />- <i>Water Can't Be Nervous</i> (2012) by Jonathan Carroll<br />- <i>Valley of the Girls</i> (2011) by Kelly Link<br />- <i>Sic Him, Hellhound! Kill! Kill!</i> (2012) by Hal Duncan<br />- <i>Troublesolving</i> (2009) by Tim Pratt<br />- <i>The Indelible Dark</i> (2013) by William Browning Spencer<br />- <i>The Prayer of Ninety Cats</i> (2013) by Caitlín R. Kiernan<br />- <i>The Crane Method</i> (2011) by Ian R. MacLeod<br />- <i>The Tomb of the Pontifex Dvorn</i> (2011) by Robert Silverberg<br />- <i>The Toys of Caliban (script)</i> (2005) by George R.R. Martin<br />- <i>The Secret History of the Lost Colony</i> (2008) by John Scalzi<br />- <i>The Screams of Dragons</i> (2014) by Kelley Armstrong<br />- <i>The Dry Spell</i> (2009) by James P. Blaylock<br />- <i>He Who Grew Up Reading Sherlock Holmes</i> (2014) by Harlan Ellison<br />- <i>A Small Price to Pay for Birdsong</i> (2011) by K.J. Parker<br />- <i>The Truth of Fact, the Truth of Feeling</i> (2013) by Ted Chiang<br />- <i>A Long Walk Home</i> (2011) by Jay Lake<br /><br />",
+        "authors": {
+          "author": {
+            "id": "1437335",
+            "name": "William Schafer",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "true",
+              "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+            },
+            "small_image_url": {
+              "nophoto": "true",
+              "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+            },
+            "link": "https://www.goodreads.com/author/show/1437335.William_Schafer",
+            "average_rating": "4.05",
+            "ratings_count": "2188",
+            "text_reviews_count": "377"
+          }
+        },
+        "published": "2017",
+        "work": {
+          "id": "26103616",
+          "uri": "kca://work/amzn1.gr.work.v1.nAG4GGlrOU9L7jL59DZFzg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "98045"
+        },
+        "isbn": "031233656X",
+        "isbn13": "9780312336561",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "62"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.C5dlLwLqXxLoBg9-W_nH1Q",
+        "title": "The Best of the Best: 20 Years of the Year's Best Science Fiction",
+        "title_without_series": "The Best of the Best: 20 Years of the Year's Best Science Fiction",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316637577l/98045._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316637577l/98045._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/98045.The_Best_of_the_Best",
+        "num_pages": "655",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "St. Martin's Griffin",
+        "publication_day": "1",
+        "publication_year": "2005",
+        "publication_month": "2",
+        "average_rating": "4.17",
+        "ratings_count": "779",
+        "description": "For years, The Year's Best Science Fiction has been the most widely read short science fiction anthology of its kind. Now, after twenty-one annual collections, comes the ultimate in science fiction anthologies, The Best of the Best: 20 Years of the Year's Best Science Fiction, in which legendary editor Gardner Dozois selects the very best short stories for this landmark collection. Contributors include: * Stephen Baxter * Greg Bear * William Gibson * Terry Bisson * Pat Cadigan * Ted Chiang * John Crowley * Tony Daniel * Greg Egan * Molly Gloss * Eileen Gunn * Joe Haldeman * James Patrick Kelly * John Kessel * Nancy Kress * Ursula K. Le Guin * Ian R. MacLeod * David Marusek * Paul McAuley * Ian McDonald * Maureen F. McHugh * Robert Reed * Mike Resnick * Geoff Ryman * William Sander * Lucius Shepard * Robert Silverberg * Brian Stableford * Bruce Sterling * Charles Stross * Michael Swanwick * Steven Utley * Howard Waldrop * Walter Jon Williams * Connie Willis * Gene Wolfe<br />With work spanning two decades, The Best of the Best stands as one of the ultimate science fiction anthologies ever published.<br /><br /><br />Contents <br />xi • Foreword (The Best of the Best: 20 Years of the Year's Best Science Fiction) • essay by Robert Silverberg<br />xvii • Preface (The Best of the Best: 20 Years of the Year's Best Science Fiction) • essay by Gardner Dozois<br />1 • Blood Music • (1983) • novelette by Greg Bear<br />19 • A Cabin on the Coast • (1984) • shortstory by Gene Wolfe<br />28 • Salvador • (1984) • shortstory by Lucius Shepard<br />42 • Trinity • (1984) • novella by Nancy Kress<br />78 • Flying Saucer Rock and Roll • (1985) • novelette by Howard Waldrop (aka Flying Saucer Rock &amp; Roll)<br />93 • Dinner in Audoghast • (1985) • shortstory by Bruce Sterling<br />103 • Roadside Rescue • (1985) • shortstory by Pat Cadigan<br />109 • Snow • (1985) • shortstory by John Crowley<br />121 • The Winter Market • (1985) • novelette by William Gibson<br />137 • The Pure Product • (1986) • novelette by John Kessel<br />152 • Stable Strategies for Middle Management • (1988) • shortstory by Eileen Gunn<br />162 • Kirinyaga • [Kirinyaga • 2] • (1988) • novelette by Mike Resnick<br />177 • Tales from the Venia Woods • [Roma Eterna] • (1989) • shortstory by Robert Silverberg<br />191 • Bears Discover Fire • (1990) • shortstory by Terry Bisson<br />199 • Even the Queen • (1992) • shortstory by Connie Willis<br />213 • Guest of Honor • (1993) • novelette by Robert Reed<br />238 • None So Blind • (1994) • shortstory by Joe Haldeman<br />246 • Mortimer Gray's History of Death • (1995) • novella by Brian Stableford (aka Mortimer Gray's \"History of Death\")<br />293 • The Lincoln Train • (1995) • shortstory by Maureen F. McHugh<br />303 • Wang's Carpets • (1995) • novelette by Greg Egan<br />328 • Coming of Age in Karhide • [Hainish] • (1995) • novelette by Ursula K. Le Guin<br />342 • The Dead • (1996) • shortstory by Michael Swanwick<br />352 • Recording Angel • (1996) • shortstory by Ian McDonald<br />363 • A Dry, Quiet War • (1996) • novelette by Tony Daniel<br />380 • The Undiscovered • (1997) • novelette by William Sanders<br />400 • Second Skin • (1997) • shortstory by Paul J. McAuley<br />418 • Story of Your Life • (1998) • novella by Ted Chiang<br />454 • People Came from Earth • (1999) • shortstory by Stephen Baxter<br />464 • The Wedding Album • [Cathy] • (1999) • novella by David Marusek<br />502 • 10 to 16 to 1 • (1999) • novelette by James Patrick Kelly (aka 1016 to 1)<br />520 • Daddy's World • (1999) • novelette by Walter Jon Williams<br />541 • The Real World • [Silurian Tales] • (2000) • shortstory by Steven Utley<br />561 • Have Not Have • (2001) • novelette by Geoff Ryman<br />577 • Lobsters • [Macx Family] • (2001) • novelette by Charles Stross<br />597 • Breathmoss • (2002) • novella by Ian R. MacLeod<br />647 • Lambing Season • (2002) • shortstory by Molly Gloss",
+        "authors": {
+          "author": {
+            "id": "12052",
+            "name": "Gardner Dozois",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247758142p5/12052.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247758142p2/12052.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/12052.Gardner_Dozois",
+            "average_rating": "3.80",
+            "ratings_count": "82205",
+            "text_reviews_count": "9379"
+          }
+        },
+        "published": "2005",
+        "work": {
+          "id": "94503",
+          "uri": "kca://work/amzn1.gr.work.v1.sZEk_EXm-gtVJVzsmIxxIw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "32605418"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "69"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.I-QPM5kSdp2Nsfd2ZIjQ4w",
+        "title": "The Great Silence",
+        "title_without_series": "The Great Silence",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/32605418-the-great-silence",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.15",
+        "ratings_count": "619",
+        "description": "\"Ted Chiang’s very short story, 'The Great Silence' adds another set of questions to the Fermi Paradox speculations. Why, he asks, are we so interested in finding intelligence in the stars and so deaf to the many species who manifest it here on earth? And also: why have we demanded that, as proof of intelligence, non-human animals communicate to us in human language, and then dismissed those creatures that actually do so?\" - Karen Joy Fowler <br /> <br />About the Author: Ted Chiang was born in Port Jefferson, New York, and holds a degree in computer science. In 1989 he attended the Clarion Science Fiction and Fantasy Writer’s Workshop. His fiction has won four Hugo, four Nebula, and four Locus awards, and he is the recipient of the John W. Campbell Award for Best New Writer and the Theodore Sturgeon Memorial Award. Stories of Your Life and Others has been translated into ten languages. He lives near Seattle, Washington. <br /> <br />About the Guest Editor: Karen Joy Fowler is the author of six novels and three short story collections. The Jane Austen Book Club spent thirteen weeks on the New York Times bestsellers list and was a New York Times Notable Book. Fowler’s previous novel, Sister Noon, was a finalist for the 2001 PEN/Faulkner Award for fiction. Her debut novel, Sarah Canary, was a New York Times Notable Book, as was her second novel, The Sweetheart Season. In addition, Sarah Canary won the Commonwealth medal for best first novel by a Californian, and was listed for the Irish Times International Fiction Prize as well as the Bay Area Book Reviewers Prize. Fowler’s short story collection Black Glass won the World Fantasy Award in 1999, and her collection What I Didn’t See won the World Fantasy Award in 2011. Fowler and her husband, who have two grown children and five grandchildren, live in Santa Cruz, California. <br /> <br />About the Publisher: Recommended Reading is the weekly fiction magazine of Electric Literature, publishing here every Wednesday morning. In addition to featuring our own recommendations of original, previously unpublished fiction, we invite established authors, indie presses, and literary magazines to recommend great work from their pages, past and present. Follow Recommended Reading on Medium and never miss the latest issue, or become a member for full access to the archives. For other links from Electric Literature, follow us, or sign up for our eNewsletter.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "47848795",
+          "uri": "kca://work/amzn1.gr.work.v1.gbiDvNjK8Ohnp3P5pdA1YQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9466840"
+        },
+        "isbn": "0062004751",
+        "isbn13": "9780062004758",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "80"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.iUalEnxyApvvMvWkOGnRgw",
+        "title": "The Thackery T. Lambshead Cabinet of Curiosities",
+        "title_without_series": "The Thackery T. Lambshead Cabinet of Curiosities",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327893048l/9466840._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327893048l/9466840._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9466840-the-thackery-t-lambshead-cabinet-of-curiosities",
+        "num_pages": "320",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Harper Voyager",
+        "publication_day": "12",
+        "publication_year": "2011",
+        "publication_month": "7",
+        "average_rating": "3.62",
+        "ratings_count": "662",
+        "description": "You’ll be astonished by what you’ll find in <em>The Thackery T. Lambshead Cabinet of Curiosities</em>. Editors Ann and Jeff Vandermeer have gathered together a spectacular array of exhibits, oddities, images, and stories by some of the most renowned and bestselling writers and artists in speculative and graphic fiction, including Ted Chiang, Mike Mignola (creator of <em>Hellboy</em>), China Miéville, and Michael Moorcock. A spectacularly illustrated anthology of Victorian steampunk devices and the stories behind them, <em>The Thackery T. Lambshead Cabinet of Curiosities</em> is a boldly original, enthrallingly imaginative, and endlessly entertaining entry into a hidden world of weird science and unnatural nature that will appeal equally to fantasy lovers and graphic novel aficionados.<br />",
+        "authors": {
+          "author": {
+            "id": "410598",
+            "name": "Ann VanderMeer",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1494889137p5/410598.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1494889137p2/410598.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/410598.Ann_VanderMeer",
+            "average_rating": "3.80",
+            "ratings_count": "11310",
+            "text_reviews_count": "1521"
+          }
+        },
+        "published": "2011",
+        "work": {
+          "id": "14351889",
+          "uri": "kca://work/amzn1.gr.work.v1.LeUPpczHvCyPRgCMgIKtBQ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "612435"
+        },
+        "isbn": "031287636X",
+        "isbn13": "9780312876364",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "33"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.2fxX5n_EtQ4Mv0H5QOFzIQ",
+        "title": "The Hard SF Renaissance",
+        "title_without_series": "The Hard SF Renaissance",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/612435.The_Hard_SF_Renaissance",
+        "num_pages": "960",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Orb Books",
+        "publication_day": "1",
+        "publication_year": "2003",
+        "publication_month": "10",
+        "average_rating": "4.11",
+        "ratings_count": "541",
+        "description": "Something exciting has been happening in modern SF. After decades of confusion, many of the field's best writers have been returning to the subgenre called, roughly, \"hard SF\" - science fiction focused on science and technology, often with strong adventure plots. Now, World Fantasy Award-winning editors David G. Hartwell and Kathryn Cramer present an immense, authoritative anthology that maps the development and modern-day resurgence of this form, argues for its special virtues and present preeminence - and entertains us with some spectacular storytelling along the way. <br />Included are major stories by contemporary and classic names such as Poul Anderson, Stephen Baxter, Gregory Benford, Ben Bova, David Brin, Arthur C. Clarke, Hal Clement, Greg Egan, Joe Haldeman, Nancy Kress, Paul McAuley, Frederik Pohl, Alastair Reynolds, Kim Stanley Robinson, Robert J. Sawyer, Karl Schroeder, Charles Sheffield, Brian Stableford, Allen Steele, Bruce Sterling, Michael Swanwick, and Vernor Vinge. <br />\"The Hard SF Renaissance\" will be an anthology that SF readers return to for years to come.<br /><br />Contents:<br />Gene Wars (1991) by Paul J. McAuley<br />Wang's Carpets (1995) by Greg Egan<br />Genesis (1995) by Poul Anderson<br />Arthur Sternbach Brings the Curveball to Mars (1999) by Kim Stanley Robinson<br />On the Orion Line (2000) by Stephen Baxter<br />Beggars in Spain (1991) by Nancy Kress<br />Matter's End (1989) by Gregory Benford<br />The Hammer of God (1992) by Arthur C. Clarke<br />Think Like a Dinosaur (1995) by James Patrick Kelly<br />Mount Olympus (1999) by Ben Bova<br />Marrow (1997) by Robert Reed<br />Microbe (1995) by Joan Slonczewski<br />The Lady Vanishes (1996) by Charles Sheffield<br />Bicycle Repairman (1996) by Bruce Sterling<br />An Ever-Reddening Glow (1996) by David Brin<br />Sexual Dimorphism (1999) by Kim Stanley Robinson<br />Into the Miranda Rift (1993) by G. David Nordley<br />The Shoulders of Giants (2000) by Robert J. Sawyer<br />A Walk in the Sun (1991) by Geoffrey A. Landis<br />For White Hill (1995) by Joe Haldeman<br />A Career in Sexual Chemistry (1987) by Brian Stableford<br />Reef (2000) by Paul J. McAuley<br />Exchange Rate (1999) by Hal Clement<br />Reasons to Be Cheerful (1997) by Greg Egan<br />Griffin's Egg (1991) by Michael Swanwick<br />Great Wall of Mars (2000) by Alastair Reynolds<br />A Niche (1990) by Peter Watts<br />Gossamer (1995) by Stephen Baxter<br />Madam Butterfly (1997) by James P. Hogan<br />Understand (1991) by Ted Chiang<br />Halo (1996) by Karl Schroeder<br />Different Kinds of Darkness (2000) by David Langford<br />Fast Times at Fairmont High (2001) by Vernor Vinge<br />Reality Check (2000) by David Brin<br />The Mendelian Lamp Case (1997) by Paul Levinson<br />Kinds of Strangers (1999) by Sarah Zettel<br />The Good Rat (1995) by Allen Steele<br />Built upon the Sands of Time (2000) by Michael F. Flynn<br />Taklamakan (1998) by Bruce Sterling<br />Hatching the Phoenix (1999) by Frederik Pohl<br />Immersion (1996) by Gregory Benford",
+        "authors": {
+          "author": {
+            "id": "13390",
+            "name": "David G. Hartwell",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247584058p5/13390.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247584058p2/13390.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/13390.David_G_Hartwell",
+            "average_rating": "3.91",
+            "ratings_count": "11435",
+            "text_reviews_count": "1172"
+          }
+        },
+        "published": "2003",
+        "work": {
+          "id": "1784675",
+          "uri": "kca://work/amzn1.gr.work.v1.Rfi3ORYuAlKC-Fci8Sda5Q"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "424609"
+        },
+        "isbn": "189239135X",
+        "isbn13": "9781892391353",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "76"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.uI-sq-RFRLcsPRhKVpbO9Q",
+        "title": "Feeling Very Strange: The Slipstream Anthology",
+        "title_without_series": "Feeling Very Strange: The Slipstream Anthology",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500262655l/424609._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500262655l/424609._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/424609.Feeling_Very_Strange",
+        "num_pages": "320",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tachyon Publications",
+        "publication_day": "1",
+        "publication_year": "2006",
+        "publication_month": "6",
+        "average_rating": "3.79",
+        "ratings_count": "561",
+        "description": "If it is true that the test of a first-rate mind is its ability to hold two contradictory ideas at the same time, then we live in a century when it takes a first-rate mind just to get through the day. We have unprecedented access to information; cognitive dissonance is a banner headline in our morning papers and radiates silently from our computer screens. Slipstream, poised between literature and popular culture, embraces the dissonance. <br /><br />These ambitious stories of visionary strangeness defy the conventions of science fiction. Tales by Michael Chabon, Karen Joy Fowler, Jonathan Lethem, Carol Emshwiller, George Saunders, and others pull the reader into a vivid dreamspace and embrace the knowledge that life today is increasingly surreal. <br /><br />Contents<br /><br />Introduction by John Kessel and Jim Patrick Kelly<br /><br />\"Al\" by Carol Emshwiller <br />\"The Little Magic Shop\" by Bruce Sterling <br />\"The Healer\" by Aimee Bender <br />\"The Specialist's Hat\" by Kelly Link <br />\"Light and the Sufferer\" by Jonathan Lethem <br />\"Sea Oak\" by George Saunders <br />\"Exhibit H: Torn Pages Discovered in the Vest Pocket of an Unidentified Tourist\" by Jeff VanderMeer <br />\"Hell is the Absence of God\" by Ted Chiang <br />\"Lieserl\" by Karen Joy Fowler <br />\"Bright Morning\" by Jeffrey Ford <br />Biographical Notes to \"A Discourse on the Nature of Causality, with Air-planes\" by Benjamin Rosenbaum <br />\"The God of Dark Laughter\" by Michael Chabon <br />\"The Rose in Twelve Petals\" by Theodora Goss <br />\"The Lions Are Asleep This Night\" by Howard Waldrop <br />\"You Have Never Been Here\" by M. Rickert <br />\"I Want My 20th-Century Schizoid Art\" I-IV (various contributors)<br /><br />",
+        "authors": {
+          "author": {
+            "id": "73418",
+            "name": "James Patrick Kelly",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "true",
+              "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+            },
+            "small_image_url": {
+              "nophoto": "true",
+              "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+            },
+            "link": "https://www.goodreads.com/author/show/73418.James_Patrick_Kelly",
+            "average_rating": "3.87",
+            "ratings_count": "28136",
+            "text_reviews_count": "2740"
+          }
+        },
+        "published": "2006",
+        "work": {
+          "id": "413701",
+          "uri": "kca://work/amzn1.gr.work.v1.iuFEh8RxJ4paO9lI7iAuFg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "28114552"
+        },
+        "isbn": "0544555201",
+        "isbn13": "9780544555204",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "114"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.H9D01OQLwh5BGp7SgS0QSw",
+        "title": "The Best American Science Fiction and Fantasy, 2016",
+        "title_without_series": "The Best American Science Fiction and Fantasy, 2016",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455172130l/28114552._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455172130l/28114552._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/28114552-the-best-american-science-fiction-and-fantasy-2016",
+        "num_pages": "293",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Mariner Books",
+        "publication_day": "4",
+        "publication_year": "2016",
+        "publication_month": "10",
+        "average_rating": "3.60",
+        "ratings_count": "575",
+        "description": "From quiet, elegiac, contemporary tales to far-future, deep-space sagas, the stories chosen by series editor John Joseph Adams and guest editor Karen Joy Fowler for <i>The</i> <i>Best American Science Fiction and Fantasy 2016 </i>demonstrate the vast spectrum of what science fiction and fantasy aims to illuminate, displaying the full gamut of the human experience, interrogating our hopes and our fears—of not just what we can accomplish or destroy <i>as a person</i>, but what we can accomplish or destroy <i>as a people</i>—and throwing us into strange new worlds that can only be explored when we shed the shackles of reality.<br /><br /><i>The Best American Science Fiction and Fantasy 2016 </i>includes Rachel Swirsky, Sofia Samatar, Charlie Jane Anders, Ted Chiang, Kelly Link, Maria Dahvana Headley, Kij Johnson, Catherynne M. Valente, Dexter Palmer<i> and others</i><br /> <br />KAREN JOY FOWLER, guest editor, is the author of six novels and four short story collections, including <i>We Are All Completely Beside Ourselves</i>. She is the winner of the 2014 PEN/Faulkner Award, a finalist for the Man Booker Prize, and has won numerous Nebula and World Fantasy awards.<br /> <br />JOHN JOSEPH ADAMS, series editor, is the best-selling editor of more than two dozen anthologies, including <i>Brave New Worlds</i> and <i>Wastelands</i>. He is the editor and publisher of the digital magazines <i>Lightspeed </i>and <i>Nightmare</i> and is the editor of John Joseph Adams Books, a new science fiction/fantasy novel imprint from Houghton Mifflin Harcourt.<br /><br />Table of Contents:<br />\"Meet Me in Iram\" by Sofia Samatar<br />\"The Game of Smash and Recovery\" by Kelly Link<br />\"Interesting Facts\" by Adam Johnson<br />\"Planet Lion\" by Catherynne M. Valente<br />\"The Apartment Dweller’s Bestiary\" by Kij Johnson<br />\"By Degrees and Dilatory Time\" by S.L. Huang<br />\"The Mushroom Queen\" by Liz Ziemska<br />\"The Daydreamer by Proxy\" by Dexter Palmer<br />\"Tea Time\" by Rachel Swirsky<br />\"Headshot\" by Julian Mortimer Smith<br />\"The Duniazát\" by Salman Rushdie<br />\"No Placeholder for You, My Love\" by Nick Wolven<br />\"The Thirteen Mercies\" by Maria Dahvana Headley<br />\"Lightning Jack’s Last Ride\" by Dale Bailey<br />\"Things You Can Buy for a Penny\" by Will Kaufman<br />\"Rat Catcher’s Yellows\" by Charlie Jane Anders<br />\"The Heat of Us: Notes Toward an Oral History\" by Sam J. Miller<br />\"Three Bodies at Mitanni\" by Seth Dickinson<br />\"Ambiguity Machines: an Examination\" by Vandana Singh<br />\"The Great Silence\" by Ted Chiang",
+        "authors": {
+          "author": {
+            "id": "1161372",
+            "name": "John Joseph Adams",
+            "role": "Series Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p5/1161372.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p2/1161372.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1161372.John_Joseph_Adams",
+            "average_rating": "3.95",
+            "ratings_count": "73885",
+            "text_reviews_count": "6607"
+          }
+        },
+        "published": "2016",
+        "work": {
+          "id": "48123854",
+          "uri": "kca://work/amzn1.gr.work.v1.eT-BH9917cdlkTvBdu_3Sg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "132521"
+        },
+        "isbn": "0312869614",
+        "isbn13": "9780312869618",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "32"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.6LoffjAQ6-umdy1QW_pk_A",
+        "title": "Vanishing Acts: A Science Fiction Anthology",
+        "title_without_series": "Vanishing Acts: A Science Fiction Anthology",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311999772l/132521._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311999772l/132521._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/132521.Vanishing_Acts",
+        "num_pages": "384",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Tor Books",
+        "publication_day": "6",
+        "publication_year": "2001",
+        "publication_month": "7",
+        "average_rating": "3.76",
+        "ratings_count": "504",
+        "description": "Assembles a collection of original science fiction stories that explore the idea of endangered species--interpreted in some cases to include the human race--by award-winning science fiction authors, including Ted Chiang.",
+        "authors": {
+          "author": {
+            "id": "46138",
+            "name": "Ellen Datlow",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1309669102p5/46138.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1309669102p2/46138.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/46138.Ellen_Datlow",
+            "average_rating": "3.82",
+            "ratings_count": "60224",
+            "text_reviews_count": "5658"
+          }
+        },
+        "published": "2001",
+        "work": {
+          "id": "40333802",
+          "uri": "kca://work/amzn1.gr.work.v1.sJ2NNHq2FRnxLBRViurWcA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2628017"
+        },
+        "isbn": "0312378602",
+        "isbn13": "9780312378608",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "47"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.nzMXBMmwjznrPJDVPO9elg",
+        "title": "The Year's Best Science Fiction: Twenty-Fifth Annual Collection",
+        "title_without_series": "The Year's Best Science Fiction: Twenty-Fifth Annual Collection",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2628017-the-year-s-best-science-fiction",
+        "num_pages": "652",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "St. Martins Press",
+        "publication_day": "8",
+        "publication_year": "2008",
+        "publication_month": "7",
+        "average_rating": "3.97",
+        "ratings_count": "469",
+        "description": "In the new millennium, what secrets lay beyond the far reaches of the universe? What mysteries belie the truths we once held to be self evident?  The world of science fiction has long been a porthole into the realities of tomorrow blurring the line between life and art. Now, in <i>The Year’s Best Science Fiction Twenty-Fifth Annual Collection</i> the very best SF authors explore ideas of a new world.<br />This venerable collection brings together award winning authors and masters of the field such as Robert Reed, Ian McDonald, Stephen Baxter, Michael Swanwick, Paolo Bacigalupi, Kage Baker, Walter Jon Williams, Alastair Reynolds, and Charles Stross . And with an extensive recommended reading guide and a summation of the year in science fiction, this annual compilation has become the definitive must read anthology for all science fiction fans and readers interested in breaking into the genre.<br /><br />Contents<br />xiii • Summation: 2007 • essay by Gardner Dozois<br />1 • Finisterra • (2007) • novelette by David Moles<br />26 • Lighting Out • (2007) • shortstory by Ken MacLeod<br />41 • An Ocean Is a Snowflake, Four Billion Miles Away • (2007) • novelette by John Barnes<br />62 • Saving Tiamaat • (2007) • shortstory by Gwyneth Jones<br />76 • Of Late I Dreamt of Venus • (2007) • shortfiction by James Van Pelt<br />90 • Verthandi's Ring • (2007) • shortstory by Ian McDonald<br />101 • Sea Change • (2007) • shortstory by Una McCormack<br />110 • The Sky Is Large and the Earth Is Small • [Celestial Empire] • (2007) • novelette by Chris Roberson<br />130 • Glory • (2007) • novelette by Greg Egan<br />150 • Against the Current • (2007) • shortstory by Robert Silverberg<br />164 • Alien Archeology • [Polity Universe] • (2007) • novella by Neal Asher (aka Alien Archaeology)<br />202 • The Merchant and the Alchemist's Gate • (2007) • novelette by Ted Chiang<br />221 • Beyond the Wall • (2007) • shortfiction by Justin Stanchfield<br />237 • Kiosk • (2007) • novelette by Bruce Sterling<br />270 • Last Contact • (2007) • shortstory by Stephen Baxter<br />280 • The Sledge-Maker's Daughter • (2007) • shortstory by Alastair Reynolds<br />297 • Sanjeev and Robotwallah • [India 2047] • (2007) • shortstory by Ian McDonald<br />309 • The Skysailor's Tale • (2007) • novelette by Michael Swanwick<br />332 • Of Love and Other Monsters • (2007) • novella by Vandana Singh<br />367 • Steve Fever • (2007) • shortstory by Greg Egan<br />379 • Hellfire at Twilight • [Company] • (2007) • novelette by Kage Baker<br />411 • The Immortals of Atlantis • (2007) • shortstory by Brian Stableford<br />420 • Nothing Personal • (2007) • novella by Pat Cadigan<br />452 • Tideline • (2007) • shortstory by Elizabeth Bear<br />461 • The Accord • (2007) • novelette by Keith Brooke<br />480 • Laws of Survival • (2007) • novelette by Nancy Kress<br />505 • The Mists of Time • (2007) • novelette by Tom Purdom<br />533 • Craters • (2007) • shortstory by Kristine Kathryn Rusch<br />548 • The Prophet of Flores • (2007) • novelette by Ted Kosmatka<br />570 • Stray • (2007) • shortstory by David Ackert and Benjamin Rosenbaum<br />579 • Roxie • (2007) • shortstory by Robert Reed<br />595 • Dark Heaven • (2007) • novella by Gregory Benford<br />643 • Honorable Mentions: 2007 • essay by Gardner Dozois",
+        "authors": {
+          "author": {
+            "id": "12052",
+            "name": "Gardner Dozois",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247758142p5/12052.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247758142p2/12052.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/12052.Gardner_Dozois",
+            "average_rating": "3.80",
+            "ratings_count": "82205",
+            "text_reviews_count": "9379"
+          }
+        },
+        "published": "2008",
+        "work": {
+          "id": "3461675",
+          "uri": "kca://work/amzn1.gr.work.v1.WOJM5jti0uNHrnQbRIwAiw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "2271206"
+        },
+        "isbn": "0141188928",
+        "isbn13": "9780141188928",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "19"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.ESB-J0hNqt08K2Z8487HKA",
+        "title": "A Science Fiction Omnibus",
+        "title_without_series": "A Science Fiction Omnibus",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458081817l/2271206._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458081817l/2271206._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/2271206.A_Science_Fiction_Omnibus",
+        "num_pages": "592",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Penguin Classics",
+        "publication_day": "29",
+        "publication_year": "2007",
+        "publication_month": "11",
+        "average_rating": "4.03",
+        "ratings_count": "446",
+        "description": "This new edition of Brian Aldiss' classic anthology brings together a diverse selection of science fiction spanning over sixty years, from Isaac Asimov's \"Nightfall\", first published in 1941, to the 2006 story \"Friends in Need\" by Eliza Blair. Including authors such as Clifford Simak, Harry Harrison, Bruce Sterling, A. E. Van Vogt and Brian Aldiss himself, these stories portray struggles against machines, epic journeys, genetic experiments, time travellers and alien races. From stories set on Earth, to uncanny far distant worlds and ancient burnt-out suns, the one constant is humanity itself, compelled by an often fatal curiosity to explore the boundless frontiers of time, space and probability.<br /><br />Thirty short stories and a novella, first published in Penguin Modern Classics November 2007 with a cover illustration by Jim Burns. The new stories are:<br /><br />• James Tiptree, Jr : And I Awoke and Found Me Here on the Cold Hill's Side<br />• Bruce Sterling : Swarm<br />• Greg Bear : Blood Music<br />• Fredric Brown : Answer<br />• Kim Stanley Robinson : Sexual Dimorphism<br />• Eliza Blair : Friends in Need<br />• James Inglis : Night Watch<br />• Ted Chiang : Story of Your Life<br />• Garry Kilworth : Alien Embassy<br />• John Crowley : Great Work of Time",
+        "authors": {
+          "author": {
+            "id": "33297",
+            "name": "Brian W. Aldiss",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1333457329p5/33297.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1333457329p2/33297.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/33297.Brian_W_Aldiss",
+            "average_rating": "3.88",
+            "ratings_count": "187593",
+            "text_reviews_count": "7579"
+          }
+        },
+        "published": "2007",
+        "work": {
+          "id": "888166",
+          "uri": "kca://work/amzn1.gr.work.v1.caLVIHQ-7hgC0CJ94tYdDw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "377313"
+        },
+        "isbn": "1933771348",
+        "isbn13": "9781933771342",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "10"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.wDVPR5wSHbnXUQYg__B4rw",
+        "title": "Mind-Rain: Your Favorite Authors on Scott Westerfeld's Uglies Series",
+        "title_without_series": "Mind-Rain: Your Favorite Authors on Scott Westerfeld's Uglies Series",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329031618l/377313._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329031618l/377313._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/377313.Mind_Rain",
+        "num_pages": "236",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "Smart Pop",
+        "publication_day": "2",
+        "publication_year": "2009",
+        "publication_month": "6",
+        "average_rating": "3.70",
+        "ratings_count": "423",
+        "description": "Why is Shay the real hero of the Uglies series? Who was the better boyfriend for Tally: David or Zane? How can we prevent prettyheaded behavior in our own world?<br /><br />In <i>Extras</i>, the last book in Scott Westerfeld’s Uglies series, Aya tells us that when Tally Youngblood made the mind-rain fall, it cured all the pretties and changed the world forever. But Tally and her friends did more than change their world; they changed ours too.<br /><br /><i>Mind-Rain</i> continues what Tally started, with startling, funny and insightful essays on the world, characters and ideas of the Uglies series, plus the short story that inspired Westerfeld to write the books in the first place.<br /><br />Think you know everything about Tally’s world? After <i>Mind-Rain</i>, you’ll never look at the Uglies series the same way again.<br />",
+        "authors": {
+          "author": {
+            "id": "13957",
+            "name": "Scott Westerfeld",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1535403091p5/13957.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1535403091p2/13957.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/13957.Scott_Westerfeld",
+            "average_rating": "3.84",
+            "ratings_count": "1399399",
+            "text_reviews_count": "80039"
+          }
+        },
+        "published": "2009",
+        "work": {
+          "id": "6644746",
+          "uri": "kca://work/amzn1.gr.work.v1.ZCmkzyzhBv5laEkMOtNlGg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "410115"
+        },
+        "isbn": "0312204450",
+        "isbn13": "9780312204457",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "11"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.JcM0uRz6nxXUy56X9zSHsA",
+        "title": "The Year's Best Science Fiction: Sixteenth Annual Collection",
+        "title_without_series": "The Year's Best Science Fiction: Sixteenth Annual Collection",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311995641l/410115._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311995641l/410115._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/410115.The_Year_s_Best_Science_Fiction",
+        "num_pages": "609",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": "St. Martins Griffin",
+        "publication_day": "25",
+        "publication_year": "1999",
+        "publication_month": "6",
+        "average_rating": "3.97",
+        "ratings_count": "266",
+        "description": "The past through tomorrow are boldly imagined and reinvented in the twenty-five stories collected in this showcase anthology. Many of the field's finest practitioners are represented here, along with stories from promising newcomers, including:<br />William Barton * Rob Chilson * Tony Daniel * Cory Doctorow * Jim Grimsley * Gwyneth Jones * Chris Lawson * Ian McDonald * Robert Reed * William Browning Spencer * Allen Steele * Michael Swanwick * Howard Waldrop * Cherry Wilder * Liz Williams <br /><br />A useful list of honorable mentions and Dozois's insightful summation of the year in sf round out this anthology, making it indispensable for anyone interested in SF today.<br /><br /><br />Contents <br />xi • Summation: 1998 • essay by Gardner Dozois<br />1 • Oceanic • (1998) • novella by Greg Egan<br />37 • Approaching Perimelasma • (1998) • novelette by Geoffrey A. Landis<br />56 • Craphound • (1998) • shortstory by Cory Doctorow<br />72 • Jedella Ghost • (1998) • shortstory by Tanith Lee<br />87 • Taklamakan • [Chattanooga] • (1998) • novelette by Bruce Sterling<br />118 • The Island of the Immortals • (1998) • shortstory by Ursula K. Le Guin<br />126 • Sea Change, with Monsters • (1998) • novella by Paul J. McAuley<br />161 • Divided by Infinity • (1998) • novelette by Robert Charles Wilson<br />181 • US • (1998) • shortstory by Howard Waldrop<br />191 • The Days of Solomon Gursky • (1998) • novella by Ian McDonald<br />234 • The Cuckoo's Boys • (1998) • novella by Robert Reed<br />277 • The Halfway House at the Heart of Darkness • (1998) • shortstory by William Browning Spencer<br />289 • The Very Pulse of the Machine • (1998) • novelette by Michael Swanwick<br />304 • Story of Your Life • (1998) • novella by Ted Chiang<br />339 • Voivodoi • (1998) • shortstory by Liz Williams<br />349 • Saddlepoint: Roughneck • [Saddle Point • 4] • (1998) • novella by Stephen Baxter<br />393 • This Side of Independence • (1998) • shortstory by Rob Chilson<br />404 • Unborn Again • (1998) • shortstory by Chris Lawson<br />416 • Grist • (1998) • novella by Tony Daniel<br />462 • La Cenerentola • (1998) • shortstory by Gwyneth Jones<br />476 • Down in the Dark • (1998) • novelette by William Barton<br />510 • Free in Asveroth • (1998) • shortstory by Jim Grimsley<br />524 • The Dancing Floor • (1998) • novelette by Cherry Wilder<br />544 • The Summer Isles • (1998) • novella by Ian R. MacLeod<br />603 • Honorable Mentions: 1998 • essay by Gardner Dozois",
+        "authors": {
+          "author": {
+            "id": "12052",
+            "name": "Gardner Dozois",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247758142p5/12052.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1247758142p2/12052.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/12052.Gardner_Dozois",
+            "average_rating": "3.80",
+            "ratings_count": "82205",
+            "text_reviews_count": "9379"
+          }
+        },
+        "published": "1999",
+        "work": {
+          "id": "3051069",
+          "uri": "kca://work/amzn1.gr.work.v1.QCioMcCB_EyC8UrcPcNVUg"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "23246708"
+        },
+        "isbn": "9659202954",
+        "isbn13": "9789659202959",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "16"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.4hH_BXUkqNaTusrXtWxpgg",
+        "title": "נשיפה",
+        "title_without_series": "נשיפה",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410988105l/23246708._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410988105l/23246708._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/23246708",
+        "num_pages": "12",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tera Books Publishing House",
+        "publication_day": "17",
+        "publication_year": "2014",
+        "publication_month": "9",
+        "average_rating": "4.31",
+        "ratings_count": "168",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "75615285",
+          "uri": "kca://work/amzn1.gr.work.v3.Br_-3Ebk4vIbabkM"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "21825485"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "49"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.k8TqG0XRoBy4u_0lAGQwJA",
+        "title": "Lightspeed Magazine, April 2014",
+        "title_without_series": "Lightspeed Magazine, April 2014",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396384709l/21825485._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396384709l/21825485._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/21825485-lightspeed-magazine-april-2014",
+        "num_pages": "267",
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "John Joseph Adams",
+        "publication_day": "1",
+        "publication_year": "2014",
+        "publication_month": "4",
+        "average_rating": "3.04",
+        "ratings_count": "207",
+        "description": "Lightspeed, April 2014 #47<br /><br /><b>Novella</b> (eBook exclusive)<br />\"The Autopsy\" by Michael Shea (reprint 1980 from <i>Magazine of fantasy &amp; Science Fiction</i>)<br /><br /><b>Short Stories - Science Fiction</b><br />\"Codename: Delphi\" by Linda Nagata<br />\"Francisca Montoya’s Almanac of Things That Can Kill You\" by Shaenon K. Garrity<br />\"Complex God\" by Scott Sigler (reprint from 2014 from <i>Robot Uprising</i>)<br />\"Exhalation\" by Ted Chiang (reprint 2008 from <i>Eclipse 2</i>)<br /><br /><b>Short Stories - Fantasy</b><br />\"Observations About Eggs from the Man Sitting Next to Me on a Flight from Chicago, Illinois to Cedar Rapids, Iowa\" by Carmen Maria Machado<br />\"The Day the World Turned Upside Down\" by Thomas Olde Heuvelt<br />\"Alsiso\" by K. J. Bishop (reprint 2004 from <i>The Alsiso Project</i>)<br />\"The Only Death in the City\" by C. J. Cherryh (reprint 1981 from <i>Sunfall</i>)<br /><br /><b>Novel Excerpts</b> (eBook exclusives)<br />\"After Party\" by Daryl Gregory<br />\"Steles of the Sky\" by Elizabeth Bear<br /><br /><b>Bonus Content</b><br />\"Legend of RoboNinja\" by Brooke Bolander<br /><br />Edited by John Joseph Adams<br />Cover Art (&amp; Artist Spotlight): Remi Le Capon",
+        "authors": {
+          "author": {
+            "id": "1161372",
+            "name": "John Joseph Adams",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p5/1161372.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p2/1161372.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1161372.John_Joseph_Adams",
+            "average_rating": "3.95",
+            "ratings_count": "73885",
+            "text_reviews_count": "6607"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "45132147",
+          "uri": "kca://work/amzn1.gr.work.v1.UxOdtKgVWh04PurTSUSZlw"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "22020140"
+        },
+        "isbn": "5170814801",
+        "isbn13": "9785170814800",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "20"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.Do0e5U4ka2dBqmPPe0U9BA",
+        "title": "История твоей жизни",
+        "title_without_series": "История твоей жизни",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398708779l/22020140._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398708779l/22020140._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/22020140",
+        "num_pages": "480",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "АСТ",
+        "publication_day": {},
+        "publication_year": "2014",
+        "publication_month": "2",
+        "average_rating": "4.24",
+        "ratings_count": "123",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2014",
+        "work": {
+          "id": "75021117",
+          "uri": "kca://work/amzn1.gr.work.v3.a0wxjO6K2KEbaz8z"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "43900157"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "2"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.a3oa5mzzDbyzO2qIc3Yjvg",
+        "title": "Die Hölle ist die Abwesenheit Gottes",
+        "title_without_series": "Die Hölle ist die Abwesenheit Gottes",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572144849l/43900157._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572144849l/43900157._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/43900157-die-h-lle-ist-die-abwesenheit-gottes",
+        "num_pages": "181",
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "Golkonda Verlag",
+        "publication_day": "1",
+        "publication_year": "2012",
+        "publication_month": "2",
+        "average_rating": "4.15",
+        "ratings_count": "118",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2012",
+        "work": {
+          "id": "75021061",
+          "uri": "kca://work/amzn1.gr.work.v3.WhJkA2EF0qeUyme7"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "18720797"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "17"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.rTknDt6D-0AmKc9BTkn48A",
+        "title": "Lightspeed Magazine, December 2012",
+        "title_without_series": "Lightspeed Magazine, December 2012",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/18720797-lightspeed-magazine-december-2012",
+        "num_pages": {},
+        "format": {},
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "4.08",
+        "ratings_count": "95",
+        "description": "Lightspeed is an online science fiction and fantasy magazine. In its pages, you will find science fiction: from near-future, sociological soft SF, to far-future, star-spanning hard SF--and fantasy: from epic fantasy, sword-and-sorcery, and contemporary urban tales, to magical realism, science-fantasy, and folktales.<br /><br />This month, We have a pair of connected fantasy stories by husband-and-wife creative duo J.T. Petty and Sarah Langan (\"Family Teeth, Part 5: American Jackal\" and \"Family Teeth, Part 6: St. Polycarp's Home for Happy Wanderers\"), along with fantasy reprints by Brian Evenson (\"An Accounting\") and Kelly Link (\"Catskin\"). Plus, we have original science fiction by D. Thomas Minton (\"Dreams in Dust\") and Ken Liu (\"The Perfect Match\"), and SF reprints by Yoon Ha Lee (\"Swanwatch\") and Marta Randall (\"Lazaro y Antonio\"). For our ebook readers, our ebook-exclusive novella is \"Story of Your Life\" by Ted Chiang, and of course we have our usual assortment of author and artist spotlights, along with feature interviews with bestseller Tad Williams and Pulitzer Prize-winning author Junot Diaz. Plus, we have an excerpt of the new Dresden Files novel, Cold Days, by Jim Butcher.",
+        "authors": {
+          "author": {
+            "id": "1161372",
+            "name": "John Joseph Adams",
+            "role": "Editor",
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p5/1161372.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1533946848p2/1161372.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/1161372.John_Joseph_Adams",
+            "average_rating": "3.95",
+            "ratings_count": "73885",
+            "text_reviews_count": "6607"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "39498004",
+          "uri": "kca://work/amzn1.gr.work.v1.3oW8tdr8IV7PqWehq_TZ1g"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "9786575"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9788375900637",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "7"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.RGdhyVRIxgm5B-KtrhksFQ",
+        "title": "Siedemdziesiąt dwie litery",
+        "title_without_series": "Siedemdziesiąt dwie litery",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/9786575-siedemdziesi-t-dwie-litery",
+        "num_pages": "384",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "Solaris",
+        "publication_day": "5",
+        "publication_year": "2010",
+        "publication_month": "8",
+        "average_rating": "4.29",
+        "ratings_count": "79",
+        "description": "Takiej książki Teda Chianga jeszcze nie było. To światowa prapremiera.<br />Drugie wydanie zbioru opowiadań Teda Chianga, najwybitniejszego autora opowiadań w amerykańskiej SF ostatnich lat.<br />Praktycznie każde jego opowiadanie – a publikuje ich niewiele, czasem tylko jedno rocznie – jest wydarzeniem literackim. Jego teksty zdobywają też liczne nagrody.<br />Zbiór „Siedemdziesiąt dwie litery” zawiera wszystkie opowiadania Chianga, jakie opublikował od początku swojej kariery. Zbiór oparto na wydaniu „Historii twojego życia”, znakomicie przyjętej w Polsce książki, zawiera jednak dwa dodatkowe opowiadania (oba nagrodzone) – a jedno z nich nigdy nie zostało w Polsce opublikowane.<br />Zawartość zbioru:<br /><br /> * „Wieża Babilonu”<br /> * „Zrozum”<br /> * „Dzielenie przez zero”<br /> * „Historia twojego życia”<br /> * „72 litery”<br /> * „Ewolucja ludzkiej nauki”<br /> * „Piekło to nieobecność Boga”<br /> * „Co ma cieszyć oczy”<br /> * „Co z nami będzie”<br /> * „Kupiec i wrota alchemika”<br /> * „Wydech”",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "19146443",
+          "uri": "kca://work/amzn1.gr.work.v1.qkWJcwSrk83Li9W07ZQ8yA"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "16069748"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9785170502097",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "1"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.K2H-WRRgEhtVO2TH4R9Lxg",
+        "title": "Купец и волшебные врата",
+        "title_without_series": "Купец и волшебные врата",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349504000l/16069748._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349504000l/16069748._SY75_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/16069748",
+        "num_pages": "384",
+        "format": "Hardcover",
+        "edition_information": {},
+        "publisher": "АСТ, АСТ Москва, ВКТ",
+        "publication_day": {},
+        "publication_year": "2010",
+        "publication_month": {},
+        "average_rating": "4.03",
+        "ratings_count": "31",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2010",
+        "work": {
+          "id": "75021080",
+          "uri": "kca://work/amzn1.gr.work.v3.VQELR1Df6Ph9WTi-"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "52665001"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.uEHc3nKQLqusUw-U",
+        "title": "What's Expected of Us",
+        "title_without_series": "What's Expected of Us",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/52665001-what-s-expected-of-us",
+        "num_pages": "4",
+        "format": "Paperback",
+        "edition_information": {},
+        "publisher": {},
+        "publication_day": {},
+        "publication_year": {},
+        "publication_month": {},
+        "average_rating": "3.78",
+        "ratings_count": "9",
+        "description": "A short science fiction story as a part of the collection 'Exhalation' by Ted Chiang.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": {},
+        "work": {
+          "id": "78476934",
+          "uri": "kca://work/amzn1.gr.work.v3.r3GgQs2m0rmB63eN"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "24531373"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": "9789659202973",
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v1.QNok6bOjt7c3ZUECF63IpA",
+        "title": "האמת בעובדה, האמת ברגש",
+        "title_without_series": "האמת בעובדה, האמת ברגש",
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421433973l/24531373._SX98_.jpg",
+        "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421433973l/24531373._SX50_.jpg",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/24531373",
+        "num_pages": "50",
+        "format": "ebook",
+        "edition_information": {},
+        "publisher": "Tera Books Publishing House",
+        "publication_day": "16",
+        "publication_year": "2015",
+        "publication_month": "1",
+        "average_rating": "4.00",
+        "ratings_count": "2",
+        "description": {},
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2015",
+        "work": {
+          "id": "76149214",
+          "uri": "kca://work/amzn1.gr.work.v3.sv4rH4MYa0YOKKQJ"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "53128694"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.nM84QNa9vQSU-8xh",
+        "title": "Omphalos",
+        "title_without_series": "Omphalos",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/53128694-omphalos",
+        "num_pages": {},
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "Knopf",
+        "publication_day": "7",
+        "publication_year": "2019",
+        "publication_month": "5",
+        "average_rating": "0.0",
+        "ratings_count": "0",
+        "description": "Novelette, first included in <a href=\"https://www.goodreads.com/book/show/41160292-exhalation\" rel=\"nofollow\">\n  <i>Exhalation: Stories</i>\n</a>.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2019",
+        "work": {
+          "id": "79837716",
+          "uri": "kca://work/amzn1.gr.work.v3.QLqnNb2x9XKQkFyU"
+        }
+      },
+      {
+        "id": {
+          "type": "integer",
+          "$t": "53128611"
+        },
+        "isbn": {
+          "nil": "true"
+        },
+        "isbn13": {
+          "nil": "true"
+        },
+        "text_reviews_count": {
+          "type": "integer",
+          "$t": "0"
+        },
+        "uri": "kca://book/amzn1.gr.book.v3.8NmRa2ljm99E_-HT",
+        "title": "Anxiety Is the Dizziness of Freedom",
+        "title_without_series": "Anxiety Is the Dizziness of Freedom",
+        "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "large_image_url": {},
+        "link": "https://www.goodreads.com/book/show/53128611-anxiety-is-the-dizziness-of-freedom",
+        "num_pages": {},
+        "format": "Kindle Edition",
+        "edition_information": {},
+        "publisher": "Knopf",
+        "publication_day": "7",
+        "publication_year": "2019",
+        "publication_month": "5",
+        "average_rating": "0.0",
+        "ratings_count": "0",
+        "description": "Novella, first included in <a href=\"https://www.goodreads.com/book/show/41160292-exhalation\" rel=\"nofollow\">\n  <i>Exhalation: Stories</i>\n</a>.",
+        "authors": {
+          "author": {
+            "id": "130698",
+            "name": "Ted Chiang",
+            "role": {},
+            "image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p5/130698.jpg"
+            },
+            "small_image_url": {
+              "nophoto": "false",
+              "$t": "https://images.gr-assets.com/authors/1399023404p2/130698.jpg"
+            },
+            "link": "https://www.goodreads.com/author/show/130698.Ted_Chiang",
+            "average_rating": "4.20",
+            "ratings_count": "99623",
+            "text_reviews_count": "12930"
+          }
+        },
+        "published": "2019",
+        "work": {
+          "id": "79837378",
+          "uri": "kca://work/amzn1.gr.work.v3.CL7dYCaYvsu-bCAQ"
+        }
+      }
+    ]
+  }
+}
